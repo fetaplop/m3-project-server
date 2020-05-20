@@ -169,10 +169,10 @@ Stop model
 
 ## Links
 
-### Trello/Kanban
+### Trello
 
-[Link to your trello board](https://trello.com/b/PBqtkUFX/curasan) 
-or picture of your physical board
+[Link to trello board](https://trello.com/b/OGpErkbe/m3-project) 
+
 
 ### Git
 
