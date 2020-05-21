@@ -35,6 +35,57 @@ This is an app that provides all the bus stops within Oulu region. A user can se
 <br>
 
 
+# Server / Backend
+
+## Models
+
+User model
+
+
+```javascript
+{
+  username: {type: String, required: true},
+  password: {type: String, required: true},
+  favStops: [{type: mongoose.Schema.Types.ObjectId, ref: "Stop"}]
+}
+```
+
+Stop model
+
+```javascript
+ {
+    name: {type: String, required: true},
+    stopId: {type: Number, required: true},
+    stopCode: {type: String, required: true},
+    longitude: {type: Number, required: true},
+    latitude: {type: Number, required: true},
+    busLines: [{type: Number}]
+ }
+```
+
+
+<br>
+
+
+## API Endpoints (backend routes)
+
+
+| HTTP Method | URL                         | Request Body              | Success status | Error Status | Description                        |
+| ----------- | --------------------------- | --------------------------| -------------- | ------------ | ---------------------------------- |
+| GET         | `/auth/user `               | Saved session             | 200            | 404          | Check if user is logged in         |
+| POST        | `/auth/signup`              | {username, password}      | 201            | 404          | Checks if fields not empty (422) and user not exists (409), then create user with encrypted password, and store user in session |
+| POST        | `/auth/login`               | {username, password}      | 200            | 401          | Checks if fields not empty (422), if user exists (404), and if password matches (404), then stores user in session |
+| POST        | `/auth/logout`              | (empty)                   | 204            | 400          | Logs out the user                    |
+| GET         | `/stops`                    |                           | 200            | 400          | Get all stops from DB                |
+| GET         | `/stops/:id`                | {id}                      | 200            | 400          | Show specific bus stop               |
+| PUT         | `/stops/:id/favourite`      | {id}                      | 200            | 400          | Add stop to user favourites array    |
+| PUT         | `/stops/:id/unfavourite`    | {id}                      | 200            | 400          | Delete stop from user favourites     |
+| GET         | `/user/favourites`          |                           | 200            | 400          | Show user's favourite bus stops      |
+| DELETE      | `/user/delete`              |                           | 201            | 400          | Delete user                          |
+
+
+<br>
+
 # Client / Frontend
 
 ## React Router Routes (React App)
@@ -88,56 +139,6 @@ This is an app that provides all the bus stops within Oulu region. A user can se
 
   - user.favourites()
   - user.delete()
-
-<br>
-
-# Server / Backend
-
-## Models
-
-User model
-
-
-```javascript
-{
-  username: {type: String, required: true},
-  password: {type: String, required: true},
-  favStops: [{type: mongoose.Schema.Types.ObjectId, ref: "Stop"}]
-}
-```
-
-Stop model
-
-```javascript
- {
-    name: {type: String, required: true},
-    stopId: {type: Number, required: true},
-    stopCode: {type: String, required: true},
-    longitude: {type: Number, required: true},
-    latitude: {type: Number, required: true},
-    busLines: [{type: Number}]
- }
-```
-
-
-<br>
-
-
-## API Endpoints (backend routes)
-
-
-| HTTP Method | URL                         | Request Body              | Success status | Error Status | Description                        |
-| ----------- | --------------------------- | --------------------------| -------------- | ------------ | ---------------------------------- |
-| GET         | `/auth/user `               | Saved session             | 200            | 404          | Check if user is logged in         |
-| POST        | `/auth/signup`              | {username, password}      | 201            | 404          | Checks if fields not empty (422) and user not exists (409), then create user with encrypted password, and store user in session |
-| POST        | `/auth/login`               | {username, password}      | 200            | 401          | Checks if fields not empty (422), if user exists (404), and if password matches (404), then stores user in session |
-| POST        | `/auth/logout`              | (empty)                   | 204            | 400          | Logs out the user                    |
-| GET         | `/stops`                    |                           | 200            | 400          | Get all stops from DB                |
-| GET         | `/stops/:id`                | {id}                      | 200            | 400          | Show specific bus stop               |
-| PUT         | `/stops/:id/favourite`      | {id}                      | 200            | 400          | Add stop to user favourites array    |
-| PUT         | `/stops/:id/unfavourite`    | {id}                      | 200            | 400          | Delete stop from user favourites     |
-| GET         | `/user/favourites`          |                           | 200            | 400          | Show user's favourite bus stops      |
-| DELETE      | `/user/delete`              |                           | 201            | 400          | Delete user                          |
 
 <br>
 
