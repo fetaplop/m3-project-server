@@ -41,17 +41,17 @@ stopRouter.post("/:id/save", (req, res, next) => {
 
     // I promise to find user and update favStops 
     User.findByIdAndUpdate(
-        { _id: req.session.currentUser._id },
-        { $push: { favStops: id } } // for unlike just the same with $pull ??
-      )
-      .then((userUpdated) => {
-          console.log('userUpdated', userUpdated)
-          res.status(201)
-          .json(userUpdated)
-      })
-      .catch((err) => next(createError(err)))
+        {_id: req.session.currentUser._id},
+        {$push: {favStops: id}} // for unlike just the same with $pull ??
+    )
+        .then((userUpdated) => {
+            console.log('userUpdated', userUpdated)
+            res.status(201)
+                .json(userUpdated)
+        })
+        .catch((err) => next(createError(err)))
 
-    
+
 })
 
 // PUT    '/stops/:id/save'
@@ -59,6 +59,7 @@ stopRouter.put("/:id/save", (req, res, next) => {
     // stop id in collection
     const {id} = req.params;
 
+    // THIS WAY IT WORKS BUT UPDATES DO NOT SHOW UP IN COMPASS
     // Stop.findById(id)
     //     .then((stop) => {
     //         console.log('stop obj that we are trying to add to favourites: ', stop)
