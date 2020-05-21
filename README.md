@@ -29,7 +29,8 @@ This is an app that provides all the bus stops within Oulu region. A user can se
 	- Convert data to a format compatible with my database
 - Filter relevant data: buses servicing this stop and their respective arrival times
 - Display received data continuously on the bus stop page
-
+- Dark theme (as default)
+- Confirm if user really wants to delete their account to avoid accidents
 
 <br>
 
@@ -39,29 +40,31 @@ This is an app that provides all the bus stops within Oulu region. A user can se
 ## React Router Routes (React App)
 | Path                      | Component            | Permissions                | Behavior                                                      |
 | ------------------------- | -------------------- | -------------------------- | ------------------------------------------------------------- |
-| `/home`                   | HomePage             | public `<Route>`    ???    | Home page, where any user can search for bus stops            |
-| `/home/:stopID`           | StopPage             | anon only `<AnonRoute>`    | Shows specific bus stop info                                  |
-| `/signup`                 | SignupPage           | anon only  `<AnonRoute>`   | Signup form, link to login, navigate to login after signup    |
+| `/home`                   | HomePage             | public `<Route>`           | Home page, where any user can search for bus stops            |
+| `/home/:stopID`           | StopPage             | public `<Route>`           | Shows specific bus stop info with fave-btn for user only      |
+| `/signup`                 | SignupPage           | anon only `<AnonRoute>`    | Signup form, link to login, navigate to login after signup    |
 | `/login`                  | LoginPage            | anon only `<AnonRoute>`    | Login form, link to signup, navigate to homepage after login  |
-| `/private`                | MyPage               | user only `<PrivateRoute>` | Displays list of saved stops                                  |
-| `/private/:stopID`        | StopPage             | user only `<PrivateRoute>` | Shows specific bus stop info with Favourite button            |
-| `/private/:stopID`        | n/a                  | user only `<PrivateRoute>` | Add to favourites                                             |
-| `/private/:stopID`        | n/a                  | user only `<PrivateRoute>` | Delete from favourites                                        |
+| `/favourites`             | MyPage               | user only `<PrivateRoute>` | Displays list of saved stops                                  |
+
 
 
 ## Components
-
-- HomePage
 
 - LoginPage
 
 - SignupPage
 
+- HomePage
+
+- Search
+
+- (Results??)
+
 - StopLink
 
 - StopPage
 
-- MyPage
+- MyFavourites
 
 - Navbar
 
@@ -73,46 +76,27 @@ This is an app that provides all the bus stops within Oulu region. A user can se
   - auth.login(user)
   - auth.signup(user)
   - auth.logout()
-  - auth.me() ???
+  - auth.me()
 
 - Stop Service
-  - stop.find()
-  - stop.list()
-  - stop.detail(id)
+  - stop.getAll()
+  - stop.getOne(id)
+  - stop.save(id)
+  - stop.unsave(id)
 
 - User Service
 
-???
-get user's favourites
-add stop to favourites
-delete stop from favourites
-
-user can search for stops both logged-in and anon ways!
-
-- Tournament Service
-  - tournament.list()
-  - tournament.detail(id)
-  - tournament.add(id)
-  - tournament.delete(id)
-  
-- Player Service 
-
-  - player.detail(id)
-  - player.add(id)
-  - player.delete(id)
-
-
-
+  - user.favourites()
+  - user.delete()
 
 <br>
 
-
 # Server / Backend
-
 
 ## Models
 
 User model
+
 
 ```javascript
 {
@@ -128,7 +112,7 @@ Stop model
  {
     name: {type: String, required: true},
     stopId: {type: Number, required: true},
-    stopCode: {type: Number, required: true},
+    stopCode: {type: String, required: true},
     longitude: {type: Number, required: true},
     latitude: {type: Number, required: true},
     busLines: [{type: Number}]
@@ -141,28 +125,19 @@ Stop model
 
 ## API Endpoints (backend routes)
 
+
 | HTTP Method | URL                         | Request Body              | Success status | Error Status | Description                        |
 | ----------- | --------------------------- | --------------------------| -------------- | ------------ | ---------------------------------- |
-| GET         | `/auth/mypage `             | Saved session             | 200            | 404          | Check if user is logged in and return profile page           |
-| POST        | `/auth/signup`              | {name, password}      | 201            | 404          | Checks if fields not empty (422) and user not exists (409), then create user with encrypted password, and store user in session |
-| POST        | `/auth/login`                 | {username, password}         | 200            | 401          | Checks if fields not empty (422), if user exists (404), and if password matches (404), then stores user in session |
-| POST        | `/auth/logout`                | (empty)                      | 204            | 400          | Logs out the user                                            |
-| GET         | `/tournaments`                |                              |                | 400          | Show all tournaments                                         |
-| GET         | `/tournaments/:id`            | {id}                         |                |              | Show specific tournament                                     |
-| POST        | `/tournaments/add-tournament` | {}                           | 201            | 400          | Create and save a new tournament                             |
-| PUT         | `/tournaments/edit/:id`       | {name,img,players}           | 200            | 400          | edit tournament                                              |
-| DELETE      | `/tournaments/delete/:id`     | {id}                         | 201            | 400          | delete tournament                                            |
-| GET         | `/players`                    |                              |                | 400          | show players                                                 |
-| GET         | `/players/:id`                | {id}                         |                |              | show specific player                                         |
-| POST        | `/players/add-player`         | {name,img,tournamentId}      | 200            | 404          | add player                                                   |
-| PUT         | `/players/edit/:id`           | {name,img}                   | 201            | 400          | edit player                                                  |
-| DELETE      | `/players/delete/:id`         | {id}                         | 200            | 400          | delete player                                                |
-| GET         | `/games`                      | {}                           | 201            | 400          | show games                                                   |
-| GET         | `/games/:id`                  | {id,tournamentId}            |                |              | show specific game                                           |
-| POST        | `/games/add-game`             | {player1,player2,winner,img} |                |              | add game                                                     |
-| POST        | `/games/add-all-games`        |                              |                |              | add all games from a tournament. Gets a list of players and populates them via algorithm. |
-| PUT         | `/games/edit/:id`             | {winner,score}               |                |              | edit game                                                    |
-
+| GET         | `/auth/user `               | Saved session             | 200            | 404          | Check if user is logged in         |
+| POST        | `/auth/signup`              | {username, password}      | 201            | 404          | Checks if fields not empty (422) and user not exists (409), then create user with encrypted password, and store user in session |
+| POST        | `/auth/login`               | {username, password}      | 200            | 401          | Checks if fields not empty (422), if user exists (404), and if password matches (404), then stores user in session |
+| POST        | `/auth/logout`              | (empty)                   | 204            | 400          | Logs out the user                    |
+| GET         | `/stops`                    |                           | 200            | 400          | Get all stops from DB                |
+| GET         | `/stops/:id`                | {id}                      | 200            | 400          | Show specific bus stop               |
+| PUT         | `/stops/:id/favourite`      | {id}                      | 200            | 400          | Add stop to user favourites array    |
+| PUT         | `/stops/:id/unfavourite`    | {id}                      | 200            | 400          | Delete stop from user favourites     |
+| GET         | `/user/favourites`          |                           | 200            | 400          | Show user's favourite bus stops      |
+| DELETE      | `/user/delete`              |                           | 201            | 400          | Delete user                          |
 
 <br>
 
