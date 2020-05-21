@@ -35,6 +35,25 @@ stopRouter.get("/:id", (req, res, next) => {
 })
 
 // PUT    '/stops/:id/save'
+stopRouter.put("/:id/save", (req, res, next) => {
+    // stop id in collection
+    const {id} = req.params;
+
+    Stop.findById(id)
+        .then((stop) => {
+            console.log('stop obj that we are trying to add to favourites: ', stop)
+
+            // this requires a check if we are logged in or no????
+            const user = req.session.currentUser;
+            console.log('user before adding new fav stop:', user)
+
+            user.favStops.push(stop)
+            console.log('user.favStops after pushing new stop to favourites: ', user.favStops)
+            res.status(201) // should be  201 (Created)
+                .json(stop) // could be removed maybe
+        })
+        .catch((err) => next(createError(err)))
+})
 
 // PUT    '/stops/:id/unsave'
 
