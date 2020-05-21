@@ -12,13 +12,27 @@ stopRouter.get("/", (req, res, next) => {
         .then((allStops) => {
             console.log('allStops: ', allStops)
             res
-            .status(200) // is it actually this :D
-            .json(allStops);
+                .status(200) // is it actually this :D
+                .json(allStops);
         })
         .catch((err) => next(createError(err)))
 })
 
+// SOS EN TIIÄ ONKO SE POSTMAN OK D:
 // GET    '/stops/:id'
+stopRouter.get("/:id", (req, res, next) => {
+    // stop id in collection
+    const {id} = req.params;
+
+    Stop.findById(id)
+        .then((stop) => {
+            console.log('stop by db id:', stop)
+            res.status(200)
+                .json(stop)
+        })
+        .catch((err) => next(createError(err)))
+
+})
 
 // PUT    '/stops/:id/save'
 
