@@ -10,13 +10,13 @@ const User = require("../models/user");
 
 
 // HELPER FUNCTIONS
-const { isLoggedIn, isNotLoggedIn, validationLogin } = require("../helpers/middlewares");
+const {isLoggedIn, isNotLoggedIn, validationLogin} = require("../helpers/middlewares");
 
 // POST   '/auth/signup'
 authRouter.post('/signup', isNotLoggedIn, validationLogin, (req, res, next) => {
-  const { username, password } = req.body;
+  const {username, password} = req.body;
 
-  User.findOne({ username })
+  User.findOne({username})
     .then((user) => {
       //  - check if the `username` exists, if it does send a response with an error
       if (user) {
@@ -27,7 +27,7 @@ authRouter.post('/signup', isNotLoggedIn, validationLogin, (req, res, next) => {
         const salt = bcrypt.genSaltSync(saltRounds);
         const hashPass = bcrypt.hashSync(password, salt);
         //     - create the new user in DB using the `username` and the encrypted password
-        User.create({ username, password: hashPass })
+        User.create({username, password: hashPass})
           .then((newUser) => {
             //     - save the newly created user in the `session`
             newUser.password = "****";
@@ -46,8 +46,8 @@ authRouter.post('/signup', isNotLoggedIn, validationLogin, (req, res, next) => {
 // POST    '/auth/login'
 authRouter.post('/login', isNotLoggedIn, validationLogin, (req, res, next) => {
 
-  const { username, password } = req.body;
-  User.findOne({ username })
+  const {username, password} = req.body;
+  User.findOne({username})
     .then((user) => {
       //  - check if user exists in the DB
       if (!user) {
