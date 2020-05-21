@@ -5,8 +5,18 @@ const createError = require("http-errors");
 
 const Stop = require("../models/Stop");
 
-// GET    '/stops'
-//stopRouter.get()
+// IMPORTANT: probably should only get the STATIC data once per login. how do we handle this?
+// GET    '/stops/'
+stopRouter.get("/", (req, res, next) => {
+    Stop.find()
+        .then((allStops) => {
+            console.log('allStops: ', allStops)
+            res
+            .status(200) // is it actually this :D
+            .json(allStops);
+        })
+        .catch((err) => next(createError(err)))
+})
 
 // GET    '/stops/:id'
 
