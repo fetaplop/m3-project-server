@@ -6,7 +6,7 @@ const createError = require("http-errors");
 const bcrypt = require("bcrypt");
 const saltRounds = 10;
 
-const User = require("../models/user");
+const User = require("../models/User");
 
 
 // HELPER FUNCTIONS

@@ -36,6 +36,7 @@ stopRouter.get("/:id", (req, res, next) => {
 })
 
 // THIS IS THE ONLY ONE THAT SEEMS TO BE WORKING
+// POST   '/stops/:id/save'
 stopRouter.post("/:id/save", (req, res, next) => {
     const {id} = req.params;
 
@@ -51,6 +52,23 @@ stopRouter.post("/:id/save", (req, res, next) => {
         })
         .catch((err) => next(createError(err)))
 
+})
+
+// POST   '/stops/:id/UNsave'
+stopRouter.post("/:id/unsave", (req, res, next) => {
+    const {id} = req.params;
+
+    // I promise to find user and update favStops 
+    User.findByIdAndUpdate(
+        {_id: req.session.currentUser._id},
+        {$pull: {favStops: id}} // for unlike $pull 
+    )
+        .then((userUpdated) => {
+            console.log('userUpdated', userUpdated)
+            res.status(200)
+                .json(userUpdated)
+        })
+        .catch((err) => next(createError(err)))
 
 })
 
