@@ -3,6 +3,9 @@ const stopRouter = express.Router();
 
 const createError = require("http-errors");
 
+// require helper function to check login
+const isLoggedIn = require("../helpers/middlewares");
+
 const Stop = require("../models/Stop");
 const User = require("../models/User")
 
@@ -35,7 +38,7 @@ stopRouter.get("/:id", (req, res, next) => {
 })
 
 // POST   '/stops/:id/save'
-stopRouter.post("/:id/save", (req, res, next) => { //isLoggedin!!!
+stopRouter.post("/:id/save", isLoggedIn, (req, res, next) => { //isLoggedin!!!
     const {id} = req.params;
 
     // I promise to find user by id and update favStops 
@@ -53,7 +56,7 @@ stopRouter.post("/:id/save", (req, res, next) => { //isLoggedin!!!
 })
 
 // POST   '/stops/:id/UNsave'
-stopRouter.post("/:id/unsave", (req, res, next) => {
+stopRouter.post("/:id/unsave", isLoggedIn, (req, res, next) => {
     const {id} = req.params;
 
     // I promise to find user and update favStops 

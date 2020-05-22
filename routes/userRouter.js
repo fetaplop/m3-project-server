@@ -3,10 +3,13 @@ const userRouter = express.Router();
 
 const createError = require("http-errors");
 
+// import helper function to check login
+const isLoggedIn = require("../helpers/middlewares");
+
 const User = require("../models/User");
 
 // GET     'user/favourites'
-userRouter.get("/favourites", (req, res, next) => { // might have to use middleware here to check login!
+userRouter.get("/favourites", isLoggedIn, (req, res, next) => { // might have to use middleware here to check login!
     const user = req.session.currentUser;
     User.findById(user._id)
         .populate("favStops")
@@ -20,7 +23,7 @@ userRouter.get("/favourites", (req, res, next) => { // might have to use middlew
 })
 
 // DELETE     'user/delete'       make a check in frontend if you really want to delete user!
-userRouter.delete("/delete", (req, res, next) => {
+userRouter.delete("/delete", isLoggedIn, (req, res, next) => {
     const user = req.session.currentUser
     console.log('user to delete:', user)
 
