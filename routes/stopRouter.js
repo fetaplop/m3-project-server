@@ -4,7 +4,7 @@ const stopRouter = express.Router();
 const createError = require("http-errors");
 
 // require helper function to check login
-const isLoggedIn = require("../helpers/middlewares");
+const {isLoggedIn} = require("../helpers/middlewares");
 
 const Stop = require("../models/Stop");
 const User = require("../models/User")
