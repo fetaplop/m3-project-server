@@ -10,7 +10,8 @@ const cors = require('cors');
 require('dotenv').config();
 
 const authRouter = require('./routes/authRouter');
-const stopRouter = require("./routes/stopRouter")
+const stopRouter = require("./routes/stopRouter");
+const userRouter = require("./routes/userRouter");
 
 
 // MONGOOSE CONNECTION
@@ -72,6 +73,7 @@ app.use('/auth', authRouter);
 // stops router here:
 app.use("/stops", stopRouter);
 // private user router here
+app.use("/user", userRouter);
 
 
 // ERROR HANDLING

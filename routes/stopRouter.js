@@ -72,6 +72,8 @@ stopRouter.post("/:id/unsave", (req, res, next) => {
 
 })
 
+// -------------------------------------------------------------------------------------------------------
+// THESE DO NOT WORK except one of them, almost...
 // PUT    '/stops/:id/save'
 stopRouter.put("/:id/save", (req, res, next) => {
     // stop id in collection
