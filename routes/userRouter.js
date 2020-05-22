@@ -31,7 +31,8 @@ userRouter.delete("/delete", isLoggedIn, (req, res, next) => {
         .then(deletedUser => {
             req.session.destroy()
             console.log('deletedUser after findByIdandRemove and req.session.', deletedUser)
-            res.status(204) // json does not seem to work after this
+            res.status(204) // json does not seem to work after this??
+                .json({}) // added this and now postman behaves but obviously we don't see any json response
         })
         .catch((err) => next(createError(err)))
 })
