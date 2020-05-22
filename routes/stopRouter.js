@@ -37,7 +37,7 @@ stopRouter.get("/:id", (req, res, next) => {
 
 // THIS IS THE ONLY ONE THAT SEEMS TO BE WORKING
 // POST   '/stops/:id/save'
-stopRouter.post("/:id/save", (req, res, next) => {
+stopRouter.post("/:id/save", (req, res, next) => { //isLoggedin!!!
     const {id} = req.params;
 
     // I promise to find user and update favStops 

@@ -3,7 +3,7 @@ const userRouter = express.Router();
 
 const createError = require("http-errors");
 
-const Stop = require("../models/Stop");
+// const Stop = require("../models/Stop"); not actually needed, I guess
 const User = require("../models/User");
 
 // GET     'user/favourites'
@@ -20,6 +20,19 @@ userRouter.get("/favourites", (req, res, next) => { // might have to use middlew
         .catch((err) => next(createError(err)))
 })
 
-// DELETE 
+// DELETE     'user/delete'       make a check in frontend if you really want to delete user!
+userRouter.delete("/delete", (req, res, next) => {
+    const user = req.session.currentUser
+    console.log('user to delete:', user)
+
+    User.findByIdAndRemove(user._id)
+        .then(deletedUser => {
+            req.session.destroy()
+            console.log('deletedUser after findByIdandRemove and req.session.', deletedUser)
+            res.status(204) // json does not seem to work after this
+        })
+        .catch((err) => next(createError(err)))
+
+})
 
 module.exports = userRouter
