@@ -78,8 +78,8 @@ Stop model
 | POST        | `/auth/logout`              | (empty)                   | 204            | 400          | Logs out the user                    |
 | GET         | `/stops`                    |                           | 200            | 400          | Get all stops from DB                |
 | GET         | `/stops/:id`                | {id}                      | 200            | 400          | Show specific bus stop               |
-| PUT         | `/stops/:id/favourite`      | {id}                      | 200            | 400          | Add stop to user favourites array    |
-| PUT         | `/stops/:id/unfavourite`    | {id}                      | 200            | 400          | Delete stop from user favourites     |
+| POST        | `/stops/:id/favourite`      | {id}                      | 200            | 400          | Add stop to user favourites array    |
+| POST        | `/stops/:id/unfavourite`    | {id}                      | 200            | 400          | Delete stop from user favourites     |
 | GET         | `/user/favourites`          |                           | 200            | 400          | Show user's favourite bus stops      |
 | DELETE      | `/user/delete`              |                           | 201            | 400          | Delete user                          |
 
