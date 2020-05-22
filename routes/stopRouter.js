@@ -6,7 +6,7 @@ const createError = require("http-errors");
 const Stop = require("../models/Stop");
 const User = require("../models/User")
 
-// IMPORTANT: probably should only get the STATIC data once per login. how do we handle this?
+// IMPORTANT: probably should only get the STATIC data once. how do we handle this? Call this route only once when the whole app is run. 
 // GET    '/stops/'
 stopRouter.get("/", (req, res, next) => {
     Stop.find()
@@ -19,7 +19,6 @@ stopRouter.get("/", (req, res, next) => {
         .catch((err) => next(createError(err)))
 })
 
-// SOS EN TIIÄ ONKO SE POSTMAN OK D:
 // GET    '/stops/:id'
 stopRouter.get("/:id", (req, res, next) => {
     // stop id in collection
@@ -35,12 +34,11 @@ stopRouter.get("/:id", (req, res, next) => {
 
 })
 
-// THIS IS THE ONLY ONE THAT SEEMS TO BE WORKING
 // POST   '/stops/:id/save'
 stopRouter.post("/:id/save", (req, res, next) => { //isLoggedin!!!
     const {id} = req.params;
 
-    // I promise to find user and update favStops 
+    // I promise to find user by id and update favStops 
     User.findByIdAndUpdate(
         {_id: req.session.currentUser._id},
         {$push: {favStops: id}} // for unlike just the same with $pull ??
@@ -72,8 +70,12 @@ stopRouter.post("/:id/unsave", (req, res, next) => {
 
 })
 
+// PHILOSOPHY HOUR: 
+// I decided to use POST for saving/unsaving fave bus stops since practically I "post a like" by hitting a button in views.
+// We edit the user profile by changing the user's favourite stops array. It could be done with PUT or in my mind, POST.
+
 // -------------------------------------------------------------------------------------------------------
-// THESE DO NOT WORK except one of them, almost...
+// THESE DO NOT WORK except one of them, almost... leaving them for now
 // PUT    '/stops/:id/save'
 stopRouter.put("/:id/save", (req, res, next) => {
     // stop id in collection

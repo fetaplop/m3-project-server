@@ -3,7 +3,6 @@ const userRouter = express.Router();
 
 const createError = require("http-errors");
 
-// const Stop = require("../models/Stop"); not actually needed, I guess
 const User = require("../models/User");
 
 // GET     'user/favourites'
@@ -32,7 +31,6 @@ userRouter.delete("/delete", (req, res, next) => {
             res.status(204) // json does not seem to work after this
         })
         .catch((err) => next(createError(err)))
-
 })
 
 module.exports = userRouter
