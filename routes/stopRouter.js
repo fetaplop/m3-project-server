@@ -10,6 +10,7 @@ const Stop = require("../models/Stop");
 const User = require("../models/User")
 
 // IMPORTANT: probably should only get the STATIC data once. how do we handle this? Call this route only once when the whole app is run. 
+// so this is taken care of now when we only call this in ComponentDidMount when we land the home page ^^
 // GET    '/stops/'
 stopRouter.get("/", (req, res, next) => {
     Stop.find()
