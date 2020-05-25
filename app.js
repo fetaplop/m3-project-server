@@ -33,7 +33,7 @@ const app = express();
 app.use(
   cors({
     credentials: true,
-    origin: [process.env.PUBLIC_DOMAIN],
+    origin: [process.env.PUBLIC_DOMAIN, 'https://oulu-bus-stops.herokuapp.com'],
   }),
 );
 // app.use((req, res, next) => {
@@ -74,6 +74,12 @@ app.use('/auth', authRouter);
 app.use("/stops", stopRouter);
 // private user router here:
 app.use("/user", userRouter);
+
+// ROUTE FOR SERVING REACT APP (index.html)
+app.use((req, res) => {
+  // If no routes match, send them the React HTML.
+  res.sendFile(__dirname + "/public/index.html");
+});
 
 
 // ERROR HANDLING
