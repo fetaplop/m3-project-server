@@ -72,7 +72,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/auth', authRouter);
 // stops router here:
 app.use("/stops", stopRouter);
-// private user router here
+// private user router here:
 app.use("/user", userRouter);
 
 
