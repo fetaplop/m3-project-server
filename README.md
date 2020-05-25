@@ -162,8 +162,8 @@ The url to your repository and to your deployed project
 
 ### Slides
 
-The url to your presentation slides
+Link to presentation slides:
 
-[Slides Link](http://slides.com)
+[Google docs](https://docs.google.com/presentation/d/19Opyk2assP9dvp23J3F6bSyP0neStAKX_ojzPP3TPZo/edit#slide=id.g85cc0abd99_0_45)
 
 
