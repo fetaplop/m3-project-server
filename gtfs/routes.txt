@@ -1,0 +1,124 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+15,47258,15,Nallikari - Mäntylä,,3,,3300cc,ffffff
+41,47258,41,Oulu - Muhos - Oulu,,3,,000000,ffffff
+240,6750,23AS,Alaranta- Ii - Haukipudas - Linnanmaa - Oulu-OYS,,3,,000000,ffffff
+10,6750,10,Koskela - Heikinharju,,3,,3300cc,ffffff
+385,6750,38JL,Ylikiiminki - Haukipudas,,3,,000000,ffffff
+441,6750,4A,Herukka - Heikkilänkangas,,3,,3300cc,ffffff
+237,6750,23,Ii - Haukipudas - Linnanmaa - Oulu,,3,,000000,ffffff
+74,47258,7N,Keskusta - Saarela - Kivikkokangas,,3,,3300cc,ffffff
+524,47258,52K,Liminka - Tupos - Pirilä - Oulu,,3,,000000,ffffff
+244,6750,23S,Ii - Haukipudas - Linnanmaa - Oulu-OYS,,3,,000000,ffffff
+292,6750,29M,Ii - Yli-Ii,,3,,000000,ffffff
+106,48315,BK,Medipolis - keskusta,,3,,666666,ffffff
+410,46673,41,Oulu - Muhos - Oulu,,3,,000000,ffffff
+412,47258,41K,Oulu - Muhos - Oulu,,3,,000000,ffffff
+413,46673,41A,Oulu - Muhos - Oulu,,3,,000000,ffffff
+541,47258,54,Liminka - Tyrnävä - Oulu,,3,,000000,ffffff
+442,6750,4N,Keskusta - Heikkilänkangas,,3,,3300cc,ffffff
+882,6750,8B,Keskusta - Lentoasema,,3,,3300cc,ffffff
+204,6750,20N,Keskusta - Martinniemi,,3,,000000,ffffff
+105,48315,B,Keskusta - Medipolis,,3,,666666,ffffff
+388,6750,38Y,Kiiminki - Ylikiiminki,,3,,000000,ffffff
+991,6750,9V,Heikinharju - Lentoasema,,3,,3300cc,ffffff
+404,46673,40A,Oulu - Muhos,,3,,000000,ffffff
+64,47258,64,Salonpää - Pajuniemi - Oulunsalo,,3,,000000,ffffff
+54,47258,54B,Tyrnävä - Oulu,,3,,000000,ffffff
+9021,6915,48,Utajärvi - Muhos,,3,,000000,ffffff
+20,6750,20,Martinniemi - OSAO,,3,,000000,ffffff
+383,6750,38B,Haukipudas - Kiiminki,,3,,000000,ffffff
+239,6750,23S,Ii - Haukipudas - Linnanmaa - Oulu-OYS,,3,,000000,ffffff
+4,6750,4,Herukka - Iinatti,,3,,3300cc,ffffff
+243,6750,23B,Ii - Oulu,,3,,000000,ffffff
+28,6750,28,Ii - Linnanmaa - Oulu - OYS,,3,,000000,ffffff
+35,6750,35,Kiiminki - Oulu,,3,,000000,ffffff
+203,6750,20N,Keskusta - Martinniemi,,3,,000000,ffffff
+262,6750,26,Oulu - AOL,,3,,000000,ffffff
+21,6750,21,Kellon Kiviniemi - Oulunsuu,,3,,000000,ffffff
+386,46673,38Y,Ylikiiminki - Kiiminki,,3,,000000,ffffff
+354,6750,35N,Oulu - Jääli -  Kiiminki,,3,,000000,ffffff
+363,46673,36,Ylikiiminki - Oulu,,3,,000000,ffffff
+233,6750,23AB,Alaranta - Ii - Oulu,,3,,000000,ffffff
+34,6750,34,Jääli - Oulu,,3,,000000,ffffff
+563,47258,56AK,Kempele - Tyrnävä,,3,,000000,ffffff
+104,48315,A,Keskusta - Värttö,,3,,666666,ffffff
+71,48315,7N,Keskusta - Saarela,,3,,3300cc,ffffff
+568,47258,56BK,Murto - Tyrnävä,,3,,000000,ffffff
+107,48315,C,Keskusta - Limingantulli,,3,,666666,ffffff
+14,6750,14,Välivainio - Lintula,,3,,3300cc,ffffff
+641,47258,64V,Salonpää - Pajuniemi - Oulunsalo,,3,,000000,ffffff
+361,47258,36,Ylikiiminki - Oulu,,3,,000000,ffffff
+567,47258,56M,Kempele - Tyrnävä,,3,,000000,ffffff
+151,6750,15N,Keskusta - Nallikari,,3,,3300cc,ffffff
+561,47258,56,Kempele - Tyrnävä,,3,,000000,ffffff
+401,47258,40K,Oulu - Muhos - Oulu,,3,,000000,ffffff
+202,6750,20K,Martinniemi - OSAO,,3,,000000,ffffff
+52,47258,52,Liminka - Kempele - Oulu,,3,,000000,ffffff
+26,6750,26,Oulu - AOL,,3,,000000,ffffff
+214,6750,21,OSAO - Kellon Kiviniemi viim.,,3,,000000,ffffff
+39,6750,39,Kiiminki - Yli-Ii,,3,,000000,ffffff
+534,47258,53K,Lumijoki - Liminka - Kempele - Oulu,,3,,000000,ffffff
+403,47258,40V,Oulu - Laukan silta - Muhos,,3,,000000,ffffff
+1,6750,1,Jylkynkangas - Metelinkangas,,3,,3300cc,ffffff
+532,47258,53R,Lumijoki - Liminka -  Vt8 - Oulu,,3,,000000,ffffff
+231,6750,23K,Ii - Putaankylä - Oulu - OSAO,,3,,000000,ffffff
+593,6952,59,Hailuoto - Oulu,,3,,000000,ffffff
+500,48315,50,Haapamaa - Kempele - Oulu,,3,,000000,ffffff
+9,6750,9,Lentoasema - Heikinharju,,3,,3300cc,ffffff
+11,6750,11,Kivikkokangas - Keskusta,,3,,3300cc,ffffff
+594,6952,59S,Hailuoto - Oulu - OYS,,3,,000000,ffffff
+238,6750,23A,Alaranta- Ii - Haukipudas - Linnanmaa - Oulu,,3,,000000,ffffff
+566,47258,56M,Kempele - Tyrnävä,,3,,000000,ffffff
+40,47258,40,Oulu - Muhos - Oulu,,3,,000000,ffffff
+402,47258,40A,Oulu - Muhos,,3,,000000,ffffff
+1072,48315,C,Keskusta - Limingantulli,,3,,666666,ffffff
+23,6750,23,Ii - Oulu,,3,,000000,ffffff
+242,6750,23K,Ii - Putaankylä - Oulu - OSAO,,3,,000000,ffffff
+5,6750,5,Keskusta - Kivikkokangas,,3,,3300cc,ffffff
+8,6750,8,Lentoasema - Teknologiakylä,,3,,3300cc,ffffff
+211,6750,21,Kellon Kiviniemi - Oulunsuu,,3,,000000,ffffff
+232,6750,23A,Alaranta - Ii - Oulu - OSAO,,3,,000000,ffffff
+201,6750,20B,Martinniemi - OYS,,3,,000000,ffffff
+400,46673,40,Oulu - Muhos - Oulu,,3,,000000,ffffff
+387,6750,38AM,Alakylä - Mannintie - Ylikiiminki,,3,,000000,ffffff
+150,6750,15,Nallikari - Mäntylä,,3,,3300cc,ffffff
+7,48315,7,Saarela - Puolivälinkangas,,3,,3300cc,ffffff
+1042,48315,A,Keskusta - Värttö,,3,,666666,ffffff
+384,6750,38BJL,Haukipudas - Kiiminki,,3,,000000,ffffff
+9026,7172,49,Oulu - Muhos - Utajärvi,,3,,000000,ffffff
+381,6750,38A,Alakylä - Ylikiiminki,,3,,000000,ffffff
+241,6750,23,Ii - Oulu,,3,,000000,ffffff
+111,6750,11,Kivikkokangas - Keskusta,,3,,3300cc,ffffff
+411,47258,41A,Oulu - Muhos - Oulu,,3,,000000,ffffff
+213,6750,21,Kellon Kiviniemi - OSAO,,3,,000000,ffffff
+382,6750,38AB,Kiiminki - Alakylä,,3,,000000,ffffff
+234,6750,23B,Ii - Oulu,,3,,000000,ffffff
+261,6750,26,Oulu - AOL,,3,,000000,ffffff
+522,47258,52A,Lumijoki - Liminka - Kempele - Oulu,,3,,000000,ffffff
+994,6750,9B,Keskusta - Lentoasema,,3,,3300cc,ffffff
+72,48315,7N,Keskusta - Saarela - Kivikkokangas,,3,,3300cc,ffffff
+405,46673,40V,Oulu - Laukan silta - Muhos,,3,,000000,ffffff
+56,47258,56,Kempele - Tyrnävä,,3,,000000,ffffff
+38,6750,38,Ylikiiminki - Haukipudas,,3,,000000,ffffff
+29,6750,29,Ii - Yli-Ii,,3,,000000,ffffff
+17,6750,17,Talvikangas - keskusta,,3,,3300cc,ffffff
+53,47258,53,Lumijoki - Liminka - Oulu (Vt4),,3,,000000,ffffff
+57,47258,57,Murto - Oulu,,3,,000000,ffffff
+562,47258,56B,Murto - Tyrnävä,,3,,000000,ffffff
+25,6750,25,Jokela - OSAO,,3,,000000,ffffff
+533,47258,53A,Peruskoulu - Lumijoki - Liminka - Oulu,,3,,000000,ffffff
+995,6750,9VB,Keskusta - Lentoasema,,3,,3300cc,ffffff
+353,6750,35K,Kiiminki - Jääli - Oulu,,3,,000000,ffffff
+511,48315,51,Kempele - Oulu,,3,,000000,ffffff
+1052,48315,B,Keskusta - Medipolis,,3,,666666,ffffff
+362,46673,36,Ylikiiminki - Oulu,,3,,000000,ffffff
+22,6750,22,Asemakylä - OSAO,,3,,000000,ffffff
+31,6750,3,Aaltokangas - Kaakkuri,,3,,3300cc,ffffff
+50,48315,50,Haapamaa - Kempele - Oulu - Oulunsuu,,3,,000000,ffffff
+73,47258,7,Saarela - Puolivälinkangas,,3,,3300cc,ffffff
+2,6750,2,Ritaharju - Metsokangas,,3,,3300cc,ffffff
+569,47258,56BM,Kempele - Tyrnävä,,3,,000000,ffffff
+1062,48315,BK,Medipolis - keskusta,,3,,666666,ffffff
+642,47258,64B,Salonpää - Pajuniemi - Oulunsalo,,3,,000000,ffffff
+221,6750,2N,Ritaharju - Metsokangas,,3,,3300cc,ffffff
+523,47258,52,Tyrnävä - Liminka - Kempele - Oulu,,3,,000000,ffffff

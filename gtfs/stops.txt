@@ -1,0 +1,1968 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone
+101614,1395,Kuivala E,,65.174872,25.576205,4,http://oulunliikenne.fi/1395,0,,Europe/Helsinki
+101635,1486,Haipuskylä P,,65.134743,25.694296,3,http://oulunliikenne.fi/1486,0,,Europe/Helsinki
+150157,2580,Pitkäkankaantie E,,64.94142,25.39673,3,http://oulunliikenne.fi/2580,0,,Europe/Helsinki
+310719,4012,Liikkujantie E,,65.00197642616308,25.60864894740764,2,http://oulunliikenne.fi/4012,0,,Europe/Helsinki
+121535,2009,Kalliola E,,65.02523100000002,25.487032,2,http://oulunliikenne.fi/2009,0,,Europe/Helsinki
+189531,2942,Koivikko P,,64.816295,25.967353,4,http://oulunliikenne.fi/2942,0,,Europe/Helsinki
+101705,1147,Pajarinperä E,,65.321511,25.545624,4,http://oulunliikenne.fi/1147,0,,Europe/Helsinki
+169586,3117,Toppilansaarentie E2,,65.032039,25.42602,2,http://oulunliikenne.fi/3117,0,,Europe/Helsinki
+101062,2691,Kempeleen yläaste P,,64.917046,25.477238,3,http://oulunliikenne.fi/2691,0,,Europe/Helsinki
+98777,2977,Muhoksen keskusta E,,64.80723500000002,25.994831,4,http://oulunliikenne.fi/2977,0,,Europe/Helsinki
+150058,2813,Ketolanperä P,,64.869575,25.587953,3,http://oulunliikenne.fi/2813,0,,Europe/Helsinki
+301593,2768,Ketolanperäntie,,64.894887,25.546434,3,http://oulunliikenne.fi/2768,0,,Europe/Helsinki
+184256,1224,Rajala P,,65.303567,25.54908,4,http://oulunliikenne.fi/1224,0,,Europe/Helsinki
+307190,3321,Ritakierros E,,65.08381300000002,25.453834,2,http://oulunliikenne.fi/3321,0,,Europe/Helsinki
+148495,1197,Jakkila E,,65.316217,25.350254,4,http://oulunliikenne.fi/1197,0,,Europe/Helsinki
+183955,3174,Pesätie P,,64.952362,25.536037,2,http://oulunliikenne.fi/3174,0,,Europe/Helsinki
+101524,1461,Luostarinvainio E,,65.146475,25.35153,3,http://oulunliikenne.fi/1461,0,,Europe/Helsinki
+98804,8222,Parpala P,,64.7777,26.2948,5,http://oulunliikenne.fi/8222,0,,Europe/Helsinki
+307136,3072,Lumijoen peruskoulu P,,64.84181700000002,25.179769,4,http://oulunliikenne.fi/3072,0,,Europe/Helsinki
+101688,1177,Iin terveyskeskus P,,65.31923500000002,25.408156,4,http://oulunliikenne.fi/1177,0,,Europe/Helsinki
+189729,2804,Laivurintie E,,64.87035,25.887555,4,http://oulunliikenne.fi/2804,0,,Europe/Helsinki
+121087,2481,Kuukkelitie P,,64.96021,25.556948,2,http://oulunliikenne.fi/2481,0,,Europe/Helsinki
+120930,2291,Suohaukka E,,64.98845,25.522958,2,http://oulunliikenne.fi/2291,0,,Europe/Helsinki
+97687,1368,Jokela P,,65.182876,25.500822,4,http://oulunliikenne.fi/1368,0,,Europe/Helsinki
+188710,3329,Susitie P,,65.033137,25.474909,2,http://oulunliikenne.fi/3329,0,,Europe/Helsinki
+150071,2862,Bask E,,64.849524,25.636842,3,http://oulunliikenne.fi/2862,0,,Europe/Helsinki
+309976,3391,Ritaharjun koulu E,,65.080248,25.456944,2,http://oulunliikenne.fi/3391,0,,Europe/Helsinki
+101663,1652,Huttukylä th P,,65.079691,25.847289,3,http://oulunliikenne.fi/1652,0,,Europe/Helsinki
+120687,1981,Nallikari P,,65.02825,25.415567,2,http://oulunliikenne.fi/1981,0,,Europe/Helsinki
+98499,1621,Hamari P,,65.0889,25.676549,3,http://oulunliikenne.fi/1621,0,,Europe/Helsinki
+307210,1957,Loimukoivunpuisto E,,65.03179657000167,25.56042662487392,2,http://oulunliikenne.fi/1957,0,,Europe/Helsinki
+120358,1576,Lappotie E,,65.112915,25.33549,3,http://oulunliikenne.fi/1576,0,,Europe/Helsinki
+101714,1215,Jakkukylä E,,65.309685,25.614854,4,http://oulunliikenne.fi/1215,0,,Europe/Helsinki
+148099,2349,Eskelisentie E,,64.97885,25.628099,2,http://oulunliikenne.fi/2349,0,,Europe/Helsinki
+120429,1632,Järvitie P,,65.08452,25.698715,3,http://oulunliikenne.fi/1632,0,,Europe/Helsinki
+101097,8311,Potti E,,65.0599,24.8785,5,http://oulunliikenne.fi/8311,0,,Europe/Helsinki
+169658,3094,Peuraniemi E,,64.830963,25.687692,4,http://oulunliikenne.fi/3094,0,,Europe/Helsinki
+120945,2312,Kolehmaisentie P,,64.985344,25.577291,2,http://oulunliikenne.fi/2312,0,,Europe/Helsinki
+190175,2579,Koura P,,64.940766,25.425393,3,http://oulunliikenne.fi/2579,0,,Europe/Helsinki
+190222,2561,Lassila E,,64.945394,25.399158,3,http://oulunliikenne.fi/2561,0,,Europe/Helsinki
+101011,2940,Hirvasniemi P,,64.825883,25.252645,4,http://oulunliikenne.fi/2940,0,,Europe/Helsinki
+190168,2523,Lentokentän th E2,,64.955232,25.503347,2,http://oulunliikenne.fi/2523,0,,Europe/Helsinki
+97713,1236,Liedes E,,65.30107700000002,25.374512,4,http://oulunliikenne.fi/1236,0,,Europe/Helsinki
+120455,1681,Kuuselantie E,,65.077101,25.398012,2,http://oulunliikenne.fi/1681,0,,Europe/Helsinki
+120756,2061,Kuparilammintie P,,65.017144,25.543478,2,http://oulunliikenne.fi/2061,0,,Europe/Helsinki
+120842,2178,OYS asunnot P,,65.002921800294,25.52585884066798,2,http://oulunliikenne.fi/2178,0,,Europe/Helsinki
+120626,1876,Menninkäisentie E,,65.043229,25.479259,2,http://oulunliikenne.fi/1876,0,,Europe/Helsinki
+300419,1796,Puulinnanmaa P,,65.055656,25.462143,2,http://oulunliikenne.fi/1796,0,,Europe/Helsinki
+120822,2151,Ratakatu P,,65.00718000000002,25.483325,2,http://oulunliikenne.fi/2151,0,,Europe/Helsinki
+98782,2994,Leppiniemi th E,,64.80512400000002,26.011768,4,http://oulunliikenne.fi/2994,0,,Europe/Helsinki
+101555,1800,Keulapuisto E,,65.055655,25.443515,2,http://oulunliikenne.fi/1800,0,,Europe/Helsinki
+121089,2482,Sadekuja P,,64.959767,25.552971,2,http://oulunliikenne.fi/2482,0,,Europe/Helsinki
+120974,2342,Jättikivenkatu E,,64.981835,25.569617,2,http://oulunliikenne.fi/2342,0,,Europe/Helsinki
+120395,1616,Timolantie P,,65.09424300000002,25.420599,2,http://oulunliikenne.fi/1616,0,,Europe/Helsinki
+190180,8320,Päätalo P,,65.0536,24.7926,5,http://oulunliikenne.fi/8320,0,,Europe/Helsinki
+150082,2929,Aaltomaa P,,64.825558,25.688228,4,http://oulunliikenne.fi/2929,0,,Europe/Helsinki
+101736,1089,Kaisto P (PP),,65.346367,25.746334,5,http://oulunliikenne.fi/1089,0,,Europe/Helsinki
+120317,1528,Sammaloja E,,65.125016,25.755118,3,http://oulunliikenne.fi/1528,0,,Europe/Helsinki
+101671,8004,Ruunakangas P,,65.14776500000002,25.782307,3,http://oulunliikenne.fi/8004,0,,Europe/Helsinki
+101130,8345,Kittiläntie P,,65.0081,24.6881,5,http://oulunliikenne.fi/8345,0,,Europe/Helsinki
+120606,1856,Tuiskutie P,,65.044352,25.588311,2,http://oulunliikenne.fi/1856,0,,Europe/Helsinki
+101269,1849,Lamu P,,65.04053500000002,25.888684,4,http://oulunliikenne.fi/1849,0,,Europe/Helsinki
+101517,1428,Viikki P,,65.167293,25.347847,3,http://oulunliikenne.fi/1428,0,,Europe/Helsinki
+98792,8209,Torpparintie P,,64.7923,26.0921,5,http://oulunliikenne.fi/8209,0,,Europe/Helsinki
+101653,1524,Korkeamaantie P,,65.12382700000002,25.792873,3,http://oulunliikenne.fi/1524,0,,Europe/Helsinki
+101036,3023,Myllykuja E,,64.808148,25.392719,4,http://oulunliikenne.fi/3023,0,,Europe/Helsinki
+120721,2024,Yrjänäntie P,,65.02345800000002,25.530465,2,http://oulunliikenne.fi/2024,0,,Europe/Helsinki
+150158,2575,Pitkäkankaantie P2,,64.942396,25.397327,3,http://oulunliikenne.fi/2575,0,,Europe/Helsinki
+121035,2420,Heikkilänkangas E,,64.96853400000002,25.607832,2,http://oulunliikenne.fi/2420,0,,Europe/Helsinki
+120641,1917,Tupasvillatie P,,65.036743,25.573916,2,http://oulunliikenne.fi/1917,0,,Europe/Helsinki
+183967,3180,Savotta-aukio P,,64.944861,25.572923,2,http://oulunliikenne.fi/3180,0,,Europe/Helsinki
+190215,2884,Tupoksentie P,,64.84267800000002,25.474214,4,http://oulunliikenne.fi/2884,0,,Europe/Helsinki
+101099,8313,Pököntien th P,,65.0612,24.8671,5,http://oulunliikenne.fi/8313,0,,Europe/Helsinki
+101262,1883,Jääkärintie E,,65.038962,25.702338,3,http://oulunliikenne.fi/1883,0,,Europe/Helsinki
+309968,2549,Kaislaranta E,,64.953067,25.393227,3,http://oulunliikenne.fi/2549,0,,Europe/Helsinki
+120981,2353,Kangasrinne E,,64.978743,25.582176,2,http://oulunliikenne.fi/2353,0,,Europe/Helsinki
+97686,2944,Temmesjoki E,,64.823263,25.450753,4,http://oulunliikenne.fi/2944,0,,Europe/Helsinki
+148110,2431,Peräkylä th P,,64.963079,25.691004,3,http://oulunliikenne.fi/2431,0,,Europe/Helsinki
+101073,2428,Väliranta P,,64.968099,25.356949,3,http://oulunliikenne.fi/2428,0,,Europe/Helsinki
+98734,2726,Harakkamäki E,,64.905514,25.789765,3,http://oulunliikenne.fi/2726,0,,Europe/Helsinki
+120786,2098,Raksila P,,65.011819,25.490549,2,http://oulunliikenne.fi/2098,0,,Europe/Helsinki
+150095,3044,Korkala E,,64.786517,25.693449,4,http://oulunliikenne.fi/3044,0,,Europe/Helsinki
+120713,2013,Merikoskenkatu E2,,65.024726,25.469128,2,http://oulunliikenne.fi/2013,0,,Europe/Helsinki
+190196,1573,Holstinmäki P,,65.114515,25.381683,3,http://oulunliikenne.fi/1573,0,,Europe/Helsinki
+101533,1556,Hietalanmäki P,,65.119458,25.375036,3,http://oulunliikenne.fi/1556,0,,Europe/Helsinki
+190227,2447,Santaniemi P,,64.968329,25.25854,3,http://oulunliikenne.fi/2447,0,,Europe/Helsinki
+150090,3000,Tulilanton th P,,64.806383,25.707242,4,http://oulunliikenne.fi/3000,0,,Europe/Helsinki
+120374,1594,Seelannintie E,,65.09893,25.419363,2,http://oulunliikenne.fi/1594,0,,Europe/Helsinki
+148189,2803,Laivurintie P,,64.870732,25.887117,4,http://oulunliikenne.fi/2803,0,,Europe/Helsinki
+98737,2765,Oulun ja Muhoksen raja P,,64.892815,25.807969,4,http://oulunliikenne.fi/2765,0,,Europe/Helsinki
+121077,2470,Kivitaskunkuja E,,64.96114,25.559502,2,http://oulunliikenne.fi/2470,0,,Europe/Helsinki
+184257,1223,Rajala E,,65.303438,25.54868,4,http://oulunliikenne.fi/1223,0,,Europe/Helsinki
+121215,2646,Lentoasema,,64.928551,25.374482,3,http://oulunliikenne.fi/2646,0,,Europe/Helsinki
+120830,2163,Sarkkapuisto E,,65.005113,25.529629,2,http://oulunliikenne.fi/2163,0,,Europe/Helsinki
+101515,1424,Revontie P,,65.172083,25.350238,3,http://oulunliikenne.fi/1424,0,,Europe/Helsinki
+120741,2046,Koivumaantien ostoskeskus P,,65.019639,25.551914,2,http://oulunliikenne.fi/2046,0,,Europe/Helsinki
+189278,3341,Tyrnävä,,64.764546,25.651217,4,http://oulunliikenne.fi/3341,0,,Europe/Helsinki
+148174,2757,Roininen E,,64.89341400000002,25.853427,4,http://oulunliikenne.fi/2757,0,,Europe/Helsinki
+150375,1166,Haminan koulu P,,65.322759,25.375213,4,http://oulunliikenne.fi/1166,0,,Europe/Helsinki
+150376,1165,Haminan koulu E,,65.322701,25.373993,4,http://oulunliikenne.fi/1165,0,,Europe/Helsinki
+301899,2230,Knuutilanranta E,,64.995778,25.558633,2,http://oulunliikenne.fi/2230,0,,Europe/Helsinki
+101272,1847,Ahmasjärventie E,,65.039599,25.901653,4,http://oulunliikenne.fi/1847,0,,Europe/Helsinki
+148226,2863,Montan leirintäalue E,,64.842458,26.007658,4,http://oulunliikenne.fi/2863,0,,Europe/Helsinki
+189585,8220,Uutela P,,64.7819,26.2649,5,http://oulunliikenne.fi/8220,0,,Europe/Helsinki
+185120,2687,Linnakangastalo P,,64.923112,25.557633,3,http://oulunliikenne.fi/2687,0,,Europe/Helsinki
+150051,2790,Kerttula E,,64.886821,25.563866,3,http://oulunliikenne.fi/2790,0,,Europe/Helsinki
+307139,2239,Tyrnäväntie E,,64.996054,25.458278,1,http://oulunliikenne.fi/2239,0,,Europe/Helsinki
+101233,3053,Kotimetsä P,,64.775393,25.679248,4,http://oulunliikenne.fi/3053,0,,Europe/Helsinki
+150368,1322,Kiimingintien th P,,65.193378,25.447562,4,http://oulunliikenne.fi/1322,0,,Europe/Helsinki
+101549,1709,Kuivasojan koulu E,,65.07264600000002,25.409314,2,http://oulunliikenne.fi/1709,0,,Europe/Helsinki
+120795,2108,OYS E,,65.0108,25.518753,2,http://oulunliikenne.fi/2108,0,,Europe/Helsinki
+98765,2902,Huovisentie E,,64.82933800000002,25.923079,4,http://oulunliikenne.fi/2902,0,,Europe/Helsinki
+101643,1481,Lukkarintie P,,65.13318700000002,25.752839,3,http://oulunliikenne.fi/1481,0,,Europe/Helsinki
+101528,1517,Isohätälä E,,65.131715,25.357922,3,http://oulunliikenne.fi/1517,0,,Europe/Helsinki
+190427,3337,Zeppelinin ramppi P,,64.904454,25.536684,3,http://oulunliikenne.fi/3337,0,,Europe/Helsinki
+120809,2126,Linja-autoasema P,,65.008839,25.484227,2,http://oulunliikenne.fi/2126,0,,Europe/Helsinki
+187987,2542,Lepola E,,64.951872,25.508297,2,http://oulunliikenne.fi/2542,0,,Europe/Helsinki
+148122,2526,Turkka P,,64.94967800000002,25.729558,3,http://oulunliikenne.fi/2526,0,,Europe/Helsinki
+150355,1267,Ukkolanperän th E2,,65.2295,25.361,3,http://oulunliikenne.fi/1267,0,,Europe/Helsinki
+183968,3181,Lähimetsä P,,64.946576,25.57023,2,http://oulunliikenne.fi/3181,0,,Europe/Helsinki
+98711,2441,Konttisenkangas E,,64.963341,25.635224,2,http://oulunliikenne.fi/2441,0,,Europe/Helsinki
+101080,2397,Kelanmutka P,,64.974212,25.308192,3,http://oulunliikenne.fi/2397,0,,Europe/Helsinki
+152751,1805,Puuperäntie P,,65.051633,25.627437,2,http://oulunliikenne.fi/1805,0,,Europe/Helsinki
+116064,2180,Harjapuisto E,,65.00335,25.463291,2,http://oulunliikenne.fi/2180,0,,Europe/Helsinki
+121055,2445,Jousenkaari E,,64.96558400000002,25.537644,2,http://oulunliikenne.fi/2445,0,,Europe/Helsinki
+120753,2058,Nahkatehtaankatu P,,65.019473,25.485385,2,http://oulunliikenne.fi/2058,0,,Europe/Helsinki
+121041,2427,Väliranta E,,64.968705,25.3549,3,http://oulunliikenne.fi/2427,0,,Europe/Helsinki
+153149,3027,Värminkosken th P2,,64.807362,25.398807,4,http://oulunliikenne.fi/3027,0,,Europe/Helsinki
+120755,2060,Raatti P,,65.020482,25.468162,2,http://oulunliikenne.fi/2060,0,,Europe/Helsinki
+189586,8233,Kotikuja P,,64.7747,26.3998,5,http://oulunliikenne.fi/8233,0,,Europe/Helsinki
+148489,1209,Partanen P,,65.310196,25.590652,4,http://oulunliikenne.fi/1209,0,,Europe/Helsinki
+97706,1255,Hätälä P,,65.269741,25.362947,4,http://oulunliikenne.fi/1255,0,,Europe/Helsinki
+101743,1075,Keskikylä P,,65.359816,25.781775,5,http://oulunliikenne.fi/1075,0,,Europe/Helsinki
+189530,2919,Tyrnävän th P,,64.824007,25.937719,4,http://oulunliikenne.fi/2919,0,,Europe/Helsinki
+120707,2006,Laamannintie E,,65.02371,25.513348,2,http://oulunliikenne.fi/2006,0,,Europe/Helsinki
+148097,2311,Sanginjoen th E,,64.983375,25.618777,2,http://oulunliikenne.fi/2311,0,,Europe/Helsinki
+101534,1557,Hietalanmäki E,,65.119235,25.375092,3,http://oulunliikenne.fi/1557,0,,Europe/Helsinki
+120986,2359,Kivipellon aukio P,,64.977563,25.586348,2,http://oulunliikenne.fi/2359,0,,Europe/Helsinki
+171807,2347,Joulumerkinpolku P,,64.981077,25.483702,2,http://oulunliikenne.fi/2347,0,,Europe/Helsinki
+183984,3197,Kuivasrannanaukio P,,65.076187,25.452713,2,http://oulunliikenne.fi/3197,0,,Europe/Helsinki
+120083,1276,Heinonpolku E,,65.222033,25.300878,3,http://oulunliikenne.fi/1276,0,,Europe/Helsinki
+308266,2751,Kitulankuja E,,64.900503,25.542368,3,http://oulunliikenne.fi/2751,0,,Europe/Helsinki
+120544,1770,Yliopisto P,,65.058942,25.469927,2,http://oulunliikenne.fi/1770,0,,Europe/Helsinki
+120519,1745,Kukkonen E,,65.062598,25.495156,2,http://oulunliikenne.fi/1745,0,,Europe/Helsinki
+120503,1729,Poukamapolku P,,65.06672500000002,25.499663,2,http://oulunliikenne.fi/1729,0,,Europe/Helsinki
+101040,3138,Lumijoentie E,,64.806566,25.410069,4,http://oulunliikenne.fi/3138,0,,Europe/Helsinki
+120823,2152,Teuvo Pakkala P,,65.006364,25.486997,2,http://oulunliikenne.fi/2152,0,,Europe/Helsinki
+101294,1913,Ukonkangas E,,65.02990800000002,26.114857,4,http://oulunliikenne.fi/1913,0,,Europe/Helsinki
+121326,2878,Murron koulu P,,64.841903,25.670044,4,http://oulunliikenne.fi/2878,0,,Europe/Helsinki
+164367,3106,Nupputie E,,65.072948,25.459705,2,http://oulunliikenne.fi/3106,0,,Europe/Helsinki
+120371,1591,Valkoherukkatie P,,65.100314,25.41445,2,http://oulunliikenne.fi/1591,0,,Europe/Helsinki
+120788,2100,Rautatieasema E,,65.01216100000002,25.48353,2,http://oulunliikenne.fi/2100,0,,Europe/Helsinki
+98484,1819,Alavantie P,,65.048874,25.589262,2,http://oulunliikenne.fi/1819,0,,Europe/Helsinki
+120702,2000,Etupääntie E,,65.024232,25.564907,2,http://oulunliikenne.fi/2000,0,,Europe/Helsinki
+150163,2544,Karhuoja P,,64.951312,25.390593,3,http://oulunliikenne.fi/2544,0,,Europe/Helsinki
+121067,2459,Kuukkelipolku P,,64.963812,25.549153,2,http://oulunliikenne.fi/2459,0,,Europe/Helsinki
+148037,3084,Veturitie E,,64.801625,26.012948,4,http://oulunliikenne.fi/3084,0,,Europe/Helsinki
+121166,2581,Pitkäkankaantie P,,64.941971,25.395364,3,http://oulunliikenne.fi/2581,0,,Europe/Helsinki
+148086,2067,Hiukkavaara E,,65.015109,25.564061,2,http://oulunliikenne.fi/2067,0,,Europe/Helsinki
+169623,2512,Kaakkurin koulu E,,64.955534,25.532879,2,http://oulunliikenne.fi/2512,0,,Europe/Helsinki
+183963,3178,Ostomiehentie P,,64.94781,25.542063,2,http://oulunliikenne.fi/3178,0,,Europe/Helsinki
+121327,2979,Muhos,,64.80663798335156,25.99103755844336,4,http://oulunliikenne.fi/2979,0,,Europe/Helsinki
+184041,2131,Virastotalo,,65.010214,25.465102,2,http://oulunliikenne.fi/2131,0,,Europe/Helsinki
+120423,1645,Kaijantie E,,65.088622,25.41087,2,http://oulunliikenne.fi/1645,0,,Europe/Helsinki
+120865,2203,Svaanintie P,,64.99997500000002,25.532647,2,http://oulunliikenne.fi/2203,0,,Europe/Helsinki
+148009,3037,Kasvi E,,64.793245,25.624873,4,http://oulunliikenne.fi/3037,0,,Europe/Helsinki
+148430,1361,Pentintie P,,65.184006,25.490981,4,http://oulunliikenne.fi/1361,0,,Europe/Helsinki
+101504,1280,Taatanperän th E,,65.215464,25.369552,3,http://oulunliikenne.fi/1280,0,,Europe/Helsinki
+98781,2993,Leppiniemi th P,,64.805029,26.012192,4,http://oulunliikenne.fi/2993,0,,Europe/Helsinki
+101672,1070,Yli-Iin vanhainkoti E,,65.36241200000002,25.821759,5,http://oulunliikenne.fi/1070,0,,Europe/Helsinki
+120302,1507,Sammalkuja P,,65.12864,25.76266,3,http://oulunliikenne.fi/1507,0,,Europe/Helsinki
+150318,1407,Herralankuja E,,65.177035,25.348564,3,http://oulunliikenne.fi/1407,0,,Europe/Helsinki
+101092,8306,Vaski E,,65.03530000000002,24.9765,5,http://oulunliikenne.fi/8306,0,,Europe/Helsinki
+120287,1492,Viitanmäki E,,65.131179,25.765951,3,http://oulunliikenne.fi/1492,0,,Europe/Helsinki
+148046,2941,Toivolakoti P,,64.81711039759502,26.03101747076533,4,http://oulunliikenne.fi/2941,0,,Europe/Helsinki
+101276,1930,Hautasuo th E,,65.030666,25.971211,4,http://oulunliikenne.fi/1930,0,,Europe/Helsinki
+101086,2356,Pajuniemi E,,64.982373,25.270362,3,http://oulunliikenne.fi/2356,0,,Europe/Helsinki
+120710,2011,Myllytie E,,65.025272,25.476886,2,http://oulunliikenne.fi/2011,0,,Europe/Helsinki
+148459,1300,Vahtola E,,65.206689,25.331009,3,http://oulunliikenne.fi/1300,0,,Europe/Helsinki
+101120,8335,Rantatien th P,,65.02,24.7411,5,http://oulunliikenne.fi/8335,0,,Europe/Helsinki
+150083,2928,Aaltomaa E,,64.825074,25.688252,4,http://oulunliikenne.fi/2928,0,,Europe/Helsinki
+190202,1568,Oikoreitti P,,65.07014,25.8558,3,http://oulunliikenne.fi/1568,0,,Europe/Helsinki
+98703,2343,Maikkulantien th P,,64.98028100000002,25.563747,2,http://oulunliikenne.fi/2343,0,,Europe/Helsinki
+120509,1735,Kerttulanpuisto P,,65.064718,25.507151,2,http://oulunliikenne.fi/1735,0,,Europe/Helsinki
+101237,8084,Ala-Siira E,,64.779382,25.71222,4,http://oulunliikenne.fi/8084,0,,Europe/Helsinki
+98501,1597,Jääli th P,,65.094678,25.682666,3,http://oulunliikenne.fi/1597,0,,Europe/Helsinki
+101271,1848,Ahmasjärventie P,,65.039818,25.89967,4,http://oulunliikenne.fi/1848,0,,Europe/Helsinki
+120409,1631,Kaarnalenkki P,,65.084891,25.71467,3,http://oulunliikenne.fi/1631,0,,Europe/Helsinki
+150360,1278,Häyrysenniemi th E,,65.219867,25.333386,3,http://oulunliikenne.fi/1278,0,,Europe/Helsinki
+152760,1841,Polvisuontie P,,65.045596,25.64718,2,http://oulunliikenne.fi/1841,0,,Europe/Helsinki
+171800,2412,Vesalantie E,,64.970997,25.491178,2,http://oulunliikenne.fi/2412,0,,Europe/Helsinki
+171360,2716,Kempele E,,64.912087,25.505816,3,http://oulunliikenne.fi/2716,0,,Europe/Helsinki
+120619,1855,Nietospolku P,,65.042673,25.594835,2,http://oulunliikenne.fi/1855,0,,Europe/Helsinki
+120086,1283,Laitakarintie P,,65.216516,25.300078,3,http://oulunliikenne.fi/1283,0,,Europe/Helsinki
+171811,2415,Keskipiiri E,,64.973233,25.328843,3,http://oulunliikenne.fi/2415,0,,Europe/Helsinki
+148447,1336,Keiska P2,,65.192892,25.366178,3,http://oulunliikenne.fi/1336,0,,Europe/Helsinki
+150357,1269,Parkumäki P,,65.227536,25.353539,3,http://oulunliikenne.fi/1269,0,,Europe/Helsinki
+310860,3405,Siiposuo E,,65.086763,25.463952,2,http://oulunliikenne.fi/3405,0,,Europe/Helsinki
+101104,8318,Hyypänmäki E,,65.057,24.8041,5,http://oulunliikenne.fi/8318,0,,Europe/Helsinki
+98760,2881,Rönköntie P,,64.837424,25.908785,4,http://oulunliikenne.fi/2881,0,,Europe/Helsinki
+101610,1399,Taipaleenkylä,,65.17568300000002,25.554051,4,http://oulunliikenne.fi/1399,0,,Europe/Helsinki
+184174,3215,Kaupungintalo City,,65.013648,25.471948,1,http://oulunliikenne.fi/3215,0,,Europe/Helsinki
+183961,3176,Ukkoherrantie P,,64.950017,25.543868,2,http://oulunliikenne.fi/3176,0,,Europe/Helsinki
+150356,1268,Parkumäki E,,65.227718,25.353763,3,http://oulunliikenne.fi/1268,0,,Europe/Helsinki
+121505,1925,Lämpövoimala E,,65.03790600000002,25.44317,2,http://oulunliikenne.fi/1925,0,,Europe/Helsinki
+231937,3317,Onkamontie P,,65.191765,25.474843,4,http://oulunliikenne.fi/3317,0,,Europe/Helsinki
+120410,1651,Järvitie E,,65.084441,25.69891,3,http://oulunliikenne.fi/1651,0,,Europe/Helsinki
+150060,2817,Rasila P,,64.867074,25.597599,3,http://oulunliikenne.fi/2817,0,,Europe/Helsinki
+120772,2081,Peltola E,,65.01301,25.526267,2,http://oulunliikenne.fi/2081,0,,Europe/Helsinki
+101235,8082,Haarankauppa I,,64.782948,25.6929,4,http://oulunliikenne.fi/8082,0,,Europe/Helsinki
+101530,1522,Kello E,,65.129341,25.359027,3,http://oulunliikenne.fi/1522,0,,Europe/Helsinki
+150256,1728,Kivikankaankuja E,,65.06587500000002,25.517054,2,http://oulunliikenne.fi/1728,0,,Europe/Helsinki
+150362,1284,Martinniemi th P,,65.214315,25.331063,3,http://oulunliikenne.fi/1284,0,,Europe/Helsinki
+121054,2444,Tiaisrinne P,,64.964347,25.555306,2,http://oulunliikenne.fi/2444,0,,Europe/Helsinki
+307145,3362,Miessuontie P,,64.93050700000002,25.563641,3,http://oulunliikenne.fi/3362,0,,Europe/Helsinki
+304237,2177,Professorintie E,,65.010069,25.506905,2,http://oulunliikenne.fi/2177,0,,Europe/Helsinki
+183970,3191,Lähimetsäntie P,,64.948529,25.565301,2,http://oulunliikenne.fi/3191,0,,Europe/Helsinki
+120623,1873,Järvenkorventie P,,65.041794,25.49875,2,http://oulunliikenne.fi/1873,0,,Europe/Helsinki
+184142,3247,Kiviharjunkuja P,,65.008324,25.513313,1,http://oulunliikenne.fi/3247,0,,Europe/Helsinki
+169845,3143,Pikku Karhu E,,65.041026,25.612461,2,http://oulunliikenne.fi/3143,0,,Europe/Helsinki
+120782,2094,Kontinkangas P,,65.011775,25.514818,2,http://oulunliikenne.fi/2094,0,,Europe/Helsinki
+184143,3246,Kiviharjunkuja E,,65.008436,25.512861,1,http://oulunliikenne.fi/3246,0,,Europe/Helsinki
+98773,2943,Koivikko E,,64.815684,25.968387,4,http://oulunliikenne.fi/2943,0,,Europe/Helsinki
+187974,1919,Huonesuo th P,,65.037482,25.552794,2,http://oulunliikenne.fi/1919,0,,Europe/Helsinki
+120522,1748,Kukkonen P,,65.062472,25.495184,2,http://oulunliikenne.fi/1748,0,,Europe/Helsinki
+150381,1186,Ellala P,,65.319356,25.360058,4,http://oulunliikenne.fi/1186,0,,Europe/Helsinki
+148196,2823,Määttä Könö P,,64.85938,25.90469,4,http://oulunliikenne.fi/2823,0,,Europe/Helsinki
+120904,2250,Sorsatie E,,64.993505,25.495483,2,http://oulunliikenne.fi/2250,0,,Europe/Helsinki
+120751,2040,Koskenniska P,,65.020352,25.493356,2,http://oulunliikenne.fi/2040,0,,Europe/Helsinki
+307146,3363,Miessuontie E,,64.930071,25.562932,3,http://oulunliikenne.fi/3363,0,,Europe/Helsinki
+101076,2414,Heikola E,,64.971986,25.344913,3,http://oulunliikenne.fi/2414,0,,Europe/Helsinki
+148017,3063,Ahintie E,,64.769567,25.646973,4,http://oulunliikenne.fi/3063,0,,Europe/Helsinki
+120723,2027,Nokkalantie E,,65.023575,25.505206,2,http://oulunliikenne.fi/2027,0,,Europe/Helsinki
+97720,1162,Iin Hamina E,,65.321703,25.37794,4,http://oulunliikenne.fi/1162,0,,Europe/Helsinki
+148176,2771,Käpykankaantie P,,64.887716,25.861397,4,http://oulunliikenne.fi/2771,0,,Europe/Helsinki
+120583,1816,Suolamännyntie P,,65.053021,25.430135,2,http://oulunliikenne.fi/1816,0,,Europe/Helsinki
+101081,2400,Ervastinkylä P,,64.973906,25.301793,3,http://oulunliikenne.fi/2400,0,,Europe/Helsinki
+120774,2083,Heikinkatu P,,65.013611,25.484105,2,http://oulunliikenne.fi/2083,0,,Europe/Helsinki
+171262,1249,Sorosenperän th P,,65.288311,25.372876,4,http://oulunliikenne.fi/1249,0,,Europe/Helsinki
+190178,2402,Ervastintörmä P,,64.975118,25.288498,3,http://oulunliikenne.fi/2402,0,,Europe/Helsinki
+120578,1811,Ruotutie P,,65.05151600000002,25.602229,2,http://oulunliikenne.fi/1811,0,,Europe/Helsinki
+101500,1264,Luukela E,,65.23283600000002,25.360739,3,http://oulunliikenne.fi/1264,0,,Europe/Helsinki
+101623,1446,Kuivasjärven th P,,65.14886300000002,25.635846,3,http://oulunliikenne.fi/1446,0,,Europe/Helsinki
+184164,3225,Myllytulli E,,65.016804,25.489376,1,http://oulunliikenne.fi/3225,0,,Europe/Helsinki
+164365,3113,Silmutie E,,65.075572,25.460999,2,http://oulunliikenne.fi/3113,0,,Europe/Helsinki
+98723,2614,Pikkuharjuntie P,,64.930707,25.737128,3,http://oulunliikenne.fi/2614,0,,Europe/Helsinki
+120497,1723,Karjakenttä E,,65.068371,25.489431,2,http://oulunliikenne.fi/1723,0,,Europe/Helsinki
+148500,1180,Rantakestilä E,,65.32064,25.32343,4,http://oulunliikenne.fi/1180,0,,Europe/Helsinki
+120392,1612,Rantapolku P,,65.091507,25.698608,3,http://oulunliikenne.fi/1612,0,,Europe/Helsinki
+101123,8338,Saarenkartano P,,65.0166,24.737,5,http://oulunliikenne.fi/8338,0,,Europe/Helsinki
+120286,1491,Kotikumpu P,,65.13176300000002,25.766073,3,http://oulunliikenne.fi/1491,0,,Europe/Helsinki
+120597,1830,Mustansuontie P,,65.048069,25.44041,2,http://oulunliikenne.fi/1830,0,,Europe/Helsinki
+150145,2852,Oikotie th E,,64.854046,25.48753,4,http://oulunliikenne.fi/2852,0,,Europe/Helsinki
+190171,2588,Hailuodon th E,,64.938554,25.428336,3,http://oulunliikenne.fi/2588,0,,Europe/Helsinki
+98733,2723,Pikkaraisenkylä P,,64.906609,25.787667,3,http://oulunliikenne.fi/2723,0,,Europe/Helsinki
+326515,2668,Komeetantie E,,64.919974,25.509675,3,http://oulunliikenne.fi/2668,0,,Europe/Helsinki
+120789,2101,Toripakka P,,65.012624,25.468764,2,http://oulunliikenne.fi/2101,0,,Europe/Helsinki
+120914,2267,Tavitie P,,64.992932,25.490258,2,http://oulunliikenne.fi/2267,0,,Europe/Helsinki
+184453,2307,Äimärautio E,,64.985259,25.475921,2,http://oulunliikenne.fi/2307,0,,Europe/Helsinki
+120573,1803,Oulunseläntie E,,65.056063,25.427662,2,http://oulunliikenne.fi/1803,0,,Europe/Helsinki
+184259,1231,Leskelä P,,65.302556,25.562389,4,http://oulunliikenne.fi/1231,0,,Europe/Helsinki
+101655,1539,Paso P,,65.120422,25.802249,3,http://oulunliikenne.fi/1539,0,,Europe/Helsinki
+148475,1530,Kellon liikekeskus E,,65.12856600000002,25.355453,3,http://oulunliikenne.fi/1530,0,,Europe/Helsinki
+148094,2261,Markkuu P,,64.990712,25.604262,2,http://oulunliikenne.fi/2261,0,,Europe/Helsinki
+120731,2036,Kurkelankuja E,,65.020208,25.515685,2,http://oulunliikenne.fi/2036,0,,Europe/Helsinki
+150141,2911,Selkämaa th E,,64.83232,25.46159,4,http://oulunliikenne.fi/2911,0,,Europe/Helsinki
+97708,1253,Räinänperän th P,,65.275088,25.365443,4,http://oulunliikenne.fi/1253,0,,Europe/Helsinki
+150092,3033,Matinolli P,,64.794628,25.684367,4,http://oulunliikenne.fi/3033,0,,Europe/Helsinki
+171362,2761,Leppäojantie P,,64.897808,25.52148,3,http://oulunliikenne.fi/2761,0,,Europe/Helsinki
+148172,2756,Roininen P,,64.893788,25.853136,4,http://oulunliikenne.fi/2756,0,,Europe/Helsinki
+310594,1991,Lipporanta P,,65.030152,25.45487,2,http://oulunliikenne.fi/1991,0,,Europe/Helsinki
+150166,2529,Maksakuja P,,64.954561,25.38572,3,http://oulunliikenne.fi/2529,0,,Europe/Helsinki
+120736,2041,Toivoniemi E,,65.021996,25.467969,2,http://oulunliikenne.fi/2041,0,,Europe/Helsinki
+120826,2155,Heinätorin puisto P,,65.007792,25.461636,2,http://oulunliikenne.fi/2155,0,,Europe/Helsinki
+150392,1234,Kaisto P (EP),,65.297348,25.627293,4,http://oulunliikenne.fi/1234,0,,Europe/Helsinki
+120560,1788,Rakentajantie P,,65.05698,25.458863,2,http://oulunliikenne.fi/1788,0,,Europe/Helsinki
+190200,1512,Kauppareitti P,,65.126797,25.778919,3,http://oulunliikenne.fi/1512,0,,Europe/Helsinki
+148477,1537,Häli E,,65.12637700000002,25.348899,3,http://oulunliikenne.fi/1537,0,,Europe/Helsinki
+148209,3083,Ritolantie P,,64.834389,25.941861,4,http://oulunliikenne.fi/3083,0,,Europe/Helsinki
+97669,3064,Ala-Temmes ns P,,64.769584,25.548091,4,http://oulunliikenne.fi/3064,0,,Europe/Helsinki
+303647,3140,Linja-autoasema T,,65.00965,25.4845,2,http://oulunliikenne.fi/3140,0,,Europe/Helsinki
+150358,1270,Kalliomäki P,,65.224567,25.344636,3,http://oulunliikenne.fi/1270,0,,Europe/Helsinki
+98707,2388,Heikkilänkankaan th E,,64.970911,25.613596,2,http://oulunliikenne.fi/2388,0,,Europe/Helsinki
+188407,4037,Liminka th L,,64.80027200000002,25.42323,4,http://oulunliikenne.fi/4037,0,,Europe/Helsinki
+121080,2473,Tiaispuisto E,,64.961519,25.544005,2,http://oulunliikenne.fi/2473,0,,Europe/Helsinki
+148433,1354,Harjunkangas E,,65.18665,25.473856,4,http://oulunliikenne.fi/1354,0,,Europe/Helsinki
+324715,2113,Oulujoen kirkko E,,65.007415,25.563911,2,http://oulunliikenne.fi/2113,0,,Europe/Helsinki
+150069,2851,Kälkäinen E,,64.852135,25.629098,3,http://oulunliikenne.fi/2851,0,,Europe/Helsinki
+120730,2035,Metsotie E,,65.02084000000002,25.535193,2,http://oulunliikenne.fi/2035,0,,Europe/Helsinki
+120921,2280,Viriänpuisto E,,64.989262,25.562905,2,http://oulunliikenne.fi/2280,0,,Europe/Helsinki
+101537,1581,Holstinmutka P,,65.109223,25.388435,3,http://oulunliikenne.fi/1581,0,,Europe/Helsinki
+120596,1829,Mustansuontie E,,65.047986,25.440202,2,http://oulunliikenne.fi/1829,0,,Europe/Helsinki
+148059,2886,Jurvakainen P,,64.83237,26.059203,4,http://oulunliikenne.fi/2886,0,,Europe/Helsinki
+98748,2811,Rova arola P,,64.866512,25.877061,4,http://oulunliikenne.fi/2811,0,,Europe/Helsinki
+152767,1853,Pääkankaantie P,,65.042496,25.667532,3,http://oulunliikenne.fi/1853,0,,Europe/Helsinki
+148117,2505,Turkantie P,,64.95447,25.716166,3,http://oulunliikenne.fi/2505,0,,Europe/Helsinki
+148088,2102,Oulujoentie P,,65.01032,25.572632,2,http://oulunliikenne.fi/2102,0,,Europe/Helsinki
+120931,2292,Jalohaukka E,,64.988012,25.517641,2,http://oulunliikenne.fi/2292,0,,Europe/Helsinki
+101508,1337,Keiska E,,65.192212,25.364725,3,http://oulunliikenne.fi/1337,0,,Europe/Helsinki
+148081,1984,Sivutie P,,65.02570900000002,25.540465,2,http://oulunliikenne.fi/1984,0,,Europe/Helsinki
+101702,1136,Tiri E,,65.32506600000002,25.506343,4,http://oulunliikenne.fi/1136,0,,Europe/Helsinki
+120998,2376,Sutela E,,64.973867,25.503576,2,http://oulunliikenne.fi/2376,0,,Europe/Helsinki
+187933,2975,Virkkula E,,64.816444,25.327469,4,http://oulunliikenne.fi/2975,0,,Europe/Helsinki
+307138,2565,Pitkämäki P,,64.94355055893558,25.38474039882766,3,http://oulunliikenne.fi/2565,0,,Europe/Helsinki
+171798,2426,Oulunlahden koulu E,,64.96826900000002,25.494677,2,http://oulunliikenne.fi/2426,0,,Europe/Helsinki
+190076,2938,Temmesjoki P,,64.82483000000002,25.453065,4,http://oulunliikenne.fi/2938,0,,Europe/Helsinki
+98795,8212,Syväyksentie E,,64.79130000000002,26.1222,5,http://oulunliikenne.fi/8212,0,,Europe/Helsinki
+98715,2533,Kievarintie P,,64.95007,25.674668,3,http://oulunliikenne.fi/2533,0,,Europe/Helsinki
+184248,1202,Patosillan th P,,65.31346000000002,25.532167,4,http://oulunliikenne.fi/1202,0,,Europe/Helsinki
+184242,1144,Niskala P,,65.320322,25.690902,5,http://oulunliikenne.fi/1144,0,,Europe/Helsinki
+147994,2876,Rajakorven th P,,64.845286,25.54926,4,http://oulunliikenne.fi/2876,0,,Europe/Helsinki
+308264,2748,Monitoimitalo E,,64.903303,25.547112,3,http://oulunliikenne.fi/2748,0,,Europe/Helsinki
+190194,2477,Oulunlahti P,,64.961023,25.502918,2,http://oulunliikenne.fi/2477,0,,Europe/Helsinki
+150147,2828,Tupos P,,64.86421900000002,25.491915,4,http://oulunliikenne.fi/2828,0,,Europe/Helsinki
+120576,1809,Välskärintie E,,65.050091,25.607125,2,http://oulunliikenne.fi/1809,0,,Europe/Helsinki
+148062,2859,Leppiniemi E,,64.84355,26.042752,4,http://oulunliikenne.fi/2859,0,,Europe/Helsinki
+121324,2872,Pikkarala th P2,,64.844741,25.651439,4,http://oulunliikenne.fi/2872,0,,Europe/Helsinki
+150402,1238,Turtinen P,,65.295895,25.69503,5,http://oulunliikenne.fi/1238,0,,Europe/Helsinki
+153128,3005,Liminka yläaste P,,64.81054,25.414051,4,http://oulunliikenne.fi/3005,0,,Europe/Helsinki
+120454,1680,Kuuselantie P,,65.07746400000002,25.397628,2,http://oulunliikenne.fi/1680,0,,Europe/Helsinki
+120379,1599,Holopaisenkuja E,,65.097017,25.419115,2,http://oulunliikenne.fi/1599,0,,Europe/Helsinki
+101084,2371,Ristihäkki E,,64.978607,25.277512,3,http://oulunliikenne.fi/2371,0,,Europe/Helsinki
+184160,3229,Viestikatu E,,65.017178,25.503337,1,http://oulunliikenne.fi/3229,0,,Europe/Helsinki
+310599,1966,Hietasaarentie E,,65.030624,25.4481,2,http://oulunliikenne.fi/1966,0,,Europe/Helsinki
+186023,3305,Pomolantie E,,65.21933706419544,25.30061130620137,3,http://oulunliikenne.fi/3305,0,,Europe/Helsinki
+120592,1825,Solmutie P,,65.048575,25.452042,2,http://oulunliikenne.fi/1825,0,,Europe/Helsinki
+120520,1746,Kaijonlahdentie E,,65.061646,25.495996,2,http://oulunliikenne.fi/1746,0,,Europe/Helsinki
+190181,3340,Kunnankuja E,,64.763111,25.648305,4,http://oulunliikenne.fi/3340,0,,Europe/Helsinki
+185803,3302,Länsituulen koulu,,65.17789500000002,25.337112,3,http://oulunliikenne.fi/3302,0,,Europe/Helsinki
+181287,3270,Kuovintie P,,64.94224,25.372985,3,http://oulunliikenne.fi/3270,0,,Europe/Helsinki
+120992,2368,Tahkokangas P,,64.975991,25.517756,2,http://oulunliikenne.fi/2368,0,,Europe/Helsinki
+184149,3240,Uimahalli E,,65.008189,25.497117,1,http://oulunliikenne.fi/3240,0,,Europe/Helsinki
+120886,2229,Knuutilanranta P,,64.995869,25.558776,2,http://oulunliikenne.fi/2229,0,,Europe/Helsinki
+150385,1229,Jakkuranta P,,65.300943,25.606564,4,http://oulunliikenne.fi/1229,0,,Europe/Helsinki
+101100,8314,Niementien th E,,65.0589,24.8588,5,http://oulunliikenne.fi/8314,0,,Europe/Helsinki
+101291,1892,Tielaitos P,,65.031921,26.101907,4,http://oulunliikenne.fi/1892,0,,Europe/Helsinki
+98796,8213,Hyrkäs P,,64.7892,26.1347,5,http://oulunliikenne.fi/8213,0,,Europe/Helsinki
+150077,2882,Murto E,,64.839896,25.664306,4,http://oulunliikenne.fi/2882,0,,Europe/Helsinki
+171808,2320,Äimärautio P,,64.98544800000002,25.475974,2,http://oulunliikenne.fi/2320,0,,Europe/Helsinki
+120424,1646,Kaijantie P,,65.088538,25.410577,2,http://oulunliikenne.fi/1646,0,,Europe/Helsinki
+120565,1793,Johdinkuja P,,65.054834,25.596319,2,http://oulunliikenne.fi/1793,0,,Europe/Helsinki
+120485,1711,Kuivasoja E,,65.072059,25.408116,2,http://oulunliikenne.fi/1711,0,,Europe/Helsinki
+101132,8347,Sauvola P,,65.01220000000002,24.676,5,http://oulunliikenne.fi/8347,0,,Europe/Helsinki
+101034,3009,Niskanen E,,64.81139,25.377366,4,http://oulunliikenne.fi/3009,0,,Europe/Helsinki
+98720,2569,Määtäntie E,,64.940352,25.697762,3,http://oulunliikenne.fi/2569,0,,Europe/Helsinki
+184240,1171,Iin Aseman koulu P,,65.319957,25.448221,4,http://oulunliikenne.fi/1171,0,,Europe/Helsinki
+310626,10004,Kontinkangas,,65.01084218299604,25.51309040287223,1,http://oulunliikenne.fi/10004,0,,Europe/Helsinki
+120489,1715,Vesipääskyntie P,,65.06918,25.517402,2,http://oulunliikenne.fi/1715,0,,Europe/Helsinki
+150387,1228,Kuopionharju P,,65.301919,25.617985,4,http://oulunliikenne.fi/1228,0,,Europe/Helsinki
+190228,2448,Santaniemi E,,64.967877,25.25749,3,http://oulunliikenne.fi/2448,0,,Europe/Helsinki
+148002,2948,Nikula th P,,64.819496,25.601001,4,http://oulunliikenne.fi/2948,0,,Europe/Helsinki
+120936,2297,Kihokkitie P,,64.98906700000002,25.493147,2,http://oulunliikenne.fi/2297,0,,Europe/Helsinki
+121273,2725,Kokkokaarto P,,64.90976000000002,25.548144,3,http://oulunliikenne.fi/2725,0,,Europe/Helsinki
+164187,3122,Mesaanitie P,,65.031198,25.433096,2,http://oulunliikenne.fi/3122,0,,Europe/Helsinki
+120964,2331,Snellmankoti E,,64.98312,25.492295,2,http://oulunliikenne.fi/2331,0,,Europe/Helsinki
+120079,1271,Kalastajantie E,,65.22508000000002,25.310883,3,http://oulunliikenne.fi/1271,0,,Europe/Helsinki
+188528,8087,Suomela P,,64.776036,25.747448,4,http://oulunliikenne.fi/8087,0,,Europe/Helsinki
+120807,2122,Oulunsuun koulu E,,65.00702200000002,25.52859,2,http://oulunliikenne.fi/2122,0,,Europe/Helsinki
+98746,2806,Rova P,,64.869828,25.867154,4,http://oulunliikenne.fi/2806,0,,Europe/Helsinki
+186174,3318,Rita-aukio P,,65.08046667000002,25.45353333,2,http://oulunliikenne.fi/3318,0,,Europe/Helsinki
+101706,1212,Pikkulaurila E,,65.311697,25.567146,4,http://oulunliikenne.fi/1212,0,,Europe/Helsinki
+171812,2396,Keskipiiri P,,64.973648,25.326678,3,http://oulunliikenne.fi/2396,0,,Europe/Helsinki
+98783,8200,Muhosjoki E,,64.80540000000002,26.0151,5,http://oulunliikenne.fi/8200,0,,Europe/Helsinki
+307152,3294,Harjapäänkatu E,,65.00378338836121,25.47013330500684,1,http://oulunliikenne.fi/3294,0,,Europe/Helsinki
+120893,2236,Hanhitie P,,64.995826,25.495225,2,http://oulunliikenne.fi/2236,0,,Europe/Helsinki
+315730,2114,Oulujoen kirkko P,,65.007336,25.5639,2,http://oulunliikenne.fi/2114,0,,Europe/Helsinki
+153150,3026,Värminkosken th P,,64.807535,25.399892,4,http://oulunliikenne.fi/3026,0,,Europe/Helsinki
+120432,1656,Sahantie E,,65.085346,25.40562,2,http://oulunliikenne.fi/1656,0,,Europe/Helsinki
+120383,1604,Blomintie P,,65.092351,25.70597,3,http://oulunliikenne.fi/1604,0,,Europe/Helsinki
+120404,1626,Havutie E,,65.087268,25.710492,3,http://oulunliikenne.fi/1626,0,,Europe/Helsinki
+147971,2642,Sohjanantie E,,64.927965,25.509267,3,http://oulunliikenne.fi/2642,0,,Europe/Helsinki
+101531,1536,Kalimensilta P,,65.125948,25.361324,3,http://oulunliikenne.fi/1536,0,,Europe/Helsinki
+98808,8227,Koivisto E,,64.7804,26.3605,5,http://oulunliikenne.fi/8227,0,,Europe/Helsinki
+101054,2628,Lentäjäntie P,,64.9317727142364,25.38554006958169,3,http://oulunliikenne.fi/2628,0,,Europe/Helsinki
+101650,1504,Kiimingin lukio E,,65.12935400000002,25.772022,3,http://oulunliikenne.fi/1504,0,,Europe/Helsinki
+307174,1611,Laivakankaan koulu E,,65.08340800000002,25.706029,3,http://oulunliikenne.fi/1611,0,,Europe/Helsinki
+120398,1619,Kukkulatie P,,65.08915500000002,25.693298,3,http://oulunliikenne.fi/1619,0,,Europe/Helsinki
+120706,2004,Laanilan koulu P,,65.02437,25.520208,2,http://oulunliikenne.fi/2004,0,,Europe/Helsinki
+98728,2627,Raita-ahontie E,,64.920309,25.754719,3,http://oulunliikenne.fi/2627,0,,Europe/Helsinki
+120678,1967,Manttaalitie P,,65.029346,25.551006,2,http://oulunliikenne.fi/1967,0,,Europe/Helsinki
+148448,1339,Rippala E,,65.19220900000002,25.361949,3,http://oulunliikenne.fi/1339,0,,Europe/Helsinki
+101539,1586,Oravaisenkuja P,,65.10411000000002,25.399409,2,http://oulunliikenne.fi/1586,0,,Europe/Helsinki
+184172,3217,Valkealinna,,65.012835,25.474879,1,http://oulunliikenne.fi/3217,0,,Europe/Helsinki
+183977,3195,Palhokuja P,,65.071365,25.447104,2,http://oulunliikenne.fi/3195,0,,Europe/Helsinki
+115886,2839,Tupos Koulukeskus P,,64.859239,25.471609,4,http://oulunliikenne.fi/2839,0,,Europe/Helsinki
+191215,3082,Huovila P,,64.838932,25.929945,4,http://oulunliikenne.fi/3082,0,,Europe/Helsinki
+98789,8206,Laitilantie E,,64.7935,26.0676,5,http://oulunliikenne.fi/8206,0,,Europe/Helsinki
+101088,2335,Hirvonen E,,64.985286,25.263943,3,http://oulunliikenne.fi/2335,0,,Europe/Helsinki
+310721,4014,Vaskikangas E,,65.00558008636762,25.60341299883995,2,http://oulunliikenne.fi/4014,0,,Europe/Helsinki
+171364,2752,Takatie P,,64.901214,25.522011,3,http://oulunliikenne.fi/2752,0,,Europe/Helsinki
+186175,3319,Rita-aukio E,,65.08050278,25.45312222,2,http://oulunliikenne.fi/3319,0,,Europe/Helsinki
+120659,1944,Huonesuonpuisto P,,65.03371300000002,25.563846,2,http://oulunliikenne.fi/1944,0,,Europe/Helsinki
+120499,1725,Hanhikkitie E,,65.068607,25.429558,2,http://oulunliikenne.fi/1725,0,,Europe/Helsinki
+169847,3145,Tähtipolku E,,65.042889,25.615995,2,http://oulunliikenne.fi/3145,0,,Europe/Helsinki
+120387,1608,Jäälihalli E,,65.093271,25.685905,3,http://oulunliikenne.fi/1608,0,,Europe/Helsinki
+120804,2119,Kastellinpolku P,,65.00788900000002,25.53376,2,http://oulunliikenne.fi/2119,0,,Europe/Helsinki
+120773,2082,Peltola P,,65.013021,25.5265,2,http://oulunliikenne.fi/2082,0,,Europe/Helsinki
+189727,2763,Junnintie E,,64.890795,25.856959,4,http://oulunliikenne.fi/2763,0,,Europe/Helsinki
+98800,8217,Pyhänsivu th P,,64.7862,26.2454,5,http://oulunliikenne.fi/8217,0,,Europe/Helsinki
+187923,2914,Jokivainio P,,64.836500385807,25.20015806168924,4,http://oulunliikenne.fi/2914,0,,Europe/Helsinki
+148095,2278,Markkuu E,,64.989987,25.605359,2,http://oulunliikenne.fi/2278,0,,Europe/Helsinki
+101578,2601,Kuivalanperä E,,64.936847,25.512898,3,http://oulunliikenne.fi/2601,0,,Europe/Helsinki
+148168,2737,Ehtiäisentie P,,64.899816,25.844959,3,http://oulunliikenne.fi/2737,0,,Europe/Helsinki
+150046,2749,Zeppelin E,,64.902815,25.540682,3,http://oulunliikenne.fi/2749,0,,Europe/Helsinki
+190368,3001,Lännentie P,,64.809844,25.470893,4,http://oulunliikenne.fi/3001,0,,Europe/Helsinki
+98735,2739,Hangas th P,,64.90118200000002,25.797628,3,http://oulunliikenne.fi/2739,0,,Europe/Helsinki
+120663,1948,Alppila E,,65.034945,25.464785,2,http://oulunliikenne.fi/1948,0,,Europe/Helsinki
+120397,1618,Kukkulatie E,,65.08891800000002,25.692821,3,http://oulunliikenne.fi/1618,0,,Europe/Helsinki
+184141,3248,Medipolis,,65.006875,25.514923,1,http://oulunliikenne.fi/3248,0,,Europe/Helsinki
+101680,1054,Yli-Ii P,,65.37246111597628,25.84113165327565,5,http://oulunliikenne.fi/1054,0,,Europe/Helsinki
+187710,3099,Ammustie P,,65.19303600000002,25.416487,4,http://oulunliikenne.fi/3099,0,,Europe/Helsinki
+120681,1973,Manttaalitie E,,65.028399,25.549529,2,http://oulunliikenne.fi/1973,0,,Europe/Helsinki
+101675,1057,Halajärventie E,,65.368586,25.82432,5,http://oulunliikenne.fi/1057,0,,Europe/Helsinki
+97685,3011,Arotie P,,64.807549,25.501862,4,http://oulunliikenne.fi/3011,0,,Europe/Helsinki
+120594,1827,Tuhtotie P,,65.048599,25.447431,2,http://oulunliikenne.fi/1827,0,,Europe/Helsinki
+184241,1172,Iin Aseman koulu E,,65.31984300000002,25.448442,4,http://oulunliikenne.fi/1172,0,,Europe/Helsinki
+98488,1769,Vesalanmäki E,,65.057852,25.61694,2,http://oulunliikenne.fi/1769,0,,Europe/Helsinki
+189273,3336,Ouluntullin ramppi E,,64.939849,25.53708,2,http://oulunliikenne.fi/3336,0,,Europe/Helsinki
+120949,2316,Kurrenkuja E,,64.984576,25.514971,2,http://oulunliikenne.fi/2316,0,,Europe/Helsinki
+189251,3262,Alasintie P,,64.998746,25.467414,1,http://oulunliikenne.fi/3262,0,,Europe/Helsinki
+188520,1296,Verstasmutka E,,65.209029,25.321245,3,http://oulunliikenne.fi/1296,0,,Europe/Helsinki
+189732,2877,Huovila E,,64.83885100000002,25.929822,4,http://oulunliikenne.fi/2877,0,,Europe/Helsinki
+120959,2326,Patamäen koulu E,,64.983245,25.582891,2,http://oulunliikenne.fi/2326,0,,Europe/Helsinki
+190288,2467,Harju E,,64.965945,25.254121,3,http://oulunliikenne.fi/2467,0,,Europe/Helsinki
+101739,1085,Kaiston koulu E,,65.348385,25.757107,5,http://oulunliikenne.fi/1085,0,,Europe/Helsinki
+150380,1178,Valtarin koulu P,,65.320851,25.363012,4,http://oulunliikenne.fi/1178,0,,Europe/Helsinki
+101224,3070,Mäläskä E,,64.764557,25.61925,4,http://oulunliikenne.fi/3070,0,,Europe/Helsinki
+187995,1192,Timpurintie P,,65.31625200000002,25.388317,4,http://oulunliikenne.fi/1192,0,,Europe/Helsinki
+120754,2059,Raatti E,,65.019661,25.4677,2,http://oulunliikenne.fi/2059,0,,Europe/Helsinki
+120750,2055,Värtöntie P,,65.019509,25.520329,2,http://oulunliikenne.fi/2055,0,,Europe/Helsinki
+190071,2973,Marjakangas E,,64.813473,25.704523,4,http://oulunliikenne.fi/2973,0,,Europe/Helsinki
+187929,2932,Sallisentie P,,64.829664,25.243066,4,http://oulunliikenne.fi/2932,0,,Europe/Helsinki
+101735,1091,Suvanto E,,65.344677,25.723454,5,http://oulunliikenne.fi/1091,0,,Europe/Helsinki
+120297,1502,Kiiminki P,,65.12941944000002,25.77660833,3,http://oulunliikenne.fi/1502,0,,Europe/Helsinki
+310595,1992,Lipporanta E,,65.029879,25.456127,2,http://oulunliikenne.fi/1992,0,,Europe/Helsinki
+150079,2894,Niitynmaa th E,,64.83379100000002,25.670824,4,http://oulunliikenne.fi/2894,0,,Europe/Helsinki
+74328,1062,Kiimingin th E2,,65.366435,25.817688,5,http://oulunliikenne.fi/1062,0,,Europe/Helsinki
+97672,3055,Marttila E,,64.776168,25.548052,4,http://oulunliikenne.fi/3055,0,,Europe/Helsinki
+101301,2849,Laukka silta E2,,64.850325,25.913934,4,http://oulunliikenne.fi/2849,0,,Europe/Helsinki
+98489,1768,Vesalanmäki P,,65.058151,25.618284,2,http://oulunliikenne.fi/1768,0,,Europe/Helsinki
+308739,3351,Ylikylän koulu E,,64.896442,25.54415,3,http://oulunliikenne.fi/3351,0,,Europe/Helsinki
+98729,2682,Pikkarala P,,64.913992,25.763265,3,http://oulunliikenne.fi/2682,0,,Europe/Helsinki
+148000,2936,Jokisilta P,,64.824371,25.590911,4,http://oulunliikenne.fi/2936,0,,Europe/Helsinki
+97674,3051,Ala-Temmeksen koulu E,,64.780425,25.547613,4,http://oulunliikenne.fi/3051,0,,Europe/Helsinki
+120722,2025,Yrjänäntie E,,65.02322100000002,25.530988,2,http://oulunliikenne.fi/2025,0,,Europe/Helsinki
+101017,2957,Syrjäpalo P,,64.819923,25.286288,4,http://oulunliikenne.fi/2957,0,,Europe/Helsinki
+101722,1119,Koivuranta E,,65.332625,25.669917,5,http://oulunliikenne.fi/1119,0,,Europe/Helsinki
+101527,1511,Isohätälä P,,65.133389,25.357584,3,http://oulunliikenne.fi/1511,0,,Europe/Helsinki
+148215,2898,Hartikka P,,64.828296,25.970959,4,http://oulunliikenne.fi/2898,0,,Europe/Helsinki
+101121,8336,Rantatien th E,,65.0194,24.7407,5,http://oulunliikenne.fi/8336,0,,Europe/Helsinki
+120598,1831,Vilkkutie P,,65.049021,25.436212,2,http://oulunliikenne.fi/1831,0,,Europe/Helsinki
+121199,2623,Riisikuja E,,64.933628,25.402102,3,http://oulunliikenne.fi/2623,0,,Europe/Helsinki
+101115,8330,Askeli P,,65.0286,24.7726,5,http://oulunliikenne.fi/8330,0,,Europe/Helsinki
+190296,1559,Vaajatie P,,65.118753,25.336913,3,http://oulunliikenne.fi/1559,0,,Europe/Helsinki
+97676,3045,Riikola E,,64.78751800000002,25.542625,4,http://oulunliikenne.fi/3045,0,,Europe/Helsinki
+98807,8225,Alakylä (Utajärvi) E,,64.7788,26.3477,5,http://oulunliikenne.fi/8225,0,,Europe/Helsinki
+97709,1252,Praavan th E,,65.281363,25.368354,4,http://oulunliikenne.fi/1252,0,,Europe/Helsinki
+98741,2783,Viskaali th E,,64.885256,25.835642,4,http://oulunliikenne.fi/2783,0,,Europe/Helsinki
+121064,2457,Punatulkunrinne P,,64.963038,25.560924,2,http://oulunliikenne.fi/2457,0,,Europe/Helsinki
+181285,3272,Automaatiotie E,,64.932223,25.383321,3,http://oulunliikenne.fi/3272,0,,Europe/Helsinki
+101607,1373,Saarijärvi P,,65.180488,25.535218,4,http://oulunliikenne.fi/1373,0,,Europe/Helsinki
+171363,2753,Takatie E,,64.901095,25.521764,3,http://oulunliikenne.fi/2753,0,,Europe/Helsinki
+189674,2637,Lapinkankaan koulu E,,64.925086,25.800616,3,http://oulunliikenne.fi/2637,0,,Europe/Helsinki
+310597,1994,Tukkitie E,,65.031873,25.448884,2,http://oulunliikenne.fi/1994,0,,Europe/Helsinki
+189534,2996,Nykäläntie E,,64.805504,26.001462,4,http://oulunliikenne.fi/2996,0,,Europe/Helsinki
+120125,1329,Jokikylän koulu E,,65.19162900000002,25.461567,4,http://oulunliikenne.fi/1329,0,,Europe/Helsinki
+120642,1918,Tupasvillatie E,,65.036388,25.572385,2,http://oulunliikenne.fi/1918,0,,Europe/Helsinki
+184622,3101,Rehu E,,65.193316,25.438126,4,http://oulunliikenne.fi/3101,0,,Europe/Helsinki
+101667,8000,Siltatie P,,65.132639,25.796223,3,http://oulunliikenne.fi/8000,0,,Europe/Helsinki
+150394,1240,Päkkilä E,,65.29588,25.633587,4,http://oulunliikenne.fi/1240,0,,Europe/Helsinki
+101581,2635,Sohjanantie P,,64.92885200000002,25.511924,3,http://oulunliikenne.fi/2635,0,,Europe/Helsinki
+308744,2247,Naavakuusi E,,64.978037,25.575998,2,http://oulunliikenne.fi/2247,0,,Europe/Helsinki
+171711,2774,Malurintie P,,64.887873,25.821573,4,http://oulunliikenne.fi/2774,0,,Europe/Helsinki
+183974,3184,Ritaharjuntie E,,65.062649,25.446634,2,http://oulunliikenne.fi/3184,0,,Europe/Helsinki
+101628,1447,Toivola E,,65.146254,25.66186,3,http://oulunliikenne.fi/1447,0,,Europe/Helsinki
+120698,1995,Vellamontie E,,65.027457,25.421175,2,http://oulunliikenne.fi/1995,0,,Europe/Helsinki
+153129,3006,Liminka yläaste E,,64.810681,25.412969,4,http://oulunliikenne.fi/3006,0,,Europe/Helsinki
+101497,1262,Halosenniemi th P,,65.247551,25.352721,3,http://oulunliikenne.fi/1262,0,,Europe/Helsinki
+120892,2235,Hanhitie E,,64.99578,25.495185,2,http://oulunliikenne.fi/2235,0,,Europe/Helsinki
+101670,8005,Ruunakangas E,,65.147294,25.781965,3,http://oulunliikenne.fi/8005,0,,Europe/Helsinki
+101286,1880,Vesala P,,65.034353,26.034453,4,http://oulunliikenne.fi/1880,0,,Europe/Helsinki
+98716,2534,Kievarintie E,,64.9493,25.675806,3,http://oulunliikenne.fi/2534,0,,Europe/Helsinki
+150331,1402,Jokelantie koulukeskus P,,65.175901,25.362145,3,http://oulunliikenne.fi/1402,0,,Europe/Helsinki
+120973,2341,Jatulikiventie E,,64.980871,25.574775,2,http://oulunliikenne.fi/2341,0,,Europe/Helsinki
+101093,8307,Vaski P,,65.0352,24.9745,5,http://oulunliikenne.fi/8307,0,,Europe/Helsinki
+150091,3010,Tulilanton th E,,64.80604700000002,25.705721,4,http://oulunliikenne.fi/3010,0,,Europe/Helsinki
+190188,1911,Ylikiimingin kirkko P,,65.029026,26.124967,4,http://oulunliikenne.fi/1911,0,,Europe/Helsinki
+101022,2953,Luontokeskus th P,,64.820019,25.308797,4,http://oulunliikenne.fi/2953,0,,Europe/Helsinki
+148194,2810,Rahko E,,64.865047,25.895832,4,http://oulunliikenne.fi/2810,0,,Europe/Helsinki
+187702,1408,Herralankuja P,,65.177089,25.348603,3,http://oulunliikenne.fi/1408,0,,Europe/Helsinki
+120676,1965,Mittamiehentie P,,65.031821,25.464603,2,http://oulunliikenne.fi/1965,0,,Europe/Helsinki
+150085,2947,Patala E,,64.81814900000002,25.691369,4,http://oulunliikenne.fi/2947,0,,Europe/Helsinki
+187128,1675,Siitosen th P,,65.07557,25.662434,3,http://oulunliikenne.fi/1675,0,,Europe/Helsinki
+97777,2836,Ojala E,,64.855007,25.911341,4,http://oulunliikenne.fi/2836,0,,Europe/Helsinki
+120504,1730,Poukamapolku E,,65.066907,25.498165,2,http://oulunliikenne.fi/1730,0,,Europe/Helsinki
+190672,3345,Hakkuutie E,,64.946487,25.576836,2,http://oulunliikenne.fi/3345,0,,Europe/Helsinki
+120498,1724,Hanhikkitie P,,65.06867200000002,25.429767,2,http://oulunliikenne.fi/1724,0,,Europe/Helsinki
+148024,2173,Saarela P,,65.002361,25.584719,2,http://oulunliikenne.fi/2173,0,,Europe/Helsinki
+120745,2050,Metsola P,,65.019373,25.534785,2,http://oulunliikenne.fi/2050,0,,Europe/Helsinki
+120846,2184,Painijantie E,,64.999827,25.579574,2,http://oulunliikenne.fi/2184,0,,Europe/Helsinki
+184159,3230,Viestikatu P,,65.01718,25.503549,1,http://oulunliikenne.fi/3230,0,,Europe/Helsinki
+120473,1699,Hämäläntie E,,65.073438,25.402867,2,http://oulunliikenne.fi/1699,0,,Europe/Helsinki
+190159,3088,Karintie P,,64.840459,25.179955,4,http://oulunliikenne.fi/3088,0,,Europe/Helsinki
+121534,2008,Kalliola P,,65.025307,25.48654,2,http://oulunliikenne.fi/2008,0,,Europe/Helsinki
+98771,2935,Korivaaran koulu P,,64.820681,25.95693,4,http://oulunliikenne.fi/2935,0,,Europe/Helsinki
+307161,4003,Juoksupolku E,,64.99756944000002,25.61131944,2,http://oulunliikenne.fi/4003,0,,Europe/Helsinki
+120558,1786,Ylioppilaskylä E,,65.05758400000002,25.472236,2,http://oulunliikenne.fi/1786,0,,Europe/Helsinki
+98471,1987,Typpitie P,,65.027174,25.512518,2,http://oulunliikenne.fi/1987,0,,Europe/Helsinki
+120624,1874,Järvikioski E,,65.043429,25.490991,2,http://oulunliikenne.fi/1874,0,,Europe/Helsinki
+307148,3361,Satumaantie E,,64.927216,25.559971,3,http://oulunliikenne.fi/3361,0,,Europe/Helsinki
+189726,2764,Junnintie P,,64.891347,25.85645,4,http://oulunliikenne.fi/2764,0,,Europe/Helsinki
+148100,2366,Kärppä taimi P,,64.975516,25.635344,2,http://oulunliikenne.fi/2366,0,,Europe/Helsinki
+187999,1134,Marion P,,65.326399,25.519683,4,http://oulunliikenne.fi/1134,0,,Europe/Helsinki
+190223,2552,Karvolankuja E,,64.949384,25.39564,3,http://oulunliikenne.fi/2552,0,,Europe/Helsinki
+325629,2207,Zatelliitin ramppi E,,64.922454,25.534007,3,http://oulunliikenne.fi/2207,0,,Europe/Helsinki
+190172,2620,Karhuojan th P,,64.933741,25.399304,3,http://oulunliikenne.fi/2620,0,,Europe/Helsinki
+307160,4002,Juoksupolku P,,64.99777796835087,25.61287319154162,2,http://oulunliikenne.fi/4002,0,,Europe/Helsinki
+120442,1668,Jalopuuntie E,,65.079199,25.410581,2,http://oulunliikenne.fi/1668,0,,Europe/Helsinki
+120999,2377,Sutela P,,64.974281,25.501901,2,http://oulunliikenne.fi/2377,0,,Europe/Helsinki
+148140,2604,Vaalantie E,,64.931082,25.786688,3,http://oulunliikenne.fi/2604,0,,Europe/Helsinki
+101058,2718,Tiilitie E,,64.912149,25.499515,3,http://oulunliikenne.fi/2718,0,,Europe/Helsinki
+98786,8203,Honkala P,,64.79770000000002,26.0496,5,http://oulunliikenne.fi/8203,0,,Europe/Helsinki
+101053,2621,Karhuojan th E,,64.933826,25.398833,3,http://oulunliikenne.fi/2621,0,,Europe/Helsinki
+148079,1974,Hintan päiväkoti P,,65.02709,25.534935,2,http://oulunliikenne.fi/1974,0,,Europe/Helsinki
+101746,1065,Pohjukkaoja E,,65.36469700000002,25.798615,5,http://oulunliikenne.fi/1065,0,,Europe/Helsinki
+189519,1674,Siitosen th E,,65.074472,25.661001,3,http://oulunliikenne.fi/1674,0,,Europe/Helsinki
+101221,3078,Vaaranmaa P,,64.762432,25.567284,4,http://oulunliikenne.fi/3078,0,,Europe/Helsinki
+148013,3050,Härmä E,,64.779707,25.641376,4,http://oulunliikenne.fi/3050,0,,Europe/Helsinki
+309975,3390,Ritaharjun koulu P,,65.08032,25.45589,2,http://oulunliikenne.fi/3390,0,,Europe/Helsinki
+101052,2610,Oulunsalon museo E,,64.936322,25.415818,3,http://oulunliikenne.fi/2610,0,,Europe/Helsinki
+120356,1574,Alavainio P,,65.11182700000002,25.348269,3,http://oulunliikenne.fi/1574,0,,Europe/Helsinki
+120783,2095,Kontinkangas E,,65.011652,25.514167,2,http://oulunliikenne.fi/2095,0,,Europe/Helsinki
+186024,3306,Musiikkikeskus E,,65.003706,25.478708,2,http://oulunliikenne.fi/3306,0,,Europe/Helsinki
+171263,1250,Sorosenperän th E,,65.288387,25.372443,4,http://oulunliikenne.fi/1250,0,,Europe/Helsinki
+98768,2915,Korilantie P,,64.82555000000002,25.931445,4,http://oulunliikenne.fi/2915,0,,Europe/Helsinki
+101263,1882,Saviharju E,,65.038978,25.715543,3,http://oulunliikenne.fi/1882,0,,Europe/Helsinki
+120525,1751,Tapiontie E,,65.062821,25.478269,2,http://oulunliikenne.fi/1751,0,,Europe/Helsinki
+148442,1316,Aseman koulu E,,65.19867600000002,25.392609,3,http://oulunliikenne.fi/1316,0,,Europe/Helsinki
+120719,2022,Parkkisenkangas P,,65.022832,25.54164,2,http://oulunliikenne.fi/2022,0,,Europe/Helsinki
+150137,2965,Toivontie P,,64.817844,25.437903,4,http://oulunliikenne.fi/2965,0,,Europe/Helsinki
+101712,1216,Mettovaaran puutarha E,,65.308981,25.608477,4,http://oulunliikenne.fi/1216,0,,Europe/Helsinki
+148057,2889,Jurvakainen E,,64.831997,26.058394,4,http://oulunliikenne.fi/2889,0,,Europe/Helsinki
+101582,2643,Sohjanantie E2,,64.92754600000002,25.511383,3,http://oulunliikenne.fi/2643,0,,Europe/Helsinki
+121107,2503,Siipikuja E,,64.958471,25.530453,2,http://oulunliikenne.fi/2503,0,,Europe/Helsinki
+191393,1404,Ukonkaivoksentie E,,65.176194,25.35694,3,http://oulunliikenne.fi/1404,0,,Europe/Helsinki
+183966,3179,Savotta-aukio E,,64.94487700000002,25.572648,2,http://oulunliikenne.fi/3179,0,,Europe/Helsinki
+98713,2507,Madekosken th P,,64.954334,25.662901,3,http://oulunliikenne.fi/2507,0,,Europe/Helsinki
+148464,1293,Martinniemen koulu P,,65.210822,25.315511,3,http://oulunliikenne.fi/1293,0,,Europe/Helsinki
+121066,2460,Kuukkelipolku E,,64.963882,25.54898,2,http://oulunliikenne.fi/2460,0,,Europe/Helsinki
+101546,1670,Keskuskatu P,,65.07884,25.408816,2,http://oulunliikenne.fi/1670,0,,Europe/Helsinki
+101260,1851,Putaala E,,65.042723,25.688161,3,http://oulunliikenne.fi/1851,0,,Europe/Helsinki
+120709,2007,Hoikantie E,,65.024857,25.497028,2,http://oulunliikenne.fi/2007,0,,Europe/Helsinki
+120853,2191,Radiomastontie E,,65.001591,25.530077,2,http://oulunliikenne.fi/2191,0,,Europe/Helsinki
+230859,3410,Rytikuja P2,,65.317375,25.362592,4,http://oulunliikenne.fi/3410,0,,Europe/Helsinki
+121323,2871,Simontaival P,,64.845244,25.663492,4,http://oulunliikenne.fi/2871,0,,Europe/Helsinki
+184151,3238,Jäähalli E,,65.009058,25.492571,1,http://oulunliikenne.fi/3238,0,,Europe/Helsinki
+150399,1246,Ojalantie P,,65.292057,25.68478,5,http://oulunliikenne.fi/1246,0,,Europe/Helsinki
+120766,2074,Erkkola P,,65.015525,25.52842,2,http://oulunliikenne.fi/2074,0,,Europe/Helsinki
+169656,3092,Muinaisranta E,,64.836476,25.678109,4,http://oulunliikenne.fi/3092,0,,Europe/Helsinki
+120923,2282,Vesaisentie P,,64.990548,25.490562,2,http://oulunliikenne.fi/2282,0,,Europe/Helsinki
+97778,2835,Ojala P,,64.855256,25.91112,4,http://oulunliikenne.fi/2835,0,,Europe/Helsinki
+148019,3066,Tyrnävän yläaste E,,64.765963,25.650159,4,http://oulunliikenne.fi/3066,0,,Europe/Helsinki
+101666,8001,Siltatie E,,65.132432,25.79616,3,http://oulunliikenne.fi/8001,0,,Europe/Helsinki
+120638,1906,Tervahovintie P,,65.040038,25.460181,2,http://oulunliikenne.fi/1906,0,,Europe/Helsinki
+150067,2843,Heikkinen E,,64.856068,25.617869,3,http://oulunliikenne.fi/2843,0,,Europe/Helsinki
+310705,4025,Mukkelintie P,,65.004642,25.577055,2,http://oulunliikenne.fi/4025,0,,Europe/Helsinki
+120208,1413,Kauppakuja P,,65.175433,25.350563,3,http://oulunliikenne.fi/1413,0,,Europe/Helsinki
+148446,1326,Tuohilaakso E,,65.194062,25.371488,3,http://oulunliikenne.fi/1326,0,,Europe/Helsinki
+188507,1859,Korvensuora P,,65.044415,25.575035,2,http://oulunliikenne.fi/1859,0,,Europe/Helsinki
+120386,1607,Jäälihalli P,,65.09262,25.689448,3,http://oulunliikenne.fi/1607,0,,Europe/Helsinki
+120665,1954,Tokkatie P,,65.031194,25.554748,2,http://oulunliikenne.fi/1954,0,,Europe/Helsinki
+310857,3402,Kettumetsä P,,65.084401,25.464691,2,http://oulunliikenne.fi/3402,0,,Europe/Helsinki
+120708,2005,Laamannintie P,,65.023862,25.511472,2,http://oulunliikenne.fi/2005,0,,Europe/Helsinki
+150320,1391,Härkätie P,,65.178046,25.344253,3,http://oulunliikenne.fi/1391,0,,Europe/Helsinki
+120724,2026,Nokkalantie P,,65.023597,25.505629,2,http://oulunliikenne.fi/2026,0,,Europe/Helsinki
+189728,2781,Sairaalantie P,,64.883803,25.866966,4,http://oulunliikenne.fi/2781,0,,Europe/Helsinki
+171795,2514,Lentokentän th P,,64.956307,25.505023,2,http://oulunliikenne.fi/2514,0,,Europe/Helsinki
+120688,1982,Karttatie E,,65.025617,25.545754,2,http://oulunliikenne.fi/1982,0,,Europe/Helsinki
+120664,1949,Satamatie E,,65.033996,25.446752,2,http://oulunliikenne.fi/1949,0,,Europe/Helsinki
+120868,2206,Kotkantien oppilaitokset P,,65.00013800000002,25.512835,2,http://oulunliikenne.fi/2206,0,,Europe/Helsinki
+147975,2666,Savikorpi P,,64.92321200000002,25.496994,3,http://oulunliikenne.fi/2666,0,,Europe/Helsinki
+120090,1289,Repolantie E,,65.213011,25.307506,3,http://oulunliikenne.fi/1289,0,,Europe/Helsinki
+184245,1191,Raasakka E,,65.315428,25.514185,4,http://oulunliikenne.fi/1191,0,,Europe/Helsinki
+101558,3223,Tulliväylä E,,65.015021,25.488671,1,http://oulunliikenne.fi/3223,0,,Europe/Helsinki
+148498,1198,Vaihtometsäntie E,,65.317387,25.333486,4,http://oulunliikenne.fi/1198,0,,Europe/Helsinki
+101226,3074,Keskikyläntie P,,64.762908,25.633919,4,http://oulunliikenne.fi/3074,0,,Europe/Helsinki
+148083,2020,Haapalehto P,,65.022339,25.55007,2,http://oulunliikenne.fi/2020,0,,Europe/Helsinki
+120854,2192,Svaanin th P,,65.001577,25.528657,2,http://oulunliikenne.fi/2192,0,,Europe/Helsinki
+101030,2988,Leisu E,,64.814396,25.351264,4,http://oulunliikenne.fi/2988,0,,Europe/Helsinki
+169634,2516,Poikuekuja E,,64.953681,25.535986,2,http://oulunliikenne.fi/2516,0,,Europe/Helsinki
+187707,1403,Ukonkaivoksentie P,,65.176311,25.357851,3,http://oulunliikenne.fi/1403,0,,Europe/Helsinki
+120718,2019,Kaplastie E,,65.022238,25.559009,2,http://oulunliikenne.fi/2019,0,,Europe/Helsinki
+184236,1121,Naurua P,,65.331184,25.728488,5,http://oulunliikenne.fi/1121,0,,Europe/Helsinki
+120633,1901,Leväsuontie E,,65.039055,25.577381,2,http://oulunliikenne.fi/1901,0,,Europe/Helsinki
+120538,1764,Elektroniikkatie 4P,,65.060323,25.439545,2,http://oulunliikenne.fi/1764,0,,Europe/Helsinki
+120902,2248,Hiirihaukka P,,64.993678,25.520867,2,http://oulunliikenne.fi/2248,0,,Europe/Helsinki
+120350,1567,Uhanperä P,,65.115236,25.344182,3,http://oulunliikenne.fi/1567,0,,Europe/Helsinki
+121163,2577,Pitkämäki E,,64.943652,25.382378,3,http://oulunliikenne.fi/2577,0,,Europe/Helsinki
+181286,3269,Automaatiotie P,,64.932217,25.383617,3,http://oulunliikenne.fi/3269,0,,Europe/Helsinki
+121001,2379,Eteläranta P,,64.975127,25.496834,2,http://oulunliikenne.fi/2379,0,,Europe/Helsinki
+120657,1938,Satamatie P,,65.03519,25.446003,2,http://oulunliikenne.fi/1938,0,,Europe/Helsinki
+184173,3216,Galleria,,65.011747,25.474623,1,http://oulunliikenne.fi/3216,0,,Europe/Helsinki
+97629,2980,Ojakylä E,,64.811381,25.709795,4,http://oulunliikenne.fi/2980,0,,Europe/Helsinki
+120757,2062,Kuparilammintie E,,65.017125,25.543373,2,http://oulunliikenne.fi/2062,0,,Europe/Helsinki
+101519,1440,Annalankangas P,,65.161517,25.347994,3,http://oulunliikenne.fi/1440,0,,Europe/Helsinki
+101268,1834,Kiiminki th E,,65.041628,25.870612,3,http://oulunliikenne.fi/1834,0,,Europe/Helsinki
+98714,2510,Madekosken th E,,64.954138,25.663016,3,http://oulunliikenne.fi/2510,0,,Europe/Helsinki
+148444,1318,Saarikankaantie E,,65.196587,25.383487,3,http://oulunliikenne.fi/1318,0,,Europe/Helsinki
+148455,1315,Siipola P,,65.200802,25.339819,3,http://oulunliikenne.fi/1315,0,,Europe/Helsinki
+153130,3008,Kirkko th E,,64.81052200000002,25.407378,4,http://oulunliikenne.fi/3008,0,,Europe/Helsinki
+101290,1896,Linnakekuja P,,65.031797,26.058338,4,http://oulunliikenne.fi/1896,0,,Europe/Helsinki
+120742,2047,Koivumaantie E2,,65.01812700000002,25.54858,2,http://oulunliikenne.fi/2047,0,,Europe/Helsinki
+101297,1926,Makasiinikangas E,,65.02853500000002,26.140857,4,http://oulunliikenne.fi/1926,0,,Europe/Helsinki
+101293,1912,Ukonkangas P,,65.030124,26.11345,4,http://oulunliikenne.fi/1912,0,,Europe/Helsinki
+101082,2399,Ervastinkylä E,,64.973781,25.300276,3,http://oulunliikenne.fi/2399,0,,Europe/Helsinki
+98697,2166,Teuvo Pakkala E,,65.005534,25.490946,2,http://oulunliikenne.fi/2166,0,,Europe/Helsinki
+120942,2305,Mäntyrinne E,,64.987152,25.56465,2,http://oulunliikenne.fi/2305,0,,Europe/Helsinki
+183953,3172,Tuomipellontie P,,64.950484,25.540224,2,http://oulunliikenne.fi/3172,0,,Europe/Helsinki
+120851,2189,Lämsänjärventie E,,65.000852,25.552698,2,http://oulunliikenne.fi/2189,0,,Europe/Helsinki
+101041,3151,Pappilanpelto P,,64.80444300000002,25.419384,4,http://oulunliikenne.fi/3151,0,,Europe/Helsinki
+101613,1396,Kuivala P,,65.175043,25.573443,4,http://oulunliikenne.fi/1396,0,,Europe/Helsinki
+98702,2344,Maikkulantien th E,,64.98028100000002,25.562879,2,http://oulunliikenne.fi/2344,0,,Europe/Helsinki
+120507,1733,Raitotie P,,65.06374,25.509862,2,http://oulunliikenne.fi/1733,0,,Europe/Helsinki
+191117,1193,Timpurintie E,,65.31617,25.388236,4,http://oulunliikenne.fi/1193,0,,Europe/Helsinki
+184243,1143,Niskala E,,65.32018600000002,25.690694,5,http://oulunliikenne.fi/1143,0,,Europe/Helsinki
+120948,2315,Metsänkuninkaantie P,,64.985034,25.512276,2,http://oulunliikenne.fi/2315,0,,Europe/Helsinki
+121008,2390,Kaskiahonkuja P,,64.972377,25.59575,2,http://oulunliikenne.fi/2390,0,,Europe/Helsinki
+101261,1884,Jääkärintie P,,65.039448,25.700424,3,http://oulunliikenne.fi/1884,0,,Europe/Helsinki
+183973,3183,Ritaharjuntie P,,65.062474,25.447027,2,http://oulunliikenne.fi/3183,0,,Europe/Helsinki
+120564,1792,Johdinkuja E,,65.054118,25.597418,2,http://oulunliikenne.fi/1792,0,,Europe/Helsinki
+98725,2624,Vasankangas th P,,64.92568300000002,25.749688,3,http://oulunliikenne.fi/2624,0,,Europe/Helsinki
+98790,8207,Suokylä th P,,64.7928,26.0749,5,http://oulunliikenne.fi/8207,0,,Europe/Helsinki
+171810,1801,Keulapuisto P,,65.055879,25.443523,2,http://oulunliikenne.fi/1801,0,,Europe/Helsinki
+101506,1305,Kuivalanperäntie E,,65.203153,25.362682,3,http://oulunliikenne.fi/1305,0,,Europe/Helsinki
+120508,1734,Kerttulanpuisto E,,65.064968,25.506095,2,http://oulunliikenne.fi/1734,0,,Europe/Helsinki
+101090,2322,Riuttu E,,64.99635000000002,25.24823,3,http://oulunliikenne.fi/2322,0,,Europe/Helsinki
+101238,8086,Uusi-Siira E,,64.77720100000002,25.724966,4,http://oulunliikenne.fi/8086,0,,Europe/Helsinki
+101501,1265,Ukkolanperän th P,,65.230294,25.362115,3,http://oulunliikenne.fi/1265,0,,Europe/Helsinki
+169631,2515,Poikuekuja P,,64.954131,25.536131,2,http://oulunliikenne.fi/2515,0,,Europe/Helsinki
+186809,3328,Närhintie P,,65.009749,25.52762,2,http://oulunliikenne.fi/3328,0,,Europe/Helsinki
+150142,2912,Selkämaa th P,,64.83338500000002,25.463067,4,http://oulunliikenne.fi/2912,0,,Europe/Helsinki
+101622,1441,Hurunmäki E,,65.154118,25.618986,3,http://oulunliikenne.fi/1441,0,,Europe/Helsinki
+190179,2338,Riutunkari,,65.008495,25.197361,3,http://oulunliikenne.fi/2338,0,,Europe/Helsinki
+150267,1488,Sipolanpisto P,,65.135036,25.624708,3,http://oulunliikenne.fi/1488,0,,Europe/Helsinki
+98805,8223,Parpala E,,64.7773,26.2975,5,http://oulunliikenne.fi/8223,0,,Europe/Helsinki
+183954,3173,Pesätie E,,64.952219,25.536087,2,http://oulunliikenne.fi/3173,0,,Europe/Helsinki
+120433,1657,Sahantie P,,65.085563,25.404139,2,http://oulunliikenne.fi/1657,0,,Europe/Helsinki
+120834,2167,Hakakatu E,,65.004732,25.489656,2,http://oulunliikenne.fi/2167,0,,Europe/Helsinki
+150148,2829,Tupos E2,,64.864076,25.489265,4,http://oulunliikenne.fi/2829,0,,Europe/Helsinki
+101695,1149,Myllytörmä P,,65.322244,25.458666,4,http://oulunliikenne.fi/1149,0,,Europe/Helsinki
+148006,3028,Parras P,,64.800349,25.619861,4,http://oulunliikenne.fi/3028,0,,Europe/Helsinki
+190671,3344,Hakkuutie P,,64.94641,25.577284,2,http://oulunliikenne.fi/3344,0,,Europe/Helsinki
+101231,3059,Ylitalon th P,,64.772151,25.673836,4,http://oulunliikenne.fi/3059,0,,Europe/Helsinki
+101094,8308,Sysiperä E,,65.0367,24.9599,5,http://oulunliikenne.fi/8308,0,,Europe/Helsinki
+190069,3124,Haapamaantie P,,64.89519,25.545277,3,http://oulunliikenne.fi/3124,0,,Europe/Helsinki
+121024,2409,Turkkitie E,,64.971327,25.519666,2,http://oulunliikenne.fi/2409,0,,Europe/Helsinki
+121265,2715,Tiilimestarinrinne P,,64.911968,25.559351,3,http://oulunliikenne.fi/2715,0,,Europe/Helsinki
+121174,2591,Teeritie P,,64.940569,25.371182,3,http://oulunliikenne.fi/2591,0,,Europe/Helsinki
+310723,4016,Tahtimarssi E,,65.0087986006685,25.59774632075199,2,http://oulunliikenne.fi/4016,0,,Europe/Helsinki
+150270,1436,Rinnetie E,,65.14818687256334,25.63624673840818,3,http://oulunliikenne.fi/1436,0,,Europe/Helsinki
+187930,2931,Sallisentie E,,64.8291,25.244683,4,http://oulunliikenne.fi/2931,0,,Europe/Helsinki
+150384,1161,Iin Työväentalo P,,65.321889,25.380203,4,http://oulunliikenne.fi/1161,0,,Europe/Helsinki
+120524,1750,Tuulikintie P,,65.062739,25.486945,2,http://oulunliikenne.fi/1750,0,,Europe/Helsinki
+101029,2989,Leisu P,,64.814452,25.349913,4,http://oulunliikenne.fi/2989,0,,Europe/Helsinki
+150040,3015,Taalintie E,,64.808194,25.439072,4,http://oulunliikenne.fi/3015,0,,Europe/Helsinki
+183965,3190,Metsokankaan koulu E,,64.943615,25.542418,2,http://oulunliikenne.fi/3190,0,,Europe/Helsinki
+120416,1638,Ojatie P,,65.085036,25.67774,3,http://oulunliikenne.fi/1638,0,,Europe/Helsinki
+190185,1891,Parola P,,65.032113,26.052675,4,http://oulunliikenne.fi/1891,0,,Europe/Helsinki
+101083,2401,Ervastintörmä E,,64.975369,25.286956,3,http://oulunliikenne.fi/2401,0,,Europe/Helsinki
+183978,3185,Otsonkuja P,,64.979773,25.518225,2,http://oulunliikenne.fi/3185,0,,Europe/Helsinki
+120935,2296,Lintula,,64.98841400000002,25.50041,2,http://oulunliikenne.fi/2296,0,,Europe/Helsinki
+121154,2564,Salavakuja E,,64.94485,25.378579,3,http://oulunliikenne.fi/2564,0,,Europe/Helsinki
+150078,2895,Niitynmaa th P,,64.834458,25.670201,4,http://oulunliikenne.fi/2895,0,,Europe/Helsinki
+310862,3407,Erämetsä E,,65.089431,25.462608,2,http://oulunliikenne.fi/3407,0,,Europe/Helsinki
+101550,1740,Hiirenvirna E,,65.065587,25.411988,2,http://oulunliikenne.fi/1740,0,,Europe/Helsinki
+164368,3111,Nupputie P,,65.073103,25.460801,2,http://oulunliikenne.fi/3111,0,,Europe/Helsinki
+101559,3224,Tulliväylä P,,65.013538,25.486634,1,http://oulunliikenne.fi/3224,0,,Europe/Helsinki
+120446,1672,Itälahdentie P,,65.080208,25.397442,2,http://oulunliikenne.fi/1672,0,,Europe/Helsinki
+101638,1493,Putkonen E,,65.131548,25.701271,3,http://oulunliikenne.fi/1493,0,,Europe/Helsinki
+120557,1785,Ylioppilaskylä P,,65.05759500000002,25.472469,2,http://oulunliikenne.fi/1785,0,,Europe/Helsinki
+101733,1096,H Ylitalo E,,65.342626,25.71434,5,http://oulunliikenne.fi/1096,0,,Europe/Helsinki
+101656,1540,Paso E,,65.119372,25.803383,3,http://oulunliikenne.fi/1540,0,,Europe/Helsinki
+148115,2494,Heikinniementie E,,64.956428,25.710209,3,http://oulunliikenne.fi/2494,0,,Europe/Helsinki
+120481,1707,Talvikkitie E,,65.07266300000002,25.427958,2,http://oulunliikenne.fi/1707,0,,Europe/Helsinki
+148434,1355,Harjunkangas P,,65.187373,25.471743,4,http://oulunliikenne.fi/1355,0,,Europe/Helsinki
+148180,2782,Sairaalantie E,,64.883809,25.866692,4,http://oulunliikenne.fi/2782,0,,Europe/Helsinki
+101299,2854,Paavolankuja E,,64.848349,25.901386,4,http://oulunliikenne.fi/2854,0,,Europe/Helsinki
+120666,1955,Tokkatie E,,65.030683,25.552929,2,http://oulunliikenne.fi/1955,0,,Europe/Helsinki
+98785,8202,Kärnä E,,64.8056,26.0292,5,http://oulunliikenne.fi/8202,0,,Europe/Helsinki
+184153,3236,Raksilan marketit E,,65.010198,25.488201,1,http://oulunliikenne.fi/3236,0,,Europe/Helsinki
+98784,8201,Kärnä P,,64.8058,26.0281,5,http://oulunliikenne.fi/8201,0,,Europe/Helsinki
+190170,2587,Hailuodon th P,,64.93845,25.428723,3,http://oulunliikenne.fi/2587,0,,Europe/Helsinki
+169663,3091,Murron koulu E,,64.841695,25.669844,4,http://oulunliikenne.fi/3091,0,,Europe/Helsinki
+97673,3056,Marttila P,,64.777283,25.548266,4,http://oulunliikenne.fi/3056,0,,Europe/Helsinki
+101059,2719,Tiilitie P,,64.912391,25.497663,3,http://oulunliikenne.fi/2719,0,,Europe/Helsinki
+101626,1449,Rasi E,,65.147209,25.654351,3,http://oulunliikenne.fi/1449,0,,Europe/Helsinki
+148431,1362,Isojämsä E,,65.184524,25.48271,4,http://oulunliikenne.fi/1362,0,,Europe/Helsinki
+98761,2888,Rönköntie E,,64.835753,25.910939,4,http://oulunliikenne.fi/2888,0,,Europe/Helsinki
+150096,8080,Haarankauppa P,,64.784403,25.691721,4,http://oulunliikenne.fi/8080,0,,Europe/Helsinki
+101691,1173,Ii Asemankylä P,,65.319923,25.436184,4,http://oulunliikenne.fi/1173,0,,Europe/Helsinki
+97710,1251,Praavan th P,,65.282684,25.369344,4,http://oulunliikenne.fi/1251,0,,Europe/Helsinki
+98724,2615,Pikkuharjuntie E,,64.930043,25.739538,3,http://oulunliikenne.fi/2615,0,,Europe/Helsinki
+120601,1843,Kornetintie P,,65.046281,25.612251,2,http://oulunliikenne.fi/1843,0,,Europe/Helsinki
+231891,2538,Paaso E,,64.946697,25.736703,3,http://oulunliikenne.fi/2538,0,,Europe/Helsinki
+101726,1114,Alatalo E,,65.335323,25.689168,5,http://oulunliikenne.fi/1114,0,,Europe/Helsinki
+121012,2394,Lumijärventie E,,64.97316600000002,25.509737,2,http://oulunliikenne.fi/2394,0,,Europe/Helsinki
+304238,2176,Professorintie P,,65.00893201477508,25.50732099580587,2,http://oulunliikenne.fi/2176,0,,Europe/Helsinki
+120621,1871,Rannanperä P,,65.042489,25.581891,2,http://oulunliikenne.fi/1871,0,,Europe/Helsinki
+101112,8327,Petsamon th E,,65.033,24.7758,5,http://oulunliikenne.fi/8327,0,,Europe/Helsinki
+120512,1738,Veitikka E,,65.065421,25.420096,2,http://oulunliikenne.fi/1738,0,,Europe/Helsinki
+152734,1521,Kiimingin yläaste E,,65.126184,25.784842,3,http://oulunliikenne.fi/1521,0,,Europe/Helsinki
+189521,1620,Hamari E,,65.088752,25.67596,3,http://oulunliikenne.fi/1620,0,,Europe/Helsinki
+148460,1301,Vahtola P,,65.207616,25.328878,3,http://oulunliikenne.fi/1301,0,,Europe/Helsinki
+148015,3057,Puronkari E,,64.773684,25.644853,4,http://oulunliikenne.fi/3057,0,,Europe/Helsinki
+121078,2471,Kivitaskunkuja P,,64.961668,25.560278,2,http://oulunliikenne.fi/2471,0,,Europe/Helsinki
+120802,2117,Oulujoen koulu P,,65.008625,25.560464,2,http://oulunliikenne.fi/2117,0,,Europe/Helsinki
+152758,1839,Rasilantie P,,65.044091,25.676456,3,http://oulunliikenne.fi/1839,0,,Europe/Helsinki
+101091,2321,Riuttu P,,64.996765,25.246878,3,http://oulunliikenne.fi/2321,0,,Europe/Helsinki
+148050,2925,Perukka P,,64.820339,26.037828,4,http://oulunliikenne.fi/2925,0,,Europe/Helsinki
+150056,2807,Palonperä P,,64.873929,25.582576,3,http://oulunliikenne.fi/2807,0,,Europe/Helsinki
+98722,2597,Vanhantien th E,,64.933886,25.717157,3,http://oulunliikenne.fi/2597,0,,Europe/Helsinki
+120523,1749,Tuulikintie E,,65.062829,25.486939,2,http://oulunliikenne.fi/1749,0,,Europe/Helsinki
+98817,8236,Utajärvi P,,64.7601,26.4136,5,http://oulunliikenne.fi/8236,0,,Europe/Helsinki
+171799,2423,Oulunlahden koulu P,,64.968469,25.494857,2,http://oulunliikenne.fi/2423,0,,Europe/Helsinki
+120939,2302,Kolehmaisentie E,,64.985385,25.576887,2,http://oulunliikenne.fi/2302,0,,Europe/Helsinki
+101016,2958,Mikkola E,,64.820775,25.27307,4,http://oulunliikenne.fi/2958,0,,Europe/Helsinki
+120405,1627,Havutie P,,65.08734,25.710595,3,http://oulunliikenne.fi/1627,0,,Europe/Helsinki
+148054,2904,Perhekoti P,,64.826725,26.047541,4,http://oulunliikenne.fi/2904,0,,Europe/Helsinki
+101554,1779,Pönkänkari P,,65.0596,25.427007,2,http://oulunliikenne.fi/1779,0,,Europe/Helsinki
+101694,1152,Paakkola P,,65.323157,25.447925,4,http://oulunliikenne.fi/1152,0,,Europe/Helsinki
+189725,2732,Toivanen E,,64.902755,25.839868,3,http://oulunliikenne.fi/2732,0,,Europe/Helsinki
+121127,2527,Pesätie PP,,64.952969,25.535686,2,http://oulunliikenne.fi/2527,0,,Europe/Helsinki
+101518,1427,Viikki E,,65.16723500000002,25.347446,3,http://oulunliikenne.fi/1427,0,,Europe/Helsinki
+120607,1857,Tuiskutie E,,65.044353,25.586443,2,http://oulunliikenne.fi/1857,0,,Europe/Helsinki
+308743,2246,Naavakuusi P,,64.978178,25.575998,2,http://oulunliikenne.fi/2246,0,,Europe/Helsinki
+101220,3079,Vaaranmaa E,,64.762162,25.565386,4,http://oulunliikenne.fi/3079,0,,Europe/Helsinki
+98799,8216,Muhosperä th E,,64.78660000000002,26.1508,5,http://oulunliikenne.fi/8216,0,,Europe/Helsinki
+183969,3182,Lähimetsä E,,64.946484,25.570002,2,http://oulunliikenne.fi/3182,0,,Europe/Helsinki
+120535,1761,Yliopistokatu E,,65.06102,25.47223,2,http://oulunliikenne.fi/1761,0,,Europe/Helsinki
+120323,1534,Honkimaa E,,65.12202600000002,25.746164,3,http://oulunliikenne.fi/1534,0,,Europe/Helsinki
+120080,1273,Kalastajantie PP,,65.224676,25.310117,3,http://oulunliikenne.fi/1273,0,,Europe/Helsinki
+101634,1477,Tirinkylä E,,65.136408,25.689718,3,http://oulunliikenne.fi/1477,0,,Europe/Helsinki
+101542,1601,Herukka P,,65.096581,25.404224,2,http://oulunliikenne.fi/1601,0,,Europe/Helsinki
+189673,2636,Lapinkankaan koulu P,,64.92539600000002,25.800179,3,http://oulunliikenne.fi/2636,0,,Europe/Helsinki
+120810,2125,Linja-autoasema L,,65.009421,25.484109,2,http://oulunliikenne.fi/2125,0,,Europe/Helsinki
+101498,1261,Halosenniemi th E,,65.246465,25.35266,3,http://oulunliikenne.fi/1261,0,,Europe/Helsinki
+148123,2530,Turkka E,,64.94936,25.730166,3,http://oulunliikenne.fi/2530,0,,Europe/Helsinki
+184234,1082,Hökkä E,,65.353362,25.810391,5,http://oulunliikenne.fi/1082,0,,Europe/Helsinki
+150093,3032,Matinolli E,,64.794224,25.683397,4,http://oulunliikenne.fi/3032,0,,Europe/Helsinki
+148124,2537,Paaso P,,64.94677900000002,25.736763,3,http://oulunliikenne.fi/2537,0,,Europe/Helsinki
+101244,8091,Korkalan th E,,64.77523507678362,25.769123591079,4,http://oulunliikenne.fi/8091,0,,Europe/Helsinki
+98721,2599,Vanhantien th P,,64.934719,25.714405,3,http://oulunliikenne.fi/2599,0,,Europe/Helsinki
+184168,3221,Matkakeskus E,,65.011023,25.480779,1,http://oulunliikenne.fi/3221,0,,Europe/Helsinki
+150386,1230,Jakkuranta E,,65.301007,25.605724,4,http://oulunliikenne.fi/1230,0,,Europe/Helsinki
+98493,1701,Välikuja P,,65.070053,25.653379,3,http://oulunliikenne.fi/1701,0,,Europe/Helsinki
+120937,2298,Kihokkitie E,,64.988468,25.493287,2,http://oulunliikenne.fi/2298,0,,Europe/Helsinki
+189658,3279,Jukurintie P,,64.852688,25.53467,4,http://oulunliikenne.fi/3279,0,,Europe/Helsinki
+147996,2896,Peräoja P,,64.836092,25.575442,4,http://oulunliikenne.fi/2896,0,,Europe/Helsinki
+121506,1907,Lämpövoimala P,,65.038878,25.442603,2,http://oulunliikenne.fi/1907,0,,Europe/Helsinki
+121022,2407,Hanhikaarentie E,,64.970756,25.599923,2,http://oulunliikenne.fi/2407,0,,Europe/Helsinki
+181288,3271,Kuovintie E,,64.942219,25.372732,3,http://oulunliikenne.fi/3271,0,,Europe/Helsinki
+121195,2619,Riisikuja P,,64.933497,25.401624,3,http://oulunliikenne.fi/2619,0,,Europe/Helsinki
+101529,1523,Kello P,,65.12938,25.359323,3,http://oulunliikenne.fi/1523,0,,Europe/Helsinki
+120712,2012,Merikoskenkatu P2,,65.024746,25.47021,2,http://oulunliikenne.fi/2012,0,,Europe/Helsinki
+101502,1266,Ukkolanperän th E,,65.229249,25.362522,3,http://oulunliikenne.fi/1266,0,,Europe/Helsinki
+120875,2213,Merikotka P,,64.996833,25.513443,2,http://oulunliikenne.fi/2213,0,,Europe/Helsinki
+120511,1737,Veitikka P,,65.06534000000002,25.419994,2,http://oulunliikenne.fi/1737,0,,Europe/Helsinki
+190220,2611,Oulunsalo-talo E,,64.934823,25.398985,3,http://oulunliikenne.fi/2611,0,,Europe/Helsinki
+101096,8310,Potti P,,65.0594,24.88,5,http://oulunliikenne.fi/8310,0,,Europe/Helsinki
+120590,1823,Rantapellontie E,,65.051157,25.432901,2,http://oulunliikenne.fi/1823,0,,Europe/Helsinki
+120658,1943,Huonesuonpuisto E,,65.03342000000002,25.562312,2,http://oulunliikenne.fi/1943,0,,Europe/Helsinki
+310861,3406,Erämetsä P,,65.089753,25.462947,2,http://oulunliikenne.fi/3406,0,,Europe/Helsinki
+184249,1203,Patosillan th E,,65.31316,25.532698,4,http://oulunliikenne.fi/1203,0,,Europe/Helsinki
+301594,3103,Haukiputaan koulu,,65.175157,25.36552,3,http://oulunliikenne.fi/3103,0,,Europe/Helsinki
+153079,2954,Hakala P,,64.820152,25.303144,4,http://oulunliikenne.fi/2954,0,,Europe/Helsinki
+120837,2171,Kyösti Kallion puisto E,,65.005695,25.458342,2,http://oulunliikenne.fi/2171,0,,Europe/Helsinki
+101574,2554,Virtaoja E,,64.945377,25.51818,2,http://oulunliikenne.fi/2554,0,,Europe/Helsinki
+147972,2651,Ollila th P,,64.92662,25.507586,3,http://oulunliikenne.fi/2651,0,,Europe/Helsinki
+184140,3249,Rautatienkatu E,,65.00957,25.480198,1,http://oulunliikenne.fi/3249,0,,Europe/Helsinki
+189659,3280,Jukurintie E,,64.852632,25.534483,4,http://oulunliikenne.fi/3280,0,,Europe/Helsinki
+150037,3012,Pajutie E,,64.808193,25.446714,4,http://oulunliikenne.fi/3012,0,,Europe/Helsinki
+101532,1545,Kalimensilta E,,65.124192,25.362391,3,http://oulunliikenne.fi/1545,0,,Europe/Helsinki
+120797,2110,Elokuvakeskus,,65.01122700000002,25.466784,2,http://oulunliikenne.fi/2110,0,,Europe/Helsinki
+121010,2392,Kaskiahontie E,,64.97155,25.587068,2,http://oulunliikenne.fi/2392,0,,Europe/Helsinki
+101708,1210,Piste E,,65.311354,25.580164,4,http://oulunliikenne.fi/1210,0,,Europe/Helsinki
+190226,2417,Mustaniemi E,,64.972284,25.265315,3,http://oulunliikenne.fi/2417,0,,Europe/Helsinki
+101734,1090,Suvanto P,,65.34461400000002,25.725498,5,http://oulunliikenne.fi/1090,0,,Europe/Helsinki
+231888,2934,Toivolakoti E,,64.81662437009102,26.02955075414427,4,http://oulunliikenne.fi/2934,0,,Europe/Helsinki
+147999,2909,Ritokorpi E,,64.831042,25.583041,4,http://oulunliikenne.fi/2909,0,,Europe/Helsinki
+190173,2710,Kirkonmäki E,,64.914164,25.486764,3,http://oulunliikenne.fi/2710,0,,Europe/Helsinki
+97688,1367,Jokela E,,65.182487,25.503278,4,http://oulunliikenne.fi/1367,0,,Europe/Helsinki
+120866,2204,Svaanintie E,,64.999402,25.532805,2,http://oulunliikenne.fi/2204,0,,Europe/Helsinki
+150065,2837,Hovimurto E,,64.859113,25.612566,3,http://oulunliikenne.fi/2837,0,,Europe/Helsinki
+120683,1977,Hartaantie E,,65.02795500000002,25.456888,2,http://oulunliikenne.fi/1977,0,,Europe/Helsinki
+188000,1133,Marion E,,65.326495,25.519377,4,http://oulunliikenne.fi/1133,0,,Europe/Helsinki
+148452,1327,Siikasaari E,,65.194641,25.34815,3,http://oulunliikenne.fi/1327,0,,Europe/Helsinki
+101678,1055,Leuvanjoen th P,,65.371166,25.83547,5,http://oulunliikenne.fi/1055,0,,Europe/Helsinki
+101007,2933,Vesankuja P,,64.830716,25.234127,4,http://oulunliikenne.fi/2933,0,,Europe/Helsinki
+152733,1520,Kiimingin yläaste P,,65.126248,25.784967,3,http://oulunliikenne.fi/1520,0,,Europe/Helsinki
+120882,2220,Karjasillan kirkko E,,64.997061,25.490492,2,http://oulunliikenne.fi/2220,0,,Europe/Helsinki
+150081,2917,Huovinen E,,64.829911,25.679379,4,http://oulunliikenne.fi/2917,0,,Europe/Helsinki
+148170,2746,Ehtiäisentie E,,64.899308,25.845382,3,http://oulunliikenne.fi/2746,0,,Europe/Helsinki
+121090,2483,Sadekuja E,,64.959166,25.552897,2,http://oulunliikenne.fi/2483,0,,Europe/Helsinki
+121000,2378,Etelärata E,,64.975006,25.497243,2,http://oulunliikenne.fi/2378,0,,Europe/Helsinki
+120534,1760,Yliopistokatu P,,65.061022,25.472464,2,http://oulunliikenne.fi/1760,0,,Europe/Helsinki
+120488,1714,Vesipääskyntie E,,65.069008,25.517241,2,http://oulunliikenne.fi/1714,0,,Europe/Helsinki
+120385,1606,Jäälin ostoskeskus E,,65.091979,25.692117,3,http://oulunliikenne.fi/1606,0,,Europe/Helsinki
+171367,2707,Kunnantalo E,,64.912586,25.508635,3,http://oulunliikenne.fi/2707,0,,Europe/Helsinki
+148010,3040,Salosentie P,,64.789586,25.627837,4,http://oulunliikenne.fi/3040,0,,Europe/Helsinki
+120656,1937,Alppila P,,65.034983,25.465016,2,http://oulunliikenne.fi/1937,0,,Europe/Helsinki
+184123,3266,Limingantulli,,64.99517973117474,25.4619791894876,1,http://oulunliikenne.fi/3266,0,,Europe/Helsinki
+148003,2949,Nikula th E,,64.818883,25.60257,4,http://oulunliikenne.fi/2949,0,,Europe/Helsinki
+101278,1942,Rokkarannantie E,,65.02847,25.978002,4,http://oulunliikenne.fi/1942,0,,Europe/Helsinki
+101227,3073,Keskikyläntie E,,64.762463,25.637283,4,http://oulunliikenne.fi/3073,0,,Europe/Helsinki
+101289,1895,Linnakekuja E,,65.03186700000002,26.058166,4,http://oulunliikenne.fi/1895,0,,Europe/Helsinki
+169657,3093,Pohjoisranta E,,64.834015,25.684951,4,http://oulunliikenne.fi/3093,0,,Europe/Helsinki
+101729,1103,Ylitalo P,,65.338464,25.699706,5,http://oulunliikenne.fi/1103,0,,Europe/Helsinki
+120084,1277,Heinonpolku P,,65.22227700000002,25.301012,3,http://oulunliikenne.fi/1277,0,,Europe/Helsinki
+164185,3118,Toppilansaarentie E,,65.032492,25.42818,2,http://oulunliikenne.fi/3118,0,,Europe/Helsinki
+120527,1753,Yliopiston puutarha P,,65.062805,25.467006,2,http://oulunliikenne.fi/1753,0,,Europe/Helsinki
+120962,2329,Repolaisentie E,,64.983392,25.521351,2,http://oulunliikenne.fi/2329,0,,Europe/Helsinki
+101721,1126,Viitakangas P,,65.329466,25.659665,5,http://oulunliikenne.fi/1126,0,,Europe/Helsinki
+188499,1932,Porotie E,,65.034109,25.540791,2,http://oulunliikenne.fi/1932,0,,Europe/Helsinki
+184238,1123,Manninen E,,65.330493,25.691813,5,http://oulunliikenne.fi/1123,0,,Europe/Helsinki
+186033,3315,Urpiaisentie E2,,65.070585,25.519747,2,http://oulunliikenne.fi/3315,0,,Europe/Helsinki
+101288,1898,Parolanmäki E,,65.032602,26.048185,4,http://oulunliikenne.fi/1898,0,,Europe/Helsinki
+120806,2121,Oulunsuun koulu P,,65.007738,25.528361,2,http://oulunliikenne.fi/2121,0,,Europe/Helsinki
+101646,1479,Kirkonniementie E,,65.132598,25.761752,3,http://oulunliikenne.fi/1479,0,,Europe/Helsinki
+184144,3245,Kiviharjuntie E,,65.009335,25.508548,1,http://oulunliikenne.fi/3245,0,,Europe/Helsinki
+150057,2808,Palonperä E,,64.873231,25.583647,3,http://oulunliikenne.fi/2808,0,,Europe/Helsinki
+120213,1418,Hukantie P,,65.173596,25.349141,3,http://oulunliikenne.fi/1418,0,,Europe/Helsinki
+171801,2411,Vesalantie P,,64.971585,25.490763,2,http://oulunliikenne.fi/2411,0,,Europe/Helsinki
+189532,2971,Kellotie P,,64.80985200000002,25.983872,4,http://oulunliikenne.fi/2971,0,,Europe/Helsinki
+187924,2913,Jokivainio E,,64.83642124263666,25.20056372783477,4,http://oulunliikenne.fi/2913,0,,Europe/Helsinki
+120618,1868,Huurrekuja P,,65.041849,25.602607,2,http://oulunliikenne.fi/1868,0,,Europe/Helsinki
+148159,2670,Riihipellontie E,,64.917846,25.817362,3,http://oulunliikenne.fi/2670,0,,Europe/Helsinki
+101277,1941,Rokkarannantie P,,65.028646,25.977422,4,http://oulunliikenne.fi/1941,0,,Europe/Helsinki
+307141,3367,Pirttilä P,,64.940943,25.559472,2,http://oulunliikenne.fi/3367,0,,Europe/Helsinki
+187997,1150,Myllytörmä E,,65.32229700000002,25.456775,4,http://oulunliikenne.fi/1150,0,,Europe/Helsinki
+120820,2149,OYS B2,,65.006993,25.520237,2,http://oulunliikenne.fi/2149,0,,Europe/Helsinki
+150054,2796,Pyykönmutka P,,64.879525,25.579579,3,http://oulunliikenne.fi/2796,0,,Europe/Helsinki
+120732,2037,Kurkelankuja P,,65.02049,25.514312,2,http://oulunliikenne.fi/2037,0,,Europe/Helsinki
+148018,3065,Tyrnävän yläaste P,,64.766632,25.649768,4,http://oulunliikenne.fi/3065,0,,Europe/Helsinki
+14040,1547,Runttilantie P,,65.088249,25.832327,3,http://oulunliikenne.fi/1547,0,,Europe/Helsinki
+183983,3196,Palhokuja E,,65.07159900000002,25.447154,2,http://oulunliikenne.fi/3196,0,,Europe/Helsinki
+120699,1996,Vellamontie P,,65.027484,25.421194,2,http://oulunliikenne.fi/1996,0,,Europe/Helsinki
+321615,3154,Honkitie P,,64.80601900000002,25.421973,4,http://oulunliikenne.fi/3154,0,,Europe/Helsinki
+310820,3352,Jokivarrentie,,65.201358,25.485619,4,http://oulunliikenne.fi/3352,0,,Europe/Helsinki
+148229,2847,Kieksi E,,64.848028,26.017044,4,http://oulunliikenne.fi/2847,0,,Europe/Helsinki
+98788,8205,Laitilantie P,,64.7938,26.0655,5,http://oulunliikenne.fi/8205,0,,Europe/Helsinki
+121023,2408,Oritputaantie PP,,64.970951,25.577844,2,http://oulunliikenne.fi/2408,0,,Europe/Helsinki
+101493,1258,Pitäjänraja P,,65.259616,25.357557,4,http://oulunliikenne.fi/1258,0,,Europe/Helsinki
+148224,2880,Koskela P,,64.8363,26.002955,4,http://oulunliikenne.fi/2880,0,,Europe/Helsinki
+150265,1495,Nurmioja P,,65.132092,25.620557,3,http://oulunliikenne.fi/1495,0,,Europe/Helsinki
+101617,1415,Mannintie P,,65.170739,25.594585,4,http://oulunliikenne.fi/1415,0,,Europe/Helsinki
+101513,1406,Haukipudas P,,65.177114,25.354109,3,http://oulunliikenne.fi/1406,0,,Europe/Helsinki
+120396,1617,Timolantie E,,65.094462,25.420181,2,http://oulunliikenne.fi/1617,0,,Europe/Helsinki
+148440,1312,Torvelantie E,,65.199951,25.397744,3,http://oulunliikenne.fi/1312,0,,Europe/Helsinki
+187928,2922,Vesankuja E,,64.83075,25.233281,4,http://oulunliikenne.fi/2922,0,,Europe/Helsinki
+120566,1794,Palloiluhalli E,,65.05565900000002,25.474428,2,http://oulunliikenne.fi/1794,0,,Europe/Helsinki
+120439,1665,Palosuontie P,,65.078942,25.425248,2,http://oulunliikenne.fi/1665,0,,Europe/Helsinki
+101129,8344,Pölläntie P,,65.00790000000002,24.7018,5,http://oulunliikenne.fi/8344,0,,Europe/Helsinki
+307154,3292,Hallituskatu E,,65.011637,25.47852,1,http://oulunliikenne.fi/3292,0,,Europe/Helsinki
+121152,2563,Salavakuja P,,64.94460100000002,25.379718,3,http://oulunliikenne.fi/2563,0,,Europe/Helsinki
+120309,1514,Sammalkuja E,,65.127959,25.761648,3,http://oulunliikenne.fi/1514,0,,Europe/Helsinki
+120661,1946,Karhitie E,,65.034599,25.481937,2,http://oulunliikenne.fi/1946,0,,Europe/Helsinki
+98769,2920,Tyrnävän th E,,64.824161,25.935333,4,http://oulunliikenne.fi/2920,0,,Europe/Helsinki
+121272,2724,Kokkokaarto E,,64.90982,25.547845,3,http://oulunliikenne.fi/2724,0,,Europe/Helsinki
+120941,2304,Patamäki P,,64.985596,25.569777,2,http://oulunliikenne.fi/2304,0,,Europe/Helsinki
+150364,1295,Kropsu P,,65.20956,25.330209,3,http://oulunliikenne.fi/1295,0,,Europe/Helsinki
+101630,1451,Kanniainen E,,65.144977,25.666508,3,http://oulunliikenne.fi/1451,0,,Europe/Helsinki
+152840,2169,Harjapuisto P,,65.004498,25.464922,2,http://oulunliikenne.fi/2169,0,,Europe/Helsinki
+101128,8343,Pölläntie E,,65.0081,24.7039,5,http://oulunliikenne.fi/8343,0,,Europe/Helsinki
+98509,1535,Honkimaa P,,65.122441,25.747465,3,http://oulunliikenne.fi/1535,0,,Europe/Helsinki
+184258,1232,Leskelä E,,65.302523,25.561769,4,http://oulunliikenne.fi/1232,0,,Europe/Helsinki
+152757,1838,Rasilantie E,,65.04395,25.678778,3,http://oulunliikenne.fi/1838,0,,Europe/Helsinki
+120140,1345,Jokikylä P,,65.19095900000002,25.467094,4,http://oulunliikenne.fi/1345,0,,Europe/Helsinki
+120958,2325,Metsärinne P,,64.981903,25.58239,2,http://oulunliikenne.fi/2325,0,,Europe/Helsinki
+120817,2144,Kastellin kirkko P,,65.006567,25.539771,2,http://oulunliikenne.fi/2144,0,,Europe/Helsinki
+120528,1754,Yliopiston puutarha E,,65.062752,25.467073,2,http://oulunliikenne.fi/1754,0,,Europe/Helsinki
+120675,1964,Mittamiehentie E,,65.032708,25.464468,2,http://oulunliikenne.fi/1964,0,,Europe/Helsinki
+101699,1141,Ylirannan koulu P,,65.324585,25.481602,4,http://oulunliikenne.fi/1141,0,,Europe/Helsinki
+191530,3283,Ylikiimingin th E,,65.063296,25.633404,2,http://oulunliikenne.fi/3283,0,,Europe/Helsinki
+120961,2328,Repolaisentie P,,64.983985,25.521445,2,http://oulunliikenne.fi/2328,0,,Europe/Helsinki
+120860,2198,Karjaportti P,,65.001072,25.491453,2,http://oulunliikenne.fi/2198,0,,Europe/Helsinki
+150045,2744,Zeppelin P,,64.903762,25.540292,3,http://oulunliikenne.fi/2744,0,,Europe/Helsinki
+120091,1290,Repolantie P,,65.212757,25.308869,3,http://oulunliikenne.fi/1290,0,,Europe/Helsinki
+101125,8340,Hailuoto E,,65.0144,24.7317,5,http://oulunliikenne.fi/8340,0,,Europe/Helsinki
+120691,1988,Hoikantie P,,65.025851,25.497757,2,http://oulunliikenne.fi/1988,0,,Europe/Helsinki
+190294,1553,Apajatie P,,65.120471,25.341321,3,http://oulunliikenne.fi/1553,0,,Europe/Helsinki
+148445,1325,Tuohilaakso P,,65.194503,25.37411,3,http://oulunliikenne.fi/1325,0,,Europe/Helsinki
+98757,2857,Riihikyläntie E,,64.847259,25.899576,4,http://oulunliikenne.fi/2857,0,,Europe/Helsinki
+190335,2982,Parras th E,,64.813423,25.487492,4,http://oulunliikenne.fi/2982,0,,Europe/Helsinki
+120805,2120,Kastellinpolku E,,65.00779,25.533723,2,http://oulunliikenne.fi/2120,0,,Europe/Helsinki
+120617,1867,Huurrekuja E,,65.04182900000002,25.601419,2,http://oulunliikenne.fi/1867,0,,Europe/Helsinki
+150153,2874,Pikkarala th E,,64.84358,25.652045,4,http://oulunliikenne.fi/2874,0,,Europe/Helsinki
+148503,1131,Alaranta E,,65.32956,25.298024,4,http://oulunliikenne.fi/1131,0,,Europe/Helsinki
+120689,1983,Karttatie P,,65.02613,25.546851,2,http://oulunliikenne.fi/1983,0,,Europe/Helsinki
+230852,3003,Pitkäkoski E2,,64.80814,25.455348,4,http://oulunliikenne.fi/3003,0,,Europe/Helsinki
+98480,1872,Korvensuoran koulu P,,65.041571,25.565631,2,http://oulunliikenne.fi/1872,0,,Europe/Helsinki
+101035,3024,Myllykuja P,,64.808558,25.3908,4,http://oulunliikenne.fi/3024,0,,Europe/Helsinki
+98797,8214,Hyrkäs E,,64.789,26.1351,5,http://oulunliikenne.fi/8214,0,,Europe/Helsinki
+120568,1798,Pohjantie P,,65.055817,25.45483,2,http://oulunliikenne.fi/1798,0,,Europe/Helsinki
+121048,2437,Kaiposenniementie P,,64.963983,25.66947,3,http://oulunliikenne.fi/2437,0,,Europe/Helsinki
+98497,1640,Peltotie P,,65.085034,25.672487,3,http://oulunliikenne.fi/1640,0,,Europe/Helsinki
+98758,2860,Nokiantie P,,64.845279,25.90109,4,http://oulunliikenne.fi/2860,0,,Europe/Helsinki
+101659,1562,Sinkontie P,,65.11043600000002,25.809894,3,http://oulunliikenne.fi/1562,0,,Europe/Helsinki
+121194,2618,Oulunsalo E,,64.934566,25.41019,3,http://oulunliikenne.fi/2618,0,,Europe/Helsinki
+120414,1636,Laivakangas P2,,65.086255,25.684762,3,http://oulunliikenne.fi/1636,0,,Europe/Helsinki
+101693,1151,Paakkola E,,65.323163,25.445049,4,http://oulunliikenne.fi/1151,0,,Europe/Helsinki
+101049,2574,Vihiluoto E,,64.942246,25.45025,3,http://oulunliikenne.fi/2574,0,,Europe/Helsinki
+189724,2721,Hepo-oja E,,64.906678,25.833361,3,http://oulunliikenne.fi/2721,0,,Europe/Helsinki
+231892,2546,Kaitajärvi E,,64.94436,25.741425,3,http://oulunliikenne.fi/2546,0,,Europe/Helsinki
+120821,2150,Ratakatu E,,65.007049,25.482887,2,http://oulunliikenne.fi/2150,0,,Europe/Helsinki
+148149,2631,Savikunnaksentie E,,64.926609,25.797102,3,http://oulunliikenne.fi/2631,0,,Europe/Helsinki
+120862,2200,Kollaanpuisto P,,65.001858,25.48051,2,http://oulunliikenne.fi/2200,0,,Europe/Helsinki
+120734,2039,Siilasvuonkatu E,,65.021165,25.501967,2,http://oulunliikenne.fi/2039,0,,Europe/Helsinki
+101698,1142,Pakanen P,,65.323798,25.473771,4,http://oulunliikenne.fi/1142,0,,Europe/Helsinki
+120547,1773,Teknologiantie E,,65.059622,25.456734,2,http://oulunliikenne.fi/1773,0,,Europe/Helsinki
+120829,2162,Sarkkapuisto P,,65.005151,25.52986,2,http://oulunliikenne.fi/2162,0,,Europe/Helsinki
+169655,2492,Salonpää PP,,64.963368,25.241013,3,http://oulunliikenne.fi/2492,0,,Europe/Helsinki
+97699,2827,Tupos th P,,64.86412300000002,25.502785,4,http://oulunliikenne.fi/2827,0,,Europe/Helsinki
+101707,1201,Pikkulaurila P,,65.312372,25.562626,4,http://oulunliikenne.fi/1201,0,,Europe/Helsinki
+148497,1207,Räinä E,,65.315303,25.340527,4,http://oulunliikenne.fi/1207,0,,Europe/Helsinki
+44469,2838,Tupos Koulukeskus E,,64.859208,25.471189,4,http://oulunliikenne.fi/2838,0,,Europe/Helsinki
+101720,1128,Viitakangas E,,65.328897,25.65817,5,http://oulunliikenne.fi/1128,0,,Europe/Helsinki
+150053,2794,Keinäsentie E,,64.882755,25.57392,3,http://oulunliikenne.fi/2794,0,,Europe/Helsinki
+150398,1248,Mäntyläntie E,,65.291771,25.66859,5,http://oulunliikenne.fi/1248,0,,Europe/Helsinki
+148008,3036,Kasvi P,,64.79430000000002,25.624462,4,http://oulunliikenne.fi/3036,0,,Europe/Helsinki
+120539,1765,Elektroniikkatie 5E,,65.061573,25.438898,2,http://oulunliikenne.fi/1765,0,,Europe/Helsinki
+148004,2962,Ängeslevä th P,,64.816354,25.608345,4,http://oulunliikenne.fi/2962,0,,Europe/Helsinki
+120631,1888,Niittyarontie E,,65.041498,25.452176,2,http://oulunliikenne.fi/1888,0,,Europe/Helsinki
+148160,2680,Anttosentie E,,64.912656,25.824712,3,http://oulunliikenne.fi/2680,0,,Europe/Helsinki
+120758,2063,Makasiinikatu P,,65.018301,25.482205,2,http://oulunliikenne.fi/2063,0,,Europe/Helsinki
+120819,2148,OYS B3,,65.005791,25.520155,2,http://oulunliikenne.fi/2148,0,,Europe/Helsinki
+189720,2648,Välitalonkuja E,,64.922673,25.806241,3,http://oulunliikenne.fi/2648,0,,Europe/Helsinki
+98755,2840,Keränen E,,64.85281500000002,25.896291,4,http://oulunliikenne.fi/2840,0,,Europe/Helsinki
+101676,1058,Halajärventie P,,65.368757,25.825624,5,http://oulunliikenne.fi/1058,0,,Europe/Helsinki
+120447,1673,Itälahdentie E,,65.080342,25.397413,2,http://oulunliikenne.fi/1673,0,,Europe/Helsinki
+190369,2984,Haaransilta E,,64.812714,25.479594,4,http://oulunliikenne.fi/2984,0,,Europe/Helsinki
+98801,8218,Pyhänsivu th E,,64.7859,26.2476,5,http://oulunliikenne.fi/8218,0,,Europe/Helsinki
+183960,3175,Ukkoherrantie E,,64.950077,25.543569,2,http://oulunliikenne.fi/3175,0,,Europe/Helsinki
+147997,2897,Peräoja E,,64.834999,25.576533,4,http://oulunliikenne.fi/2897,0,,Europe/Helsinki
+148102,2405,Korhosenkuja P,,64.96961,25.65282,2,http://oulunliikenne.fi/2405,0,,Europe/Helsinki
+189675,2647,Välitalonkuja P,,64.922939,25.805891,3,http://oulunliikenne.fi/2647,0,,Europe/Helsinki
+120536,1762,Yliopiston eläintarha E,,65.06175,25.458588,2,http://oulunliikenne.fi/1762,0,,Europe/Helsinki
+120628,1885,Leväsuontie P,,65.03962900000002,25.578369,2,http://oulunliikenne.fi/1885,0,,Europe/Helsinki
+120920,2279,Viriänpuisto P,,64.989781,25.562835,2,http://oulunliikenne.fi/2279,0,,Europe/Helsinki
+101586,2655,Niemeläntie P,,64.916256,25.509443,3,http://oulunliikenne.fi/2655,0,,Europe/Helsinki
+150248,1815,Syynimaa P,,65.052492,25.477031,2,http://oulunliikenne.fi/1815,0,,Europe/Helsinki
+101700,1138,Yliranta E,,65.324671,25.494647,4,http://oulunliikenne.fi/1138,0,,Europe/Helsinki
+150393,1239,Päkkilä P,,65.29610700000002,25.632846,4,http://oulunliikenne.fi/1239,0,,Europe/Helsinki
+150061,2820,Rasila E,,64.866634,25.599415,3,http://oulunliikenne.fi/2820,0,,Europe/Helsinki
+101229,3068,Tyrnävän kirkko E,,64.764962,25.656535,4,http://oulunliikenne.fi/3068,0,,Europe/Helsinki
+169844,3144,Pikku Karhu P,,65.041136,25.61271,2,http://oulunliikenne.fi/3144,0,,Europe/Helsinki
+120825,2154,Pohjankartano P,,65.006299,25.480533,2,http://oulunliikenne.fi/2154,0,,Europe/Helsinki
+150400,1245,Ojalantie E,,65.29218,25.685546,5,http://oulunliikenne.fi/1245,0,,Europe/Helsinki
+150160,2562,Lassila P,,64.945458,25.399281,3,http://oulunliikenne.fi/2562,0,,Europe/Helsinki
+120907,2253,Nokela th E,,64.994519,25.487519,2,http://oulunliikenne.fi/2253,0,,Europe/Helsinki
+120611,1861,Kivennuoliainen E,,65.044678,25.485824,2,http://oulunliikenne.fi/1861,0,,Europe/Helsinki
+150086,2961,Marjakangas P,,64.814,25.703192,4,http://oulunliikenne.fi/2961,0,,Europe/Helsinki
+184157,3232,Veteraanikatu P,,65.018942,25.506632,1,http://oulunliikenne.fi/3232,0,,Europe/Helsinki
+97701,2816,Isoaukio P,,64.871194,25.507476,3,http://oulunliikenne.fi/2816,0,,Europe/Helsinki
+101110,8325,Simolankangas P,,65.0393,24.7754,5,http://oulunliikenne.fi/8325,0,,Europe/Helsinki
+191964,3347,Neitsytkorventie PP,,64.947069,25.583407,2,http://oulunliikenne.fi/3347,0,,Europe/Helsinki
+189529,2704,Jauholantie P,,64.909845,25.777505,3,http://oulunliikenne.fi/2704,0,,Europe/Helsinki
+190221,2622,Oulunsalo-talo P,,64.936602,25.398329,3,http://oulunliikenne.fi/2622,0,,Europe/Helsinki
+98791,8208,Suokylä th E,,64.7926,26.0772,5,http://oulunliikenne.fi/8208,0,,Europe/Helsinki
+120119,1323,Haukiputaan ammattikoulu E,,65.194024,25.411515,4,http://oulunliikenne.fi/1323,0,,Europe/Helsinki
+190216,2830,Tupos E,,64.863641,25.49064,4,http://oulunliikenne.fi/2830,0,,Europe/Helsinki
+148048,2926,Perukka E,,64.821145,26.040515,4,http://oulunliikenne.fi/2926,0,,Europe/Helsinki
+101032,2986,Rantakylä th E,,64.81390500000002,25.360433,4,http://oulunliikenne.fi/2986,0,,Europe/Helsinki
+121053,2443,Tiaisrinne E,,64.96424,25.555376,2,http://oulunliikenne.fi/2443,0,,Europe/Helsinki
+120441,1667,Raamitie P,,65.078965,25.418144,2,http://oulunliikenne.fi/1667,0,,Europe/Helsinki
+188497,1931,Porotie P,,65.033695,25.540665,2,http://oulunliikenne.fi/1931,0,,Europe/Helsinki
+310858,3403,Kettumetsä E,,65.083411,25.464874,2,http://oulunliikenne.fi/3403,0,,Europe/Helsinki
+120714,2014,Merikoskenkatu E1,,65.024828,25.469483,2,http://oulunliikenne.fi/2014,0,,Europe/Helsinki
+101014,2950,Letontie E,,64.82319,25.260971,4,http://oulunliikenne.fi/2950,0,,Europe/Helsinki
+120873,2211,Rantasaarela P,,64.99788100000002,25.573042,2,http://oulunliikenne.fi/2211,0,,Europe/Helsinki
+308261,3312,Oravanreitti P,,65.080643,25.464218,2,http://oulunliikenne.fi/3312,0,,Europe/Helsinki
+121542,1623,Vaunumiehenkuja E,,65.091379,25.42213,2,http://oulunliikenne.fi/1623,0,,Europe/Helsinki
+307265,8349,Marjaniemi PP,,65.0403,24.5629,5,http://oulunliikenne.fi/8349,0,,Europe/Helsinki
+308265,2750,Kitulankuja P,,64.900454,25.542478,3,http://oulunliikenne.fi/2750,0,,Europe/Helsinki
+184251,1214,Paasonperä E,,65.311369,25.481398,4,http://oulunliikenne.fi/1214,0,,Europe/Helsinki
+120852,2190,Radiomastontie P,,65.00164700000002,25.530265,2,http://oulunliikenne.fi/2190,0,,Europe/Helsinki
+101536,1572,Holstinmäki E,,65.113015,25.383137,3,http://oulunliikenne.fi/1572,0,,Europe/Helsinki
+101719,1132,Niskala th P,,65.323887,25.648574,5,http://oulunliikenne.fi/1132,0,,Europe/Helsinki
+148178,2772,Käpykankaantie E,,64.887075,25.862057,4,http://oulunliikenne.fi/2772,0,,Europe/Helsinki
+120792,2104,Laita E,,65.010525,25.555696,2,http://oulunliikenne.fi/2104,0,,Europe/Helsinki
+147970,2998,Niittypirtti E,,64.81147300000002,25.419955,4,http://oulunliikenne.fi/2998,0,,Europe/Helsinki
+190193,2556,Virtaoja P,,64.946821,25.517275,2,http://oulunliikenne.fi/2556,0,,Europe/Helsinki
+97683,3030,Lampola P,,64.802522,25.513212,4,http://oulunliikenne.fi/3030,0,,Europe/Helsinki
+188505,1858,Korvensuora E,,65.04401300000002,25.572402,2,http://oulunliikenne.fi/1858,0,,Europe/Helsinki
+120496,1722,Karjakenttä P,,65.06817700000002,25.490653,2,http://oulunliikenne.fi/1722,0,,Europe/Helsinki
+101589,2730,Vanhapappila P,,64.90765500000002,25.520198,3,http://oulunliikenne.fi/2730,0,,Europe/Helsinki
+98699,2194,Huuhkajapuisto E,,65.001672,25.515506,2,http://oulunliikenne.fi/2194,0,,Europe/Helsinki
+98502,1588,Jäälinjärvi E,,65.10064,25.690457,3,http://oulunliikenne.fi/1588,0,,Europe/Helsinki
+120584,1817,Suolamännyntie E,,65.052939,25.430034,2,http://oulunliikenne.fi/1817,0,,Europe/Helsinki
+120296,1500,Kiimingin keskustan th P,,65.129318,25.781951,3,http://oulunliikenne.fi/1500,0,,Europe/Helsinki
+190169,2522,Lentokentän th P2,,64.955045,25.503464,2,http://oulunliikenne.fi/2522,0,,Europe/Helsinki
+101510,1353,Törmäntie E,,65.189621,25.364864,3,http://oulunliikenne.fi/1353,0,,Europe/Helsinki
+120777,2087,Toripakka E,,65.01328336243668,25.46963132336373,2,http://oulunliikenne.fi/2087,0,,Europe/Helsinki
+101126,8341,Koulukeskus E,,65.0104,24.7174,5,http://oulunliikenne.fi/8341,0,,Europe/Helsinki
+101629,1452,Kanniainen P,,65.145617,25.664856,3,http://oulunliikenne.fi/1452,0,,Europe/Helsinki
+120577,1810,Välskärintie P,,65.05046,25.605364,2,http://oulunliikenne.fi/1810,0,,Europe/Helsinki
+307213,1962,Kiulukangas P,,65.028446,25.574196,2,http://oulunliikenne.fi/1962,0,,Europe/Helsinki
+101106,8321,Töyrä P,,65.051,24.7872,5,http://oulunliikenne.fi/8321,0,,Europe/Helsinki
+115888,2846,Kotilehto P,,64.855788,25.478912,4,http://oulunliikenne.fi/2846,0,,Europe/Helsinki
+120703,2001,Hintanmutka P,,65.024763,25.525428,2,http://oulunliikenne.fi/2001,0,,Europe/Helsinki
+101627,1448,Toivola P,,65.146807,25.659509,3,http://oulunliikenne.fi/1448,0,,Europe/Helsinki
+148206,2865,Nuolikivi E,,64.844262,25.921408,4,http://oulunliikenne.fi/2865,0,,Europe/Helsinki
+98747,2805,Rova th E,,64.868963,25.869047,4,http://oulunliikenne.fi/2805,0,,Europe/Helsinki
+101579,2608,Hakamaa P,,64.935109,25.512296,3,http://oulunliikenne.fi/2608,0,,Europe/Helsinki
+169675,3141,Haukiputaan ammattikoulu,,65.196214,25.413285,4,http://oulunliikenne.fi/3141,0,,Europe/Helsinki
+150193,2735,Köykkyrintie E,,64.906126,25.54534,3,http://oulunliikenne.fi/2735,0,,Europe/Helsinki
+98764,2901,Huovisentie P,,64.83033,25.921333,4,http://oulunliikenne.fi/2901,0,,Europe/Helsinki
+307193,3322,Klippatie E,,65.08431389,25.44672778,2,http://oulunliikenne.fi/3322,0,,Europe/Helsinki
+184145,3244,Kiviharjuntie P,,65.00924002742056,25.50880805745451,1,http://oulunliikenne.fi/3244,0,,Europe/Helsinki
+148053,2905,Pohjolantie E,,64.826441,26.046646,4,http://oulunliikenne.fi/2905,0,,Europe/Helsinki
+98505,1580,Putkonen th P,,65.104705,25.699942,3,http://oulunliikenne.fi/1580,0,,Europe/Helsinki
+150068,2850,Kälkäinen P,,64.852688,25.627826,3,http://oulunliikenne.fi/2850,0,,Europe/Helsinki
+120855,2193,Svaanin th E,,65.001637,25.528293,2,http://oulunliikenne.fi/2193,0,,Europe/Helsinki
+189255,3332,Limingantie E,,64.998387,25.463958,1,http://oulunliikenne.fi/3332,0,,Europe/Helsinki
+183979,3186,Otsonkuja E,,64.97913200000002,25.516947,2,http://oulunliikenne.fi/3186,0,,Europe/Helsinki
+101028,2990,Rantakylän koulu E,,64.814573,25.342178,4,http://oulunliikenne.fi/2990,0,,Europe/Helsinki
+326514,2669,Komeetantie P,,64.91947500000002,25.510073,3,http://oulunliikenne.fi/2669,0,,Europe/Helsinki
+150074,2873,Pikkarala th P,,64.84487300000002,25.650252,4,http://oulunliikenne.fi/2873,0,,Europe/Helsinki
+101649,1505,Kiimingin lukio P,,65.129409,25.772211,3,http://oulunliikenne.fi/1505,0,,Europe/Helsinki
+98730,2694,Pikkarala E,,64.91291200000002,25.765447,3,http://oulunliikenne.fi/2694,0,,Europe/Helsinki
+187981,3287,Rasilantie E 2,,65.043902,25.681499,3,http://oulunliikenne.fi/3287,0,,Europe/Helsinki
+101715,1208,Jakkukylä P,,65.309968,25.618271,4,http://oulunliikenne.fi/1208,0,,Europe/Helsinki
+14047,1577,Mökkitie E,,65.04843200000002,25.866416,3,http://oulunliikenne.fi/1577,0,,Europe/Helsinki
+148092,2227,Moisala P,,64.99546992086998,25.59549767547829,2,http://oulunliikenne.fi/2227,0,,Europe/Helsinki
+101222,3076,Nipsinki E,,64.763694,25.588485,4,http://oulunliikenne.fi/3076,0,,Europe/Helsinki
+148450,1341,Huvipolku E,,65.192816,25.351874,3,http://oulunliikenne.fi/1341,0,,Europe/Helsinki
+187982,1852,Putaala P,,65.043108,25.685997,3,http://oulunliikenne.fi/1852,0,,Europe/Helsinki
+231429,3049,Ala-Temmeksen koulu P,,64.781814,25.547454,4,http://oulunliikenne.fi/3049,0,,Europe/Helsinki
+97715,1221,Shell Ii E,,65.30819700000002,25.374223,4,http://oulunliikenne.fi/1221,0,,Europe/Helsinki
+186025,3307,Musiikkikeskus P,,65.00373500000002,25.478919,2,http://oulunliikenne.fi/3307,0,,Europe/Helsinki
+101585,2656,Niemeläntie E,,64.916184,25.509322,3,http://oulunliikenne.fi/2656,0,,Europe/Helsinki
+101243,8090,Markkula E,,64.77292,25.757049,4,http://oulunliikenne.fi/8090,0,,Europe/Helsinki
+307173,1610,Laivakankaan koulu P,,65.083848,25.704131,3,http://oulunliikenne.fi/1610,0,,Europe/Helsinki
+307201,3310,Jahtireitti E,,65.09220556,25.44517778,2,http://oulunliikenne.fi/3310,0,,Europe/Helsinki
+150052,2793,Keinäsentie P,,64.883473,25.572067,3,http://oulunliikenne.fi/2793,0,,Europe/Helsinki
+101747,1064,Pohjukkaoja P,,65.364751,25.80203,5,http://oulunliikenne.fi/1064,0,,Europe/Helsinki
+325736,2208,Zatelliitin ramppi P,,64.92195,25.537652,3,http://oulunliikenne.fi/2208,0,,Europe/Helsinki
+150194,2734,Köykkyrintie P,,64.90668,25.545056,3,http://oulunliikenne.fi/2734,0,,Europe/Helsinki
+184454,1263,Luukela P,,65.234105,25.360768,3,http://oulunliikenne.fi/1263,0,,Europe/Helsinki
+101644,1482,Lukkarintie E,,65.133175,25.750262,3,http://oulunliikenne.fi/1482,0,,Europe/Helsinki
+120435,1661,Valkamantie P,,65.082368,25.399758,2,http://oulunliikenne.fi/1661,0,,Europe/Helsinki
+120373,1593,Vaapukkatie P,,65.101376,25.40881,2,http://oulunliikenne.fi/1593,0,,Europe/Helsinki
+150064,2834,Hovimurto P,,64.859881,25.611177,3,http://oulunliikenne.fi/2834,0,,Europe/Helsinki
+101665,1833,Kiiminki th P2,,65.042248,25.869481,3,http://oulunliikenne.fi/1833,0,,Europe/Helsinki
+101514,1405,Haukipudas E,,65.177137,25.353787,3,http://oulunliikenne.fi/1405,0,,Europe/Helsinki
+101067,2524,Hailuodon risteys E,,64.955459,25.386555,3,http://oulunliikenne.fi/2524,0,,Europe/Helsinki
+101575,2572,Jarva P,,64.941763,25.518316,2,http://oulunliikenne.fi/2572,0,,Europe/Helsinki
+121046,2435,Vallinkorva E,,64.964566,25.667472,3,http://oulunliikenne.fi/2435,0,,Europe/Helsinki
+101580,2616,Hakamaa E,,64.93389000000002,25.511497,3,http://oulunliikenne.fi/2616,0,,Europe/Helsinki
+148012,3048,Härmä P,,64.781246,25.639911,4,http://oulunliikenne.fi/3048,0,,Europe/Helsinki
+120843,2179,OYS asunnot E,,65.00307680766242,25.52511199804519,2,http://oulunliikenne.fi/2179,0,,Europe/Helsinki
+120616,1866,Meri-Toppila P,,65.045743,25.438486,2,http://oulunliikenne.fi/1866,0,,Europe/Helsinki
+120510,1736,Koisotie E,,65.065811,25.42562,2,http://oulunliikenne.fi/1736,0,,Europe/Helsinki
+101298,1927,Makasiinikangas P,,65.02845600000002,26.141072,4,http://oulunliikenne.fi/1927,0,,Europe/Helsinki
+310718,4011,Liikkujantie P,,65.00203012054672,25.60883045779043,2,http://oulunliikenne.fi/4011,0,,Europe/Helsinki
+120943,2306,Kihokkipuisto P,,64.986709,25.4915,2,http://oulunliikenne.fi/2306,0,,Europe/Helsinki
+148494,1196,Jakkila P,,65.316131,25.350624,4,http://oulunliikenne.fi/1196,0,,Europe/Helsinki
+120733,2038,Siilasvuonkatu P,,65.021335,25.503655,2,http://oulunliikenne.fi/2038,0,,Europe/Helsinki
+190199,1387,Taipaleenkylä P,,65.176298,25.549984,4,http://oulunliikenne.fi/1387,0,,Europe/Helsinki
+120898,2244,Knuutilankangas P,,64.993161,25.561636,2,http://oulunliikenne.fi/2244,0,,Europe/Helsinki
+184621,3102,Rehu P,,65.193269,25.437873,4,http://oulunliikenne.fi/3102,0,,Europe/Helsinki
+184618,1910,Ylikiiminki,,65.03028,26.153158,4,http://oulunliikenne.fi/1910,0,,Europe/Helsinki
+101089,2336,Hirvonen P,,64.985875,25.262909,3,http://oulunliikenne.fi/2336,0,,Europe/Helsinki
+307142,3368,Pirttilä E,,64.940276,25.560498,2,http://oulunliikenne.fi/3368,0,,Europe/Helsinki
+101265,1837,Saarinen P,,65.043274,25.799661,3,http://oulunliikenne.fi/1837,0,,Europe/Helsinki
+121065,2458,Punatulkunrinne E,,64.96295600000002,25.560759,2,http://oulunliikenne.fi/2458,0,,Europe/Helsinki
+101677,1056,Leuvanjoen th E,,65.370811,25.833658,5,http://oulunliikenne.fi/1056,0,,Europe/Helsinki
+120993,2369,Tahkokangas E,,64.975442,25.518465,2,http://oulunliikenne.fi/2369,0,,Europe/Helsinki
+98506,1564,Piltonen E,,65.111593,25.725898,3,http://oulunliikenne.fi/1564,0,,Europe/Helsinki
+310707,4027,Sangintie P,,65.001749,25.568918,2,http://oulunliikenne.fi/4027,0,,Europe/Helsinki
+98753,2833,Kaupintie E,,64.856503,25.894053,4,http://oulunliikenne.fi/2833,0,,Europe/Helsinki
+120401,1622,Vaunumiehenkuja P,,65.091416,25.422213,2,http://oulunliikenne.fi/1622,0,,Europe/Helsinki
+101101,8315,Niementien th P,,65.05880000000002,24.8576,5,http://oulunliikenne.fi/8315,0,,Europe/Helsinki
+184519,2899,Ketolanoja E,,64.829117,25.966441,4,http://oulunliikenne.fi/2899,0,,Europe/Helsinki
+150139,2930,Pelto E,,64.828614,25.457145,4,http://oulunliikenne.fi/2930,0,,Europe/Helsinki
+190176,2462,Niemi P,,64.959793,25.37675,3,http://oulunliikenne.fi/2462,0,,Europe/Helsinki
+120744,2049,Koivumaantie P,,65.018495,25.548688,2,http://oulunliikenne.fi/2049,0,,Europe/Helsinki
+120752,2057,Nahkatehtaankatu E,,65.019779,25.486365,2,http://oulunliikenne.fi/2057,0,,Europe/Helsinki
+120082,1275,Mustakangas P,,65.224535,25.303091,3,http://oulunliikenne.fi/1275,0,,Europe/Helsinki
+98750,2818,Männikkö P,,64.863171,25.886038,4,http://oulunliikenne.fi/2818,0,,Europe/Helsinki
+153078,2955,Hakala E,,64.82017,25.301584,4,http://oulunliikenne.fi/2955,0,,Europe/Helsinki
+190075,2974,Niittomiehentie P,,64.814781,25.429847,4,http://oulunliikenne.fi/2974,0,,Europe/Helsinki
+101124,8339,Hailuoto P,,65.0149,24.7326,5,http://oulunliikenne.fi/8339,0,,Europe/Helsinki
+150049,2779,Seppäsentie P,,64.88999,25.558587,3,http://oulunliikenne.fi/2779,0,,Europe/Helsinki
+164186,3119,Mesaanitie E,,65.031359,25.432237,2,http://oulunliikenne.fi/3119,0,,Europe/Helsinki
+120627,1877,Isko E,,65.042289,25.475915,2,http://oulunliikenne.fi/1877,0,,Europe/Helsinki
+101538,1582,Holstinmutka E,,65.10831546555488,25.38966159555468,3,http://oulunliikenne.fi/1582,0,,Europe/Helsinki
+120735,2056,Koskenniska E,,65.020315,25.491491,2,http://oulunliikenne.fi/2056,0,,Europe/Helsinki
+101625,1450,Rasi P,,65.14747300000002,25.651736,3,http://oulunliikenne.fi/1450,0,,Europe/Helsinki
+120799,2112,Rotuaari,,65.010933,25.469558,2,http://oulunliikenne.fi/2112,0,,Europe/Helsinki
+190224,2543,Karvolankuja P,,64.949783,25.39515,3,http://oulunliikenne.fi/2543,0,,Europe/Helsinki
+101526,1475,Hekkalansaarentie E,,65.140573,25.354113,3,http://oulunliikenne.fi/1475,0,,Europe/Helsinki
+187986,2727,Kempeleen paloasema E,,64.907353,25.525941,3,http://oulunliikenne.fi/2727,0,,Europe/Helsinki
+188517,2689,Pirilä E,,64.916752,25.487147,3,http://oulunliikenne.fi/2689,0,,Europe/Helsinki
+101279,1952,Siltala P,,65.02700400000002,25.994526,4,http://oulunliikenne.fi/1952,0,,Europe/Helsinki
+187925,3046,Luontotie P,,64.83459000000002,25.207576,4,http://oulunliikenne.fi/3046,0,,Europe/Helsinki
+148011,3042,Salosentie E,,64.78879000000002,25.628171,4,http://oulunliikenne.fi/3042,0,,Europe/Helsinki
+321614,3153,Mutkalankaari P2,,64.801631,25.423612,4,http://oulunliikenne.fi/3153,0,,Europe/Helsinki
+101669,8002,Ponnonmäki P,,65.136466,25.791904,3,http://oulunliikenne.fi/8002,0,,Europe/Helsinki
+184254,1220,Autiontie P,,65.306946,25.700059,5,http://oulunliikenne.fi/1220,0,,Europe/Helsinki
+189671,2559,Pukintie E,,64.94149400000002,25.751608,3,http://oulunliikenne.fi/2559,0,,Europe/Helsinki
+148138,2603,Vaalantie P,,64.931542,25.785885,3,http://oulunliikenne.fi/2603,0,,Europe/Helsinki
+307153,3293,Hallituskatu P,,65.011747,25.478864,1,http://oulunliikenne.fi/3293,0,,Europe/Helsinki
+120284,1489,Ponnontie P,,65.131364,25.794727,3,http://oulunliikenne.fi/1489,0,,Europe/Helsinki
+150136,2964,Toivontie E,,64.817308,25.436418,4,http://oulunliikenne.fi/2964,0,,Europe/Helsinki
+120711,2010,Myllytie P,,65.0253,25.47873,2,http://oulunliikenne.fi/2010,0,,Europe/Helsinki
+120704,2002,Hintanmutka E,,65.024718,25.525388,2,http://oulunliikenne.fi/2002,0,,Europe/Helsinki
+120975,2345,Snellmanintie P,,64.98185,25.496308,2,http://oulunliikenne.fi/2345,0,,Europe/Helsinki
+101521,1444,Hookana P,,65.15575,25.350613,3,http://oulunliikenne.fi/1444,0,,Europe/Helsinki
+184262,3327,Vainiontie E,,65.195808,25.477237,4,http://oulunliikenne.fi/3327,0,,Europe/Helsinki
+101654,1525,Korkeamaantie E,,65.123307,25.795133,3,http://oulunliikenne.fi/1525,0,,Europe/Helsinki
+120472,1698,Hämäläntie P,,65.073808,25.402186,2,http://oulunliikenne.fi/1698,0,,Europe/Helsinki
+191212,2720,Hepo-oja P,,64.906741,25.833421,3,http://oulunliikenne.fi/2720,0,,Europe/Helsinki
+152658,1188,Siikatie E,,65.31771500000002,25.35516,4,http://oulunliikenne.fi/1188,0,,Europe/Helsinki
+148451,1342,Huvipolku P,,65.19321600000002,25.350738,3,http://oulunliikenne.fi/1342,0,,Europe/Helsinki
+10439,1548,Runttilantie E,,65.088266,25.83222,3,http://oulunliikenne.fi/1548,0,,Europe/Helsinki
+240372,1806,Kaartintie P,,65.052716,25.601953,2,http://oulunliikenne.fi/1806,0,,Europe/Helsinki
+301592,2832,Tupos liikenneympyrä E,,64.863269,25.479628,4,http://oulunliikenne.fi/2832,0,,Europe/Helsinki
+300903,2688,Linnakangastalo E,,64.92397800000002,25.557493,3,http://oulunliikenne.fi/2688,0,,Europe/Helsinki
+120567,1795,Palloiluhalli P,,65.055785,25.474421,2,http://oulunliikenne.fi/1795,0,,Europe/Helsinki
+120493,1719,Kuovitie E,,65.066827,25.516194,2,http://oulunliikenne.fi/1719,0,,Europe/Helsinki
+120793,2105,Kastellinhäkki P,,65.009602,25.525341,2,http://oulunliikenne.fi/2105,0,,Europe/Helsinki
+101648,1490,Kotikumpu E,,65.130876,25.768372,3,http://oulunliikenne.fi/1490,0,,Europe/Helsinki
+101520,1439,Annalankangas E,,65.160388,25.348085,3,http://oulunliikenne.fi/1439,0,,Europe/Helsinki
+148120,2506,Turkantie E,,64.95425,25.716621,3,http://oulunliikenne.fi/2506,0,,Europe/Helsinki
+121537,2107,OYS P,,65.010991,25.518997,2,http://oulunliikenne.fi/2107,0,,Europe/Helsinki
+98736,2747,Hangas th E,,64.900115,25.798795,3,http://oulunliikenne.fi/2747,0,,Europe/Helsinki
+120604,1846,Koskela,,65.04679400000002,25.456818,2,http://oulunliikenne.fi/1846,0,,Europe/Helsinki
+188529,8088,Suomela E,,64.775054,25.749048,4,http://oulunliikenne.fi/8088,0,,Europe/Helsinki
+101063,2690,Kempeleen yläaste E,,64.917148,25.476725,3,http://oulunliikenne.fi/2690,0,,Europe/Helsinki
+150379,1179,Valtarin koulu E,,65.320921,25.362901,4,http://oulunliikenne.fi/1179,0,,Europe/Helsinki
+98469,3002,Lännentie E,,64.809235,25.468443,4,http://oulunliikenne.fi/3002,0,,Europe/Helsinki
+184147,3242,Ouluhalli E,,65.00723000000002,25.500802,1,http://oulunliikenne.fi/3242,0,,Europe/Helsinki
+120960,2327,Jättikivenkatu P,,64.981933,25.569549,2,http://oulunliikenne.fi/2327,0,,Europe/Helsinki
+120548,1774,Teknologiakylä E,,65.058709,25.458593,2,http://oulunliikenne.fi/1774,0,,Europe/Helsinki
+184152,3237,Raksilan marketit P,,65.010263,25.488389,1,http://oulunliikenne.fi/3237,0,,Europe/Helsinki
+98775,2968,Keskustie P,,64.808619,25.989875,4,http://oulunliikenne.fi/2968,0,,Europe/Helsinki
+101723,1120,Koivuranta P,,65.332683,25.671438,5,http://oulunliikenne.fi/1120,0,,Europe/Helsinki
+101606,1374,Pirttikoski E,,65.18097,25.527592,4,http://oulunliikenne.fi/1374,0,,Europe/Helsinki
+120490,1716,Saikkosentie E,,65.071152,25.482322,2,http://oulunliikenne.fi/1716,0,,Europe/Helsinki
+120759,2064,Makasiinikatu E,,65.018264,25.482038,2,http://oulunliikenne.fi/2064,0,,Europe/Helsinki
+101494,1257,Pitäjänraja E,,65.258557,25.356702,4,http://oulunliikenne.fi/1257,0,,Europe/Helsinki
+189518,1979,Hintantie P,,65.026462,25.499632,2,http://oulunliikenne.fi/1979,0,,Europe/Helsinki
+171365,2745,Riihivainio E,,64.904679,25.520426,3,http://oulunliikenne.fi/2745,0,,Europe/Helsinki
+101673,1071,Yli-Iin vanhainkoti P,,65.362566,25.821988,5,http://oulunliikenne.fi/1071,0,,Europe/Helsinki
+101619,1433,Nurmiojantie P,,65.161507,25.600279,3,http://oulunliikenne.fi/1433,0,,Europe/Helsinki
+148080,1985,Sivutie E,,65.0256,25.540386,2,http://oulunliikenne.fi/1985,0,,Europe/Helsinki
+184253,1182,Maalismaantie E,,65.313074,25.687851,5,http://oulunliikenne.fi/1182,0,,Europe/Helsinki
+190186,1894,Ukkolanmäki E,,65.032843,26.089672,4,http://oulunliikenne.fi/1894,0,,Europe/Helsinki
+121037,2422,Kaiannontie P,,64.969097,25.529087,2,http://oulunliikenne.fi/2422,0,,Europe/Helsinki
+101664,1659,Huttukylä th E,,65.078597,25.848463,3,http://oulunliikenne.fi/1659,0,,Europe/Helsinki
+148014,3054,Puronkari P,,64.774715,25.644865,4,http://oulunliikenne.fi/3054,0,,Europe/Helsinki
+98719,2560,Määtäntie P,,64.941153,25.696009,3,http://oulunliikenne.fi/2560,0,,Europe/Helsinki
+189252,3290,Alasintie E,,64.998807,25.467241,1,http://oulunliikenne.fi/3290,0,,Europe/Helsinki
+120911,2264,Nuolihaukka P,,64.991713,25.525448,2,http://oulunliikenne.fi/2264,0,,Europe/Helsinki
+307158,4004,Kuntolenkki P,,64.9957549910984,25.60322584739951,2,http://oulunliikenne.fi/4004,0,,Europe/Helsinki
+153145,3021,Sunilantie P,,64.808764,25.404913,4,http://oulunliikenne.fi/3021,0,,Europe/Helsinki
+148218,2906,Hartikka E,,64.82802700000002,25.974887,4,http://oulunliikenne.fi/2906,0,,Europe/Helsinki
+101728,1104,Ylitalo E,,65.338475,25.697858,5,http://oulunliikenne.fi/1104,0,,Europe/Helsinki
+101624,1445,Kuivasjärven th E,,65.148365,25.638281,3,http://oulunliikenne.fi/1445,0,,Europe/Helsinki
+189721,2653,Pukkilantie P,,64.920597,25.811322,3,http://oulunliikenne.fi/2653,0,,Europe/Helsinki
+187988,2535,Lepola P,,64.952044,25.508458,2,http://oulunliikenne.fi/2535,0,,Europe/Helsinki
+171806,2355,Joulumerkinpolku E,,64.98041000000002,25.48427,2,http://oulunliikenne.fi/2355,0,,Europe/Helsinki
+183964,3189,Metsokankaan koulu P,,64.94376800000002,25.542452,2,http://oulunliikenne.fi/3189,0,,Europe/Helsinki
+120620,1870,Rannanperä E,,65.042541,25.581697,2,http://oulunliikenne.fi/1870,0,,Europe/Helsinki
+101605,1375,Pirttikoski P,,65.181106,25.525023,4,http://oulunliikenne.fi/1375,0,,Europe/Helsinki
+98810,8228,Pikkaraisen th P,,64.7799,26.3694,5,http://oulunliikenne.fi/8228,0,,Europe/Helsinki
+120737,2042,Toivoniemi P,,65.02227000000002,25.468463,2,http://oulunliikenne.fi/2042,0,,Europe/Helsinki
+121264,2714,Tiilimestarinrinne E,,64.911262,25.558734,3,http://oulunliikenne.fi/2714,0,,Europe/Helsinki
+169646,2518,Emopolku P,,64.954612,25.529437,2,http://oulunliikenne.fi/2518,0,,Europe/Helsinki
+120372,1592,Vaapukkatie E,,65.101016,25.409598,2,http://oulunliikenne.fi/1592,0,,Europe/Helsinki
+120743,2048,Koivumaantie E,,65.01821700000002,25.547706,2,http://oulunliikenne.fi/2048,0,,Europe/Helsinki
+101553,1766,Meritaskila P,,65.061748,25.41974,2,http://oulunliikenne.fi/1766,0,,Europe/Helsinki
+190177,2463,Niemi E,,64.960281,25.375688,3,http://oulunliikenne.fi/2463,0,,Europe/Helsinki
+190187,1878,Ukkolanmäki P,,65.032904,26.090837,4,http://oulunliikenne.fi/1878,0,,Europe/Helsinki
+120653,1934,Kesätie,,65.035689,25.474402,2,http://oulunliikenne.fi/1934,0,,Europe/Helsinki
+150146,2853,Oikotie th P,,64.85484700000002,25.488708,4,http://oulunliikenne.fi/2853,0,,Europe/Helsinki
+184146,3243,Ouluhalli P,,65.007493,25.500023,1,http://oulunliikenne.fi/3243,0,,Europe/Helsinki
+148202,2844,Laukka silta P,,64.850908,25.915175,4,http://oulunliikenne.fi/2844,0,,Europe/Helsinki
+120883,2221,Karjasillan kirkko P,,64.997792,25.490005,2,http://oulunliikenne.fi/2221,0,,Europe/Helsinki
+148499,1189,Vaihtometsäntie P,,65.318377,25.331342,4,http://oulunliikenne.fi/1189,0,,Europe/Helsinki
+148085,2030,Myllyoja P,,65.019796,25.555152,2,http://oulunliikenne.fi/2030,0,,Europe/Helsinki
+190225,2416,Mustaniemi P,,64.972506,25.265915,3,http://oulunliikenne.fi/2416,0,,Europe/Helsinki
+307209,1956,Loimukoivunpuisto P,,65.03185332890662,25.56058629664307,2,http://oulunliikenne.fi/1956,0,,Europe/Helsinki
+150246,2433,Lylyojantie E,,64.96413,25.684008,3,http://oulunliikenne.fi/2433,0,,Europe/Helsinki
+98739,2773,Malurintie E,,64.887557,25.822558,4,http://oulunliikenne.fi/2773,0,,Europe/Helsinki
+150395,1243,Kumpu P,,65.293701,25.64056,4,http://oulunliikenne.fi/1243,0,,Europe/Helsinki
+150371,1346,Onkamo th,,65.189446,25.46652,4,http://oulunliikenne.fi/1346,0,,Europe/Helsinki
+121113,2511,Metelinkangas PP,,64.956153,25.550308,2,http://oulunliikenne.fi/2511,0,,Europe/Helsinki
+120605,1869,Nietospolku E,,65.042365,25.595424,2,http://oulunliikenne.fi/1869,0,,Europe/Helsinki
+101576,2578,Jarva E,,64.940819,25.517183,2,http://oulunliikenne.fi/2578,0,,Europe/Helsinki
+120295,1501,Kiimingin keskustan th E,,65.129237,25.781827,3,http://oulunliikenne.fi/1501,0,,Europe/Helsinki
+230853,3017,Kurkitie E,,64.807879,25.429617,4,http://oulunliikenne.fi/3017,0,,Europe/Helsinki
+120328,1541,Autokuja E,,65.12003900000002,25.741274,3,http://oulunliikenne.fi/1541,0,,Europe/Helsinki
+101230,3058,Ylitalon th E,,64.771269,25.672492,4,http://oulunliikenne.fi/3058,0,,Europe/Helsinki
+120803,2118,Oulujoen koulu E,,65.008495,25.56098,2,http://oulunliikenne.fi/2118,0,,Europe/Helsinki
+187998,1140,Ylirannan koulu E,,65.324292,25.483637,4,http://oulunliikenne.fi/1140,0,,Europe/Helsinki
+120746,2051,Metsola E,,65.019425,25.534591,2,http://oulunliikenne.fi/2051,0,,Europe/Helsinki
+150156,2602,Oulunsalo ry P,,64.939547,25.39773,3,http://oulunliikenne.fi/2602,0,,Europe/Helsinki
+98766,2907,Soso P,,64.827945,25.9264,4,http://oulunliikenne.fi/2907,0,,Europe/Helsinki
+308263,2742,Monitoimitalo P,,64.90252,25.547222,3,http://oulunliikenne.fi/2742,0,,Europe/Helsinki
+120916,2269,Kallisensuora P,,64.99271400000002,25.465344,2,http://oulunliikenne.fi/2269,0,,Europe/Helsinki
+164363,3105,Alatalontie P,,65.07233100000002,25.480022,2,http://oulunliikenne.fi/3105,0,,Europe/Helsinki
+307149,2685,Haukkakaarto P,,64.91837013361328,25.55706400808505,3,http://oulunliikenne.fi/2685,0,,Europe/Helsinki
+98709,2425,Heikkilänsaari E,,64.96664,25.629063,2,http://oulunliikenne.fi/2425,0,,Europe/Helsinki
+120453,1679,Jylkynkangas,,65.077398,25.520177,2,http://oulunliikenne.fi/1679,0,,Europe/Helsinki
+190297,1561,Vaajatie E2,,65.117878,25.33486,3,http://oulunliikenne.fi/1561,0,,Europe/Helsinki
+148476,1538,Häli P,,65.127179,25.350064,3,http://oulunliikenne.fi/1538,0,,Europe/Helsinki
+169660,3096,Pohjoisranta P,,64.834176,25.684817,4,http://oulunliikenne.fi/3096,0,,Europe/Helsinki
+120422,1644,Risuniitynkuja E,,65.089112,25.419031,2,http://oulunliikenne.fi/1644,0,,Europe/Helsinki
+101717,1145,Juutinen P,,65.321102,25.643181,5,http://oulunliikenne.fi/1145,0,,Europe/Helsinki
+101267,1835,Kiiminki th P,,65.041746,25.868356,3,http://oulunliikenne.fi/1835,0,,Europe/Helsinki
+101660,1571,Sinkontie E,,65.11004,25.809699,3,http://oulunliikenne.fi/1571,0,,Europe/Helsinki
+121237,2683,Kokkorinne E,,64.916062,25.558751,3,http://oulunliikenne.fi/2683,0,,Europe/Helsinki
+120951,2318,Metsänkuninkaantie E,,64.985261,25.51225,2,http://oulunliikenne.fi/2318,0,,Europe/Helsinki
+97682,3029,Lampola E,,64.801624,25.514861,4,http://oulunliikenne.fi/3029,0,,Europe/Helsinki
+120858,2196,OSAO PP,,65.00062842894688,25.51258682595276,2,http://oulunliikenne.fi/2196,0,,Europe/Helsinki
+150059,2814,Ketolanperä E,,64.86881200000002,25.588795,3,http://oulunliikenne.fi/2814,0,,Europe/Helsinki
+171803,2382,Kaakkurin th P,,64.974764,25.488381,2,http://oulunliikenne.fi/2382,0,,Europe/Helsinki
+150361,1279,Häyrysenniemi th P,,65.21927,25.333722,3,http://oulunliikenne.fi/1279,0,,Europe/Helsinki
+150359,1272,Kalliomäki E,,65.22407200000002,25.342893,3,http://oulunliikenne.fi/1272,0,,Europe/Helsinki
+190066,3016,Kurkitie P,,64.807912,25.431005,4,http://oulunliikenne.fi/3016,0,,Europe/Helsinki
+101300,2855,Paavolankuja P,,64.848664,25.903966,4,http://oulunliikenne.fi/2855,0,,Europe/Helsinki
+164366,3112,Silmutie P,,65.075205,25.461913,2,http://oulunliikenne.fi/3112,0,,Europe/Helsinki
+153143,3020,Liminka P,,64.80846099224306,25.41402424511413,4,http://oulunliikenne.fi/3020,0,,Europe/Helsinki
+101632,1456,Uusikanniainen E,,65.14281,25.672073,3,http://oulunliikenne.fi/1456,0,,Europe/Helsinki
+307150,2686,Haukkakaarto E,,64.919172,25.555766,3,http://oulunliikenne.fi/2686,0,,Europe/Helsinki
+98698,2164,Raksilan urheilukeskus E,,65.005572,25.495546,2,http://oulunliikenne.fi/2164,0,,Europe/Helsinki
+98787,8204,Honkala E,,64.797,26.0506,5,http://oulunliikenne.fi/8204,0,,Europe/Helsinki
+150391,1235,Kaisto E (EP),,65.297598,25.626208,4,http://oulunliikenne.fi/1235,0,,Europe/Helsinki
+148490,1218,Partanen E,,65.309719,25.595225,4,http://oulunliikenne.fi/1218,0,,Europe/Helsinki
+101027,2991,Rantakylän koulu P,,64.814778,25.340438,4,http://oulunliikenne.fi/2991,0,,Europe/Helsinki
+120814,2132,Heinätorin puisto E,,65.008009,25.461836,2,http://oulunliikenne.fi/2132,0,,Europe/Helsinki
+150255,1732,Raitotien risteys P,,65.063677,25.512543,2,http://oulunliikenne.fi/1732,0,,Europe/Helsinki
+148135,2568,Ohrasenoja E,,64.938867,25.765776,3,http://oulunliikenne.fi/2568,0,,Europe/Helsinki
+121167,2582,Raitakuja E,,64.942238,25.390228,3,http://oulunliikenne.fi/2582,0,,Europe/Helsinki
+98504,1583,Putkonen th E,,65.1041,25.697353,3,http://oulunliikenne.fi/1583,0,,Europe/Helsinki
+101232,3052,Kotimetsä E,,64.77487600000002,25.677571,4,http://oulunliikenne.fi/3052,0,,Europe/Helsinki
+148429,1360,Pentintie E,,65.183663,25.493413,4,http://oulunliikenne.fi/1360,0,,Europe/Helsinki
+184163,3226,Myllytulli P,,65.016913,25.489498,1,http://oulunliikenne.fi/3226,0,,Europe/Helsinki
+101725,1118,Suoranpää P,,65.333946,25.683526,5,http://oulunliikenne.fi/1118,0,,Europe/Helsinki
+120521,1747,Kaijonlahdentie P,,65.061657,25.496229,2,http://oulunliikenne.fi/1747,0,,Europe/Helsinki
+101046,2550,Kempeleenlahti P,,64.947661,25.482144,2,http://oulunliikenne.fi/2550,0,,Europe/Helsinki
+310725,4018,Hiukkavaaran keskus E,,65.009309939,25.590685,2,http://oulunliikenne.fi/4018,0,,Europe/Helsinki
+101730,1102,Karjalankylä P,,65.33873800000002,25.706521,5,http://oulunliikenne.fi/1102,0,,Europe/Helsinki
+310708,4028,Sangintie E,,65.00188401,25.56859,2,http://oulunliikenne.fi/4028,0,,Europe/Helsinki
+310859,3404,Siiposuo P,,65.08690900000002,25.463862,2,http://oulunliikenne.fi/3404,0,,Europe/Helsinki
+148078,1986,Hintan päiväkoti E,,65.026956,25.534985,2,http://oulunliikenne.fi/1986,0,,Europe/Helsinki
+188406,4036,Liminka th I,,64.799757,25.421895,4,http://oulunliikenne.fi/4036,0,,Europe/Helsinki
+148184,2789,Päivärinne E,,64.881652,25.869695,4,http://oulunliikenne.fi/2789,0,,Europe/Helsinki
+120749,2054,Värtöntie E,,65.019436,25.520184,2,http://oulunliikenne.fi/2054,0,,Europe/Helsinki
+183950,3170,Ulkometsäntie P,,64.951368,25.552768,2,http://oulunliikenne.fi/3170,0,,Europe/Helsinki
+190182,3339,Kunnankuja P,,64.763032,25.649464,4,http://oulunliikenne.fi/3339,0,,Europe/Helsinki
+307166,3108,Tuulipurto P,,64.840153,25.674058,4,http://oulunliikenne.fi/3108,0,,Europe/Helsinki
+101609,1386,Taipaleenkylä E,,65.175867,25.551779,4,http://oulunliikenne.fi/1386,0,,Europe/Helsinki
+25888,2086,Franzen,,65.01501500000002,25.473143,2,http://oulunliikenne.fi/2086,0,,Europe/Helsinki
+56566,2147,OYS A5,,65.006151,25.521195,2,http://oulunliikenne.fi/2147,0,,Europe/Helsinki
+97681,3035,Huhta P,,64.79718800000002,25.525332,4,http://oulunliikenne.fi/3035,0,,Europe/Helsinki
+120293,1498,Ukkola E,,65.129286,25.784637,3,http://oulunliikenne.fi/1498,0,,Europe/Helsinki
+101051,2609,Oulunsalon museo P,,64.936484,25.417585,3,http://oulunliikenne.fi/2609,0,,Europe/Helsinki
+98731,2705,Jauholantie E,,64.909885,25.776933,3,http://oulunliikenne.fi/2705,0,,Europe/Helsinki
+98759,2866,Nokiantie E,,64.84410800000002,25.901601,4,http://oulunliikenne.fi/2866,0,,Europe/Helsinki
+101057,2717,Kempele P,,64.912175,25.505663,3,http://oulunliikenne.fi/2717,0,,Europe/Helsinki
+148104,2403,Metsäkouluntie P,,64.968484,25.665223,3,http://oulunliikenne.fi/2403,0,,Europe/Helsinki
+120572,1802,Oulunseläntie P,,65.056793,25.427916,2,http://oulunliikenne.fi/1802,0,,Europe/Helsinki
+307194,3324,Loukkutie P,,65.08725833,25.44513611,2,http://oulunliikenne.fi/3324,0,,Europe/Helsinki
+120720,2023,Parkkisenkangas E,,65.022865,25.541384,2,http://oulunliikenne.fi/2023,0,,Europe/Helsinki
+120593,1826,Solmutie E,,65.048513,25.452067,2,http://oulunliikenne.fi/1826,0,,Europe/Helsinki
+190217,2826,Tupos th P2,,64.863672,25.500785,4,http://oulunliikenne.fi/2826,0,,Europe/Helsinki
+120932,2293,Jalohaukka P,,64.988109,25.515729,2,http://oulunliikenne.fi/2293,0,,Europe/Helsinki
+150073,2867,Karppilantie E,,64.84730500000002,25.643426,3,http://oulunliikenne.fi/2867,0,,Europe/Helsinki
+148222,2879,Koskela E,,64.835563,26.001359,4,http://oulunliikenne.fi/2879,0,,Europe/Helsinki
+310724,4017,Hiukkavaaran keskus P,,65.009496,25.590777,2,http://oulunliikenne.fi/4017,0,,Europe/Helsinki
+101590,2729,Vanhapappila E,,64.907526,25.520712,3,http://oulunliikenne.fi/2729,0,,Europe/Helsinki
+190073,3137,Lumijoentie P,,64.807239,25.409329,4,http://oulunliikenne.fi/3137,0,,Europe/Helsinki
+150084,2946,Patala P,,64.818204,25.691555,4,http://oulunliikenne.fi/2946,0,,Europe/Helsinki
+120957,2324,Patamäen koulu P,,64.983359,25.582652,2,http://oulunliikenne.fi/2324,0,,Europe/Helsinki
+147995,2875,Rajakorven th E,,64.844561,25.551238,4,http://oulunliikenne.fi/2875,0,,Europe/Helsinki
+190174,2589,Koura E,,64.94011,25.427018,3,http://oulunliikenne.fi/2589,0,,Europe/Helsinki
+101636,1485,Haipuskylä E,,65.134213,25.695175,3,http://oulunliikenne.fi/1485,0,,Europe/Helsinki
+148134,2567,Ohrasenoja P,,64.939043,25.765281,3,http://oulunliikenne.fi/2567,0,,Europe/Helsinki
+184162,3227,Intiöntie P,,65.017006,25.49696,1,http://oulunliikenne.fi/3227,0,,Europe/Helsinki
+120794,2106,Kastellinhäkki E,,65.009464,25.524904,2,http://oulunliikenne.fi/2106,0,,Europe/Helsinki
+184615,3004,Pitkäkoski E,,64.808562,25.452798,4,http://oulunliikenne.fi/3004,0,,Europe/Helsinki
+152796,1929,Ylikiimingin kirkko E,,65.028741,26.126865,4,http://oulunliikenne.fi/1929,0,,Europe/Helsinki
+120530,1756,Elektroniikkatie 8P,,65.063645,25.438075,2,http://oulunliikenne.fi/1756,0,,Europe/Helsinki
+148435,1352,Onkamo th E,,65.188754,25.466432,4,http://oulunliikenne.fi/1352,0,,Europe/Helsinki
+189271,3335,Ouluntullin ramppi P,,64.941516,25.538703,2,http://oulunliikenne.fi/3335,0,,Europe/Helsinki
+148187,2797,Mettäperäntie E,,64.875562,25.879257,4,http://oulunliikenne.fi/2797,0,,Europe/Helsinki
+120891,2234,Merikotka E,,64.99532600000002,25.515243,2,http://oulunliikenne.fi/2234,0,,Europe/Helsinki
+171805,2364,Karhunkedontie P,,64.978668,25.485936,2,http://oulunliikenne.fi/2364,0,,Europe/Helsinki
+101522,1443,Hookana E,,65.154798,25.35048,3,http://oulunliikenne.fi/1443,0,,Europe/Helsinki
+121002,2380,Kaakkurin th P2,,64.97441000000002,25.489799,2,http://oulunliikenne.fi/2380,0,,Europe/Helsinki
+120890,2233,Svaaninkuja P,,64.996461,25.534726,2,http://oulunliikenne.fi/2233,0,,Europe/Helsinki
+181289,3274,Kisakankaan th E,,64.936945,25.376944,3,http://oulunliikenne.fi/3274,0,,Europe/Helsinki
+101283,1900,Wathen E,,65.032134,26.02288,4,http://oulunliikenne.fi/1900,0,,Europe/Helsinki
+120796,2109,Linja-autoasema E,,65.009929,25.485523,2,http://oulunliikenne.fi/2109,0,,Europe/Helsinki
+98700,2262,Poikkimaantie P,,64.992733,25.534273,2,http://oulunliikenne.fi/2262,0,,Europe/Helsinki
+148436,1343,Onkamo th P,,65.18942300000002,25.4643,4,http://oulunliikenne.fi/1343,0,,Europe/Helsinki
+101107,8322,Töyrä E,,65.05070000000002,24.7862,5,http://oulunliikenne.fi/8322,0,,Europe/Helsinki
+101117,8332,Väntelä E,,65.0264,24.7661,5,http://oulunliikenne.fi/8332,0,,Europe/Helsinki
+188509,1818,Alavantie E,,65.048474,25.586861,2,http://oulunliikenne.fi/1818,0,,Europe/Helsinki
+101103,8317,Kyrölänperä P,,65.06010000000002,24.8275,5,http://oulunliikenne.fi/8317,0,,Europe/Helsinki
+188501,1902,Huonesuo th E,,65.038453,25.553909,2,http://oulunliikenne.fi/1902,0,,Europe/Helsinki
+97670,3060,Ketunmaan th E,,64.772588,25.548013,4,http://oulunliikenne.fi/3060,0,,Europe/Helsinki
+309421,2775,Kytösavuntie P,,64.8922,25.5203,3,http://oulunliikenne.fi/2775,0,,Europe/Helsinki
+98745,2801,Laitasaari koulu E,,64.872936,25.860672,4,http://oulunliikenne.fi/2801,0,,Europe/Helsinki
+183962,3177,Ostomiehentie E,,64.947745,25.541833,2,http://oulunliikenne.fi/3177,0,,Europe/Helsinki
+101727,1108,Alatalo P,,65.335928,25.690598,5,http://oulunliikenne.fi/1108,0,,Europe/Helsinki
+14048,1575,Mökkitie P,,65.048424,25.866522,3,http://oulunliikenne.fi/1575,0,,Europe/Helsinki
+101102,8316,Kyrölänperä E,,65.06,24.8288,5,http://oulunliikenne.fi/8316,0,,Europe/Helsinki
+97667,3077,Ala-Temmes P,,64.763474,25.548041,4,http://oulunliikenne.fi/3077,0,,Europe/Helsinki
+120884,2223,Höyhtyä P,,64.997661,25.484183,2,http://oulunliikenne.fi/2223,0,,Europe/Helsinki
+150367,1321,Kiimingintien th E,,65.193217,25.448447,4,http://oulunliikenne.fi/1321,0,,Europe/Helsinki
+150038,3013,Pajutie P,,64.808243,25.445427,4,http://oulunliikenne.fi/3013,0,,Europe/Helsinki
+190203,1569,Oikoreitti E,,65.07015800000002,25.855757,3,http://oulunliikenne.fi/1569,0,,Europe/Helsinki
+121106,2502,Ropinakuja E,,64.95746800000002,25.552735,2,http://oulunliikenne.fi/2502,0,,Europe/Helsinki
+120139,1344,Jokikylä E,,65.19089700000002,25.467162,4,http://oulunliikenne.fi/1344,0,,Europe/Helsinki
+169594,3081,Rauhanyhdistys P,,65.00672400000002,25.508481,2,http://oulunliikenne.fi/3081,0,,Europe/Helsinki
+101236,8083,Ala-Siira P,,64.779768,25.711298,4,http://oulunliikenne.fi/8083,0,,Europe/Helsinki
+150140,2921,Pelto P,,64.829388,25.458302,4,http://oulunliikenne.fi/2921,0,,Europe/Helsinki
+189669,2545,Kaitajärvi P,,64.944804,25.740833,3,http://oulunliikenne.fi/2545,0,,Europe/Helsinki
+121091,2486,Kaakkurinojantie P,,64.96047,25.54222,2,http://oulunliikenne.fi/2486,0,,Europe/Helsinki
+187927,2924,Taarinkuja P,,64.832542,25.217233,4,http://oulunliikenne.fi/2924,0,,Europe/Helsinki
+184260,3212,Aalto P,,65.30179200000002,25.699584,5,http://oulunliikenne.fi/3212,0,,Europe/Helsinki
+310720,4013,Vaskikangas P,,65.00562002628907,25.60350515204748,2,http://oulunliikenne.fi/4013,0,,Europe/Helsinki
+101122,8337,Saarenkartano E,,65.0174,24.7384,5,http://oulunliikenne.fi/8337,0,,Europe/Helsinki
+150062,2821,Riikonen P,,64.86357,25.604701,3,http://oulunliikenne.fi/2821,0,,Europe/Helsinki
+101282,1940,Paakki P,,65.027367,26.008645,4,http://oulunliikenne.fi/1940,0,,Europe/Helsinki
+120550,1776,Tutkijantie P,,65.05922700000002,25.448831,2,http://oulunliikenne.fi/1776,0,,Europe/Helsinki
+121095,2488,Höyhenkuja E,,64.95966900000002,25.535511,2,http://oulunliikenne.fi/2488,0,,Europe/Helsinki
+153144,3022,Sunilantie E,,64.8085,25.402887,4,http://oulunliikenne.fi/3022,0,,Europe/Helsinki
+148023,2182,Saarela E,,65.003023,25.583365,2,http://oulunliikenne.fi/2182,0,,Europe/Helsinki
+148043,2960,Ponkila P,,64.81052800000002,26.019085,4,http://oulunliikenne.fi/2960,0,,Europe/Helsinki
+120635,1903,Hiidentie,,65.038972,25.49653,2,http://oulunliikenne.fi/1903,0,,Europe/Helsinki
+148084,2031,Myllyoja E,,65.019995,25.554356,2,http://oulunliikenne.fi/2031,0,,Europe/Helsinki
+98752,2824,Kaupintie P,,64.85795,25.893255,4,http://oulunliikenne.fi/2824,0,,Europe/Helsinki
+184246,1204,Mökkiperä P,,65.313299,25.462,4,http://oulunliikenne.fi/1204,0,,Europe/Helsinki
+150088,2972,Ojakylä P,,64.812187,25.710017,4,http://oulunliikenne.fi/2972,0,,Europe/Helsinki
+101038,3123,Värminkosken th E,,64.806958,25.400728,4,http://oulunliikenne.fi/3123,0,,Europe/Helsinki
+310596,1993,Tukkitie P,,65.0318978641514,25.44907750997109,2,http://oulunliikenne.fi/1993,0,,Europe/Helsinki
+101637,1494,Putkonen P,,65.132519,25.699455,3,http://oulunliikenne.fi/1494,0,,Europe/Helsinki
+171804,2363,Karhunkedontie E,,64.977899,25.486149,2,http://oulunliikenne.fi/2363,0,,Europe/Helsinki
+101131,8346,Kittiläntie E,,65.008,24.6865,5,http://oulunliikenne.fi/8346,0,,Europe/Helsinki
+98767,2916,Korilantie E,,64.826838,25.928382,4,http://oulunliikenne.fi/2916,0,,Europe/Helsinki
+101109,8324,Sorrontie E,,65.0445,24.7764,5,http://oulunliikenne.fi/8324,0,,Europe/Helsinki
+120294,1499,Ukkola P,,65.129251,25.785853,3,http://oulunliikenne.fi/1499,0,,Europe/Helsinki
+120779,2091,Hiukkavaarantie P,,65.01244,25.551477,2,http://oulunliikenne.fi/2091,0,,Europe/Helsinki
+120595,1828,Tuhtotie E,,65.04856100000002,25.446371,2,http://oulunliikenne.fi/1828,0,,Europe/Helsinki
+120603,1845,Rantakoskela P,,65.04692300000002,25.479027,2,http://oulunliikenne.fi/1845,0,,Europe/Helsinki
+101631,1457,Uusikanniainen P,,65.143633,25.670796,3,http://oulunliikenne.fi/1457,0,,Europe/Helsinki
+307155,2016,Kaupungintalo,,65.01423322993672,25.47117923183765,2,http://oulunliikenne.fi/2016,0,,Europe/Helsinki
+120318,1529,Sammaloja P,,65.125018,25.755352,3,http://oulunliikenne.fi/1529,0,,Europe/Helsinki
+148466,1288,Kurtintie E,,65.212547,25.310934,3,http://oulunliikenne.fi/1288,0,,Europe/Helsinki
+101507,1338,Keiska P,,65.19312,25.364904,3,http://oulunliikenne.fi/1338,0,,Europe/Helsinki
+101540,1589,Oravaisenkuja E,,65.10340100000002,25.400175,2,http://oulunliikenne.fi/1589,0,,Europe/Helsinki
+120505,1731,Koisotie P,,65.065827,25.427128,2,http://oulunliikenne.fi/1731,0,,Europe/Helsinki
+171366,2736,Riihivainio P,,64.90582000000002,25.519708,3,http://oulunliikenne.fi/2736,0,,Europe/Helsinki
+150268,1467,Hautakangas E,,65.139815,25.629299,3,http://oulunliikenne.fi/1467,0,,Europe/Helsinki
+187709,3100,Ammustie E,,65.19289000000002,25.417136,4,http://oulunliikenne.fi/3100,0,,Europe/Helsinki
+190184,3156,Aumaharju P,,65.02917600000002,26.013672,4,http://oulunliikenne.fi/3156,0,,Europe/Helsinki
+309388,2498,Oulunlahdentie P,,64.959505,25.526505,2,http://oulunliikenne.fi/2498,0,,Europe/Helsinki
+120591,1824,Kornetintie E,,65.045917,25.611675,2,http://oulunliikenne.fi/1824,0,,Europe/Helsinki
+121079,2472,Tiaispuisto P,,64.961486,25.54424,2,http://oulunliikenne.fi/2472,0,,Europe/Helsinki
+150043,3019,Kuormatie P,,64.808464,25.422994,4,http://oulunliikenne.fi/3019,0,,Europe/Helsinki
+120494,1720,Kuovitie P,,65.06689900000002,25.516275,2,http://oulunliikenne.fi/1720,0,,Europe/Helsinki
+307211,1958,Huurupolku P,,65.0311,25.570355,2,http://oulunliikenne.fi/1958,0,,Europe/Helsinki
+98712,2497,Sääskensuon th E,,64.956408,25.653082,3,http://oulunliikenne.fi/2497,0,,Europe/Helsinki
+98718,2553,Turkansaari th E,,64.944548,25.686196,3,http://oulunliikenne.fi/2553,0,,Europe/Helsinki
+97684,3025,Arotie E,,64.806501,25.503857,4,http://oulunliikenne.fi/3025,0,,Europe/Helsinki
+307159,4005,Kuntolenkki E,,64.99562529481214,25.60307940080586,2,http://oulunliikenne.fi/4005,0,,Europe/Helsinki
+307192,3323,Klippatie P,,65.08428889,25.44693056,2,http://oulunliikenne.fi/3323,0,,Europe/Helsinki
+120700,1997,Nallikari E,,65.02818600000002,25.415507,2,http://oulunliikenne.fi/1997,0,,Europe/Helsinki
+189535,8211,Syväyksentie P,,64.7914,26.1203,5,http://oulunliikenne.fi/8211,0,,Europe/Helsinki
+98751,2819,Männikkö E,,64.862196,25.887576,4,http://oulunliikenne.fi/2819,0,,Europe/Helsinki
+98812,8230,Aksilan th P,,64.7801,26.3786,5,http://oulunliikenne.fi/8230,0,,Europe/Helsinki
+184134,3255,Tullikirjurinraitti E,,65.005476,25.472684,1,http://oulunliikenne.fi/3255,0,,Europe/Helsinki
+101033,2999,Niskanen P,,64.811796,25.375868,4,http://oulunliikenne.fi/2999,0,,Europe/Helsinki
+101108,8323,Sorrontie P,,65.0452,24.7764,5,http://oulunliikenne.fi/8323,0,,Europe/Helsinki
+190218,2831,Tupos liikenneympyrä P,,64.863609,25.483976,4,http://oulunliikenne.fi/2831,0,,Europe/Helsinki
+101018,2956,Syrjäpalo E,,64.819745,25.287963,4,http://oulunliikenne.fi/2956,0,,Europe/Helsinki
+97677,3043,Riikola P,,64.788631,25.541766,4,http://oulunliikenne.fi/3043,0,,Europe/Helsinki
+101087,2348,Pajuniemi P,,64.983183,25.269059,3,http://oulunliikenne.fi/2348,0,,Europe/Helsinki
+118979,2129,Saaristonkatu 2 E,,65.009674,25.473723,2,http://oulunliikenne.fi/2129,0,,Europe/Helsinki
+98508,1549,Viitantie E,,65.116601,25.738839,3,http://oulunliikenne.fi/1549,0,,Europe/Helsinki
+101591,2728,Kempeleen paloasema P,,64.907551,25.526035,3,http://oulunliikenne.fi/2728,0,,Europe/Helsinki
+101583,2664,Takkulantie P,,64.923107,25.510701,3,http://oulunliikenne.fi/2664,0,,Europe/Helsinki
+231889,4008,Kivikkokangas P,,64.99845960976556,25.59048249032445,2,http://oulunliikenne.fi/4008,0,,Europe/Helsinki
+101642,1483,Honkimäentie P,,65.13277600000002,25.743356,3,http://oulunliikenne.fi/1483,0,,Europe/Helsinki
+184247,1205,Mökkiperä E,,65.313288,25.46185,4,http://oulunliikenne.fi/1205,0,,Europe/Helsinki
+184150,3239,Jäähalli P,,65.009097,25.492824,1,http://oulunliikenne.fi/3239,0,,Europe/Helsinki
+120644,1920,Alikäytävä E,,65.036941,25.48019,2,http://oulunliikenne.fi/1920,0,,Europe/Helsinki
+120526,1752,Tapiontie P,,65.06274000000002,25.478231,2,http://oulunliikenne.fi/1752,0,,Europe/Helsinki
+120610,1860,Järvikioski P,,65.04390100000002,25.489797,2,http://oulunliikenne.fi/1860,0,,Europe/Helsinki
+171368,2706,Kunnantalo P,,64.912714,25.508858,3,http://oulunliikenne.fi/2706,0,,Europe/Helsinki
+120701,1999,Etupääntie P,,65.024169,25.564889,2,http://oulunliikenne.fi/1999,0,,Europe/Helsinki
+101274,1916,Jumila P,,65.032207,25.959308,4,http://oulunliikenne.fi/1916,0,,Europe/Helsinki
+120980,2352,Kangasrinne P,,64.978842,25.582192,2,http://oulunliikenne.fi/2352,0,,Europe/Helsinki
+101023,2967,Niemelä P,,64.819242,25.314596,4,http://oulunliikenne.fi/2967,0,,Europe/Helsinki
+120484,1710,Kuivasoja P,,65.072103,25.40807,2,http://oulunliikenne.fi/1710,0,,Europe/Helsinki
+300625,1478,Ponnintie E,,65.13108,25.793858,3,http://oulunliikenne.fi/1478,0,,Europe/Helsinki
+185769,3298,Ahmatie P,,65.031012,25.480231,2,http://oulunliikenne.fi/3298,0,,Europe/Helsinki
+120685,1980,Vaakunakylä P,,65.029671,25.441485,2,http://oulunliikenne.fi/1980,0,,Europe/Helsinki
+307198,3309,Saalistajantie P,,65.09055,25.44463611,2,http://oulunliikenne.fi/3309,0,,Europe/Helsinki
+120976,2346,Snellmanintie E,,64.98153600000002,25.497109,2,http://oulunliikenne.fi/2346,0,,Europe/Helsinki
+184521,1890,Joloksentie P,,65.03130400000002,26.146562,4,http://oulunliikenne.fi/1890,0,,Europe/Helsinki
+101611,1398,Hanhela P,,65.175296,25.562395,4,http://oulunliikenne.fi/1398,0,,Europe/Helsinki
+184158,3231,Veteraanikatu E,,65.018995,25.506502,1,http://oulunliikenne.fi/3231,0,,Europe/Helsinki
+148041,2992,Leppiniemi th P2,,64.80574300000002,26.01446,4,http://oulunliikenne.fi/2992,0,,Europe/Helsinki
+231430,3038,Juotto E,,64.792047,25.536995,4,http://oulunliikenne.fi/3038,0,,Europe/Helsinki
+98705,2372,Juurus th E,,64.97316600000002,25.600474,2,http://oulunliikenne.fi/2372,0,,Europe/Helsinki
+120531,1757,Elektroniikkatie 6P,,65.062155,25.4388,2,http://oulunliikenne.fi/1757,0,,Europe/Helsinki
+120827,2160,Isterintie P,,65.00384,25.547235,2,http://oulunliikenne.fi/2160,0,,Europe/Helsinki
+120120,1324,Haukiputaan ammattikoulu P,,65.1946,25.410883,4,http://oulunliikenne.fi/1324,0,,Europe/Helsinki
+120672,1961,Oravitie,,65.031682,25.470322,2,http://oulunliikenne.fi/1961,0,,Europe/Helsinki
+97703,2799,Rajakorpi P,,64.8784,25.513978,3,http://oulunliikenne.fi/2799,0,,Europe/Helsinki
+120798,2111,Hellaakoski,,65.01008392505072,25.47230820786727,2,http://oulunliikenne.fi/2111,0,,Europe/Helsinki
+169642,2517,Emopolku E,,64.954129,25.528638,2,http://oulunliikenne.fi/2517,0,,Europe/Helsinki
+120808,2124,OYS B1,,65.00808000000002,25.520304,2,http://oulunliikenne.fi/2124,0,,Europe/Helsinki
+148463,1297,Verstasmutka P,,65.209195,25.32085,3,http://oulunliikenne.fi/1297,0,,Europe/Helsinki
+120452,1678,Pielikuja P,,65.07639,25.527101,2,http://oulunliikenne.fi/1678,0,,Europe/Helsinki
+187989,1767,Meritaskila E,,65.061613,25.419663,2,http://oulunliikenne.fi/1767,0,,Europe/Helsinki
+101234,8081,Haarankauppa E,,64.78284,25.690472,4,http://oulunliikenne.fi/8081,0,,Europe/Helsinki
+187127,3282,Ylikiimingin th P,,65.06317900000002,25.63341,2,http://oulunliikenne.fi/3282,0,,Europe/Helsinki
+120375,1595,Seelannintie P,,65.098994,25.419444,2,http://oulunliikenne.fi/1595,0,,Europe/Helsinki
+321616,3157,Honkitie E,,64.806023,25.42185,4,http://oulunliikenne.fi/3157,0,,Europe/Helsinki
+190771,3086,Liminka E,,64.80852121432356,25.41429373460419,4,http://oulunliikenne.fi/3086,0,,Europe/Helsinki
+120972,2340,Jatulikiventie P,,64.98096200000002,25.574876,2,http://oulunliikenne.fi/2340,0,,Europe/Helsinki
+307189,3320,Ritakierros P,,65.08386900000002,25.453828,2,http://oulunliikenne.fi/3320,0,,Europe/Helsinki
+120874,2212,Kotkantie P,,64.99805600000002,25.51365,2,http://oulunliikenne.fi/2212,0,,Europe/Helsinki
+120747,2052,Kursutie E,,65.018346,25.523342,2,http://oulunliikenne.fi/2052,0,,Europe/Helsinki
+190428,3338,Zeppelinin ramppi E,,64.905076,25.534263,3,http://oulunliikenne.fi/3338,0,,Europe/Helsinki
+121011,2393,Kaskiahontie P,,64.971755,25.585956,2,http://oulunliikenne.fi/2393,0,,Europe/Helsinki
+97717,1195,Lakso E,,65.31660100000002,25.37319,4,http://oulunliikenne.fi/1195,0,,Europe/Helsinki
+120613,1863,Tullimiehentie E,,65.045102,25.444151,2,http://oulunliikenne.fi/1863,0,,Europe/Helsinki
+150389,1225,Hekkala E,,65.30102,25.623714,4,http://oulunliikenne.fi/1225,0,,Europe/Helsinki
+310856,3401,Oravanreitti P2,,65.081135,25.466159,2,http://oulunliikenne.fi/3401,0,,Europe/Helsinki
+101085,2370,Ristihäkki P,,64.978889,25.277112,3,http://oulunliikenne.fi/2370,0,,Europe/Helsinki
+98500,1596,Jääli th E,,65.09462720596538,25.68211299128541,3,http://oulunliikenne.fi/1596,0,,Europe/Helsinki
+98763,2893,Vääräntie E,,64.832298,25.916915,4,http://oulunliikenne.fi/2893,0,,Europe/Helsinki
+120867,2205,Kotkantien oppilaitokset E,,64.999023,25.512579,2,http://oulunliikenne.fi/2205,0,,Europe/Helsinki
+190195,1654,Aaltokankaantie P,,65.08450000000002,25.408755,2,http://oulunliikenne.fi/1654,0,,Europe/Helsinki
+121047,2436,Vallinkorva P,,64.964604,25.667766,3,http://oulunliikenne.fi/2436,0,,Europe/Helsinki
+301591,3085,Muhoksen kirkonkylän koulu,,64.802629,26.008871,4,http://oulunliikenne.fi/3085,0,,Europe/Helsinki
+190295,1558,Apajatie E,,65.119957,25.339543,3,http://oulunliikenne.fi/1558,0,,Europe/Helsinki
+101731,1098,Karjalankylä E,,65.339221,25.70742,5,http://oulunliikenne.fi/1098,0,,Europe/Helsinki
+101496,1260,Saanionpolku E,,65.250413,25.352735,3,http://oulunliikenne.fi/1260,0,,Europe/Helsinki
+120412,1633,Laivakangas P,,65.08582490126328,25.6829722321376,3,http://oulunliikenne.fi/1633,0,,Europe/Helsinki
+307157,4007,Suojuoksuntie E,,64.99747000000002,25.597159,2,http://oulunliikenne.fi/4007,0,,Europe/Helsinki
+184265,3316,Onkamontie E,,65.19191378833892,25.47437833536698,4,http://oulunliikenne.fi/3316,0,,Europe/Helsinki
+101687,1184,Iin terveyskeskus E,,65.318962,25.404396,4,http://oulunliikenne.fi/1184,0,,Europe/Helsinki
+97714,1233,Liedes P,,65.30218600000002,25.375044,4,http://oulunliikenne.fi/1233,0,,Europe/Helsinki
+101633,1473,Tirinkylä P,,65.137045,25.687683,3,http://oulunliikenne.fi/1473,0,,Europe/Helsinki
+148098,2337,Eskelisentie P,,64.979716,25.626699,2,http://oulunliikenne.fi/2337,0,,Europe/Helsinki
+153131,3007,Kirkko th P,,64.810911,25.408534,4,http://oulunliikenne.fi/3007,0,,Europe/Helsinki
+120780,2092,Laita P,,65.010877,25.554998,2,http://oulunliikenne.fi/2092,0,,Europe/Helsinki
+120963,2330,Snellmankoti P,,64.98382700000002,25.492192,2,http://oulunliikenne.fi/2330,0,,Europe/Helsinki
+184244,1190,Raasakka  P,,65.31573,25.512129,4,http://oulunliikenne.fi/1190,0,,Europe/Helsinki
+101275,1914,Hautasuo th P,,65.03114600000002,25.969261,4,http://oulunliikenne.fi/1914,0,,Europe/Helsinki
+189672,2613,Tervaojantie E,,64.92977,25.789771,3,http://oulunliikenne.fi/2613,0,,Europe/Helsinki
+120727,2032,Haapalehdontie P,,65.020664,25.554872,2,http://oulunliikenne.fi/2032,0,,Europe/Helsinki
+101013,2945,Letontie P,,64.823653,25.259846,4,http://oulunliikenne.fi/2945,0,,Europe/Helsinki
+101048,2573,Vihiluoto P,,64.942598,25.453022,3,http://oulunliikenne.fi/2573,0,,Europe/Helsinki
+150072,2868,Karppilantie P,,64.847858,25.642112,3,http://oulunliikenne.fi/2868,0,,Europe/Helsinki
+120812,2128,Rautasaari E,,65.008676,25.476983,2,http://oulunliikenne.fi/2128,0,,Europe/Helsinki
+190070,3142,Haapamaantie E,,64.89441600000002,25.545936,3,http://oulunliikenne.fi/3142,0,,Europe/Helsinki
+164370,3110,Rantakukantie E,,65.071534,25.453876,2,http://oulunliikenne.fi/3110,0,,Europe/Helsinki
+101098,8312,Pököntien th E,,65.0613,24.8684,5,http://oulunliikenne.fi/8312,0,,Europe/Helsinki
+101615,1394,Kiimingin kunnanraja P,,65.174056,25.585767,4,http://oulunliikenne.fi/1394,0,,Europe/Helsinki
+310706,4026,Mukkelintie E,,65.00477,25.576759,2,http://oulunliikenne.fi/4026,0,,Europe/Helsinki
+98778,2978,Muhoksen keskusta P,,64.807126,25.995908,4,http://oulunliikenne.fi/2978,0,,Europe/Helsinki
+148089,2103,Oulujoentie E,,65.009539,25.573501,2,http://oulunliikenne.fi/2103,0,,Europe/Helsinki
+148479,1552,Virpiniemen th P,,65.121871,25.343875,3,http://oulunliikenne.fi/1552,0,,Europe/Helsinki
+190160,3089,Karintie E,,64.840255,25.179723,4,http://oulunliikenne.fi/3089,0,,Europe/Helsinki
+120443,1669,Jalopuuntie P,,65.079289,25.410597,2,http://oulunliikenne.fi/1669,0,,Europe/Helsinki
+101225,3071,Mäläskä P,,64.76484000000002,25.617849,4,http://oulunliikenne.fi/3071,0,,Europe/Helsinki
+121108,2504,Siipikuja P,,64.958559,25.5303,2,http://oulunliikenne.fi/2504,0,,Europe/Helsinki
+98738,2766,Oulun ja Muhoksen raja E,,64.89190000000002,25.80915,4,http://oulunliikenne.fi/2766,0,,Europe/Helsinki
+120353,1570,Lohitie E,,65.11594100000002,25.329316,3,http://oulunliikenne.fi/1570,0,,Europe/Helsinki
+120085,1282,Laitakarintie E,,65.216025,25.29949,3,http://oulunliikenne.fi/1282,0,,Europe/Helsinki
+185771,3300,Paulaharjuntie P,,65.031194,25.472557,2,http://oulunliikenne.fi/3300,0,,Europe/Helsinki
+120715,2015,Merikoskenkatu P1,,65.024942,25.47005,2,http://oulunliikenne.fi/2015,0,,Europe/Helsinki
+101570,2521,Lentokentän th E,,64.95517,25.505192,2,http://oulunliikenne.fi/2521,0,,Europe/Helsinki
+98492,1700,Välikuja E,,65.070036,25.652572,3,http://oulunliikenne.fi/1700,0,,Europe/Helsinki
+184261,1222,Aalto E,,65.301756,25.699521,5,http://oulunliikenne.fi/1222,0,,Europe/Helsinki
+101541,1609,Herukka E,,65.096523,25.403823,2,http://oulunliikenne.fi/1609,0,,Europe/Helsinki
+189656,1935,Kemintie E,,65.03526100000002,25.467633,2,http://oulunliikenne.fi/1935,0,,Europe/Helsinki
+120775,2084,Lävistäjä E,,65.013311,25.479328,2,http://oulunliikenne.fi/2084,0,,Europe/Helsinki
+148112,2451,Peräkylä th E,,64.962278,25.692822,3,http://oulunliikenne.fi/2451,0,,Europe/Helsinki
+101118,8333,Iljananpäällystä P,,65.0235,24.7551,5,http://oulunliikenne.fi/8333,0,,Europe/Helsinki
+184233,1083,Hökkä P,,65.353472,25.810729,5,http://oulunliikenne.fi/1083,0,,Europe/Helsinki
+185718,3291,Madetojanraitti E,,65.007434,25.476729,1,http://oulunliikenne.fi/3291,0,,Europe/Helsinki
+184457,1584,Koiteli P,,65.099885,25.811983,3,http://oulunliikenne.fi/1584,0,,Europe/Helsinki
+184175,3214,Rotuaarinaukio,,65.012439,25.472102,1,http://oulunliikenne.fi/3214,0,,Europe/Helsinki
+148501,1181,Rantakestilä P,,65.320996,25.322377,4,http://oulunliikenne.fi/1181,0,,Europe/Helsinki
+148443,1317,Saarikankaantie P,,65.196876,25.385349,3,http://oulunliikenne.fi/1317,0,,Europe/Helsinki
+120660,1945,Sirppitie E,,65.03313900000002,25.481235,2,http://oulunliikenne.fi/1945,0,,Europe/Helsinki
+307162,4001,Sarvisuontie E,,64.99873056,25.61616667,2,http://oulunliikenne.fi/4001,0,,Europe/Helsinki
+152770,1879,Vesala E,,65.034347,26.032182,4,http://oulunliikenne.fi/1879,0,,Europe/Helsinki
+308260,3313,Oravanreitti E,,65.080128,25.465843,2,http://oulunliikenne.fi/3313,0,,Europe/Helsinki
+98814,8232,Kotikuja E,,64.7753,26.399,5,http://oulunliikenne.fi/8232,0,,Europe/Helsinki
+148005,2963,Ängeslevä th E,,64.815373,25.609006,4,http://oulunliikenne.fi/2963,0,,Europe/Helsinki
+120729,2034,Metsotie P,,65.021562,25.534792,2,http://oulunliikenne.fi/2034,0,,Europe/Helsinki
+120640,1909,Toppilan koulu E,,65.04054,25.440234,2,http://oulunliikenne.fi/1909,0,,Europe/Helsinki
+101292,1893,Tielaitos E,,65.031536,26.103576,4,http://oulunliikenne.fi/1893,0,,Europe/Helsinki
+121248,2696,Kuunsilta P,,64.914446,25.559493,3,http://oulunliikenne.fi/2696,0,,Europe/Helsinki
+120915,2268,Tavitie E,,64.992896,25.490239,2,http://oulunliikenne.fi/2268,0,,Europe/Helsinki
+101495,1259,Saanionpolku P,,65.251569,25.353498,3,http://oulunliikenne.fi/1259,0,,Europe/Helsinki
+147998,2910,Ritokorpi P,,64.831881,25.581649,4,http://oulunliikenne.fi/2910,0,,Europe/Helsinki
+189257,3334,Ylikylä E,,64.895218,25.554442,3,http://oulunliikenne.fi/3334,0,,Europe/Helsinki
+120924,2283,Vesaisentie E,,64.990546,25.490329,2,http://oulunliikenne.fi/2283,0,,Europe/Helsinki
+101280,1953,Siltala E,,65.026684,25.996299,4,http://oulunliikenne.fi/1953,0,,Europe/Helsinki
+150143,2885,Tupoksentie E,,64.841912,25.473077,4,http://oulunliikenne.fi/2885,0,,Europe/Helsinki
+120529,1755,Elektroniikkatie 7E,,65.063823,25.437916,2,http://oulunliikenne.fi/1755,0,,Europe/Helsinki
+307147,3360,Tuhkimonkaarre P,,64.925761,25.558641,3,http://oulunliikenne.fi/3360,0,,Europe/Helsinki
+164288,3273,Murto PP,,64.829527,25.686687,4,http://oulunliikenne.fi/3273,0,,Europe/Helsinki
+101741,1079,Kakko P,,65.352872,25.769399,5,http://oulunliikenne.fi/1079,0,,Europe/Helsinki
+189256,3333,Ylikylä P,,64.895338,25.554442,3,http://oulunliikenne.fi/3333,0,,Europe/Helsinki
+307151,3295,Harjapäänkatu P,,65.00370281892664,25.47012815175089,1,http://oulunliikenne.fi/3295,0,,Europe/Helsinki
+121247,2695,Kuunsilta E,,64.914254,25.559186,3,http://oulunliikenne.fi/2695,0,,Europe/Helsinki
+120684,1978,Hartaantie P,,65.02802,25.457075,2,http://oulunliikenne.fi/1978,0,,Europe/Helsinki
+120421,1643,Risuniitynkuja P,,65.08904200000002,25.41912,2,http://oulunliikenne.fi/1643,0,,Europe/Helsinki
+307510,8237,Utajärvi Matkahuolto,,64.76165424127794,26.42116229383981,5,http://oulunliikenne.fi/8237,0,,Europe/Helsinki
+97680,3034,Huhta E,,64.796272,25.527023,4,http://oulunliikenne.fi/3034,0,,Europe/Helsinki
+150135,2997,Niittypirtti P,,64.812106,25.422107,4,http://oulunliikenne.fi/2997,0,,Europe/Helsinki
+150266,1487,Sipolanpisto E,,65.134453,25.623652,3,http://oulunliikenne.fi/1487,0,,Europe/Helsinki
+120769,2077,Pokkitörmä,,65.01615,25.471847,2,http://oulunliikenne.fi/2077,0,,Europe/Helsinki
+150401,1237,Turtinen E,,65.295384,25.694026,5,http://oulunliikenne.fi/1237,0,,Europe/Helsinki
+97702,2815,Isoaukio E,,64.870241,25.50639,3,http://oulunliikenne.fi/2815,0,,Europe/Helsinki
+101639,1509,Hakosuvanto P,,65.129286,25.710521,3,http://oulunliikenne.fi/1509,0,,Europe/Helsinki
+97671,3061,Ketunmaan th P,,64.773578,25.548339,4,http://oulunliikenne.fi/3061,0,,Europe/Helsinki
+120549,1775,Teknologiakylä P,,65.05872,25.458869,2,http://oulunliikenne.fi/1775,0,,Europe/Helsinki
+101516,1423,Revontie E,,65.172061,25.349898,3,http://oulunliikenne.fi/1423,0,,Europe/Helsinki
+231167,2195,Huuhkajapuisto P,,65.00181000000002,25.515901,2,http://oulunliikenne.fi/2195,0,,Europe/Helsinki
+98754,2841,Keränen P,,64.854103,25.895775,4,http://oulunliikenne.fi/2841,0,,Europe/Helsinki
+101015,2959,Mikkola P,,64.821164,25.271065,4,http://oulunliikenne.fi/2959,0,,Europe/Helsinki
+150269,1468,Hautakangas P,,65.14052100000002,25.629945,3,http://oulunliikenne.fi/1468,0,,Europe/Helsinki
+101223,3075,Nipsinki P,,64.763678,25.59063,4,http://oulunliikenne.fi/3075,0,,Europe/Helsinki
+148044,2951,Ponkila E,,64.811466,26.019872,4,http://oulunliikenne.fi/2951,0,,Europe/Helsinki
+98816,8235,Komula th E,,64.7709,26.4036,5,http://oulunliikenne.fi/8235,0,,Europe/Helsinki
+120646,1922,Veräjätie P,,65.037446,25.47513,2,http://oulunliikenne.fi/1922,0,,Europe/Helsinki
+98743,2792,Tuomi talli E,,64.880074,25.84988,4,http://oulunliikenne.fi/2792,0,,Europe/Helsinki
+120602,1844,Rantakoskela E,,65.046858,25.478755,2,http://oulunliikenne.fi/1844,0,,Europe/Helsinki
+98704,2373,Juurus th P,,64.973778,25.597858,2,http://oulunliikenne.fi/2373,0,,Europe/Helsinki
+101031,2987,Rantakylän th P,,64.81413000000002,25.358082,4,http://oulunliikenne.fi/2987,0,,Europe/Helsinki
+231148,2770,Sammontie E,,64.81265500000002,25.974669,4,http://oulunliikenne.fi/2770,0,,Europe/Helsinki
+101674,1059,Kiimingin th P,,65.366933,25.818289,5,http://oulunliikenne.fi/1059,0,,Europe/Helsinki
+101133,8348,Sauvola E,,65.0127,24.675,5,http://oulunliikenne.fi/8348,0,,Europe/Helsinki
+120116,1319,Jokikylän th E2,,65.193058,25.452215,4,http://oulunliikenne.fi/1319,0,,Europe/Helsinki
+101523,1453,Luostarinvainio P,,65.147283,25.351565,3,http://oulunliikenne.fi/1453,0,,Europe/Helsinki
+98706,2387,Heikkilänkankaan th P,,64.971133,25.613394,2,http://oulunliikenne.fi/2387,0,,Europe/Helsinki
+98770,2927,Korivaaran koulu E,,64.821392,25.954796,4,http://oulunliikenne.fi/2927,0,,Europe/Helsinki
+120864,2202,Knuutila E,,64.998476,25.554629,2,http://oulunliikenne.fi/2202,0,,Europe/Helsinki
+101547,1671,Keskuskatu E,,65.078262,25.408468,2,http://oulunliikenne.fi/1671,0,,Europe/Helsinki
+120394,1615,Kehätie P,,65.091005,25.695526,3,http://oulunliikenne.fi/1615,0,,Europe/Helsinki
+101652,1513,Kauppareitti E,,65.126303,25.781066,3,http://oulunliikenne.fi/1513,0,,Europe/Helsinki
+148096,2310,Sanginjoen th P,,64.98403,25.617811,2,http://oulunliikenne.fi/2310,0,,Europe/Helsinki
+121063,2456,Sanginsuun koulu P,,64.962634,25.676142,3,http://oulunliikenne.fi/2456,0,,Europe/Helsinki
+150319,1390,Härkätie E,,65.177812,25.345036,3,http://oulunliikenne.fi/1390,0,,Europe/Helsinki
+120630,1887,Järvenkorventie E,,65.041144,25.499232,2,http://oulunliikenne.fi/1887,0,,Europe/Helsinki
+189670,2558,Pukintie P,,64.94187700000002,25.750152,3,http://oulunliikenne.fi/2558,0,,Europe/Helsinki
+190183,3155,Aumaharju E,,65.02931,26.01354,4,http://oulunliikenne.fi/3155,0,,Europe/Helsinki
+148221,2890,Montta th P,,64.832562,25.992643,4,http://oulunliikenne.fi/2890,0,,Europe/Helsinki
+183985,3198,Kuivasrannanaukio E,,65.076328,25.451599,2,http://oulunliikenne.fi/3198,0,,Europe/Helsinki
+150390,1226,Hekkala P,,65.301405,25.622686,4,http://oulunliikenne.fi/1226,0,,Europe/Helsinki
+101266,1836,Saarinen E,,65.042977,25.801776,3,http://oulunliikenne.fi/1836,0,,Europe/Helsinki
+189730,2822,Määttä Könö E,,64.858775,25.905347,4,http://oulunliikenne.fi/2822,0,,Europe/Helsinki
+164364,3104,Alatalontie E,,65.07230800000002,25.479556,2,http://oulunliikenne.fi/3104,0,,Europe/Helsinki
+120461,1687,Possakan th P,,65.07490300000002,25.427677,2,http://oulunliikenne.fi/1687,0,,Europe/Helsinki
+120859,2197,Karjaportti E,,65.001079,25.491283,2,http://oulunliikenne.fi/2197,0,,Europe/Helsinki
+98806,8224,Alakylä (Utajärvi) P,,64.7781,26.3456,5,http://oulunliikenne.fi/8224,0,,Europe/Helsinki
+101113,8328,Petsamon th P,,65.0321,24.7756,5,http://oulunliikenne.fi/8328,0,,Europe/Helsinki
+148502,1169,Alarannan koulu E,,65.322301,25.317937,4,http://oulunliikenne.fi/1169,0,,Europe/Helsinki
+186022,3304,Pomolantie P,,65.219799,25.300808,3,http://oulunliikenne.fi/3304,0,,Europe/Helsinki
+121094,2487,Kaakkurinojantie E,,64.960353,25.541274,2,http://oulunliikenne.fi/2487,0,,Europe/Helsinki
+120639,1908,Toppilan koulu P,,65.04056,25.440467,2,http://oulunliikenne.fi/1908,0,,Europe/Helsinki
+120894,2237,Limingantulli P,,64.99718300000002,25.464621,2,http://oulunliikenne.fi/2237,0,,Europe/Helsinki
+101119,8334,Iljananpäällystä E,,65.0232,24.7541,5,http://oulunliikenne.fi/8334,0,,Europe/Helsinki
+184137,3252,Madetojanraitti P,,65.007341,25.477144,1,http://oulunliikenne.fi/3252,0,,Europe/Helsinki
+101704,1146,Pajarinperä P,,65.322189,25.545222,4,http://oulunliikenne.fi/1146,0,,Europe/Helsinki
+120438,1664,Palosuontie E,,65.07887100000002,25.425359,2,http://oulunliikenne.fi/1664,0,,Europe/Helsinki
+188518,2701,Pirilä P,,64.916173,25.48756,3,http://oulunliikenne.fi/2701,0,,Europe/Helsinki
+101055,2629,Lentäjäntie E,,64.93186900000002,25.385457,3,http://oulunliikenne.fi/2629,0,,Europe/Helsinki
+150365,1294,Kropsu E,,65.20928000000002,25.330055,3,http://oulunliikenne.fi/1294,0,,Europe/Helsinki
+118977,2130,Saaristonkatu 2 P,,65.00967900000002,25.47419,2,http://oulunliikenne.fi/2130,0,,Europe/Helsinki
+187926,3047,Luontotie E,,64.834098,25.209072,4,http://oulunliikenne.fi/3047,0,,Europe/Helsinki
+120575,1808,Ruotutie E,,65.051399,25.602171,2,http://oulunliikenne.fi/1808,0,,Europe/Helsinki
+101543,1647,Leppiojantie P,,65.089289,25.407767,2,http://oulunliikenne.fi/1647,0,,Europe/Helsinki
+120818,2145,Kastellin kirkko E,,65.006094,25.540942,2,http://oulunliikenne.fi/2145,0,,Europe/Helsinki
+101692,1174,Ii Asemankylä E,,65.319799,25.437221,4,http://oulunliikenne.fi/1174,0,,Europe/Helsinki
+120895,2238,Limingantulli E,,64.995879,25.464314,2,http://oulunliikenne.fi/2238,0,,Europe/Helsinki
+121007,2389,Hanhikaarentie P,,64.971113,25.599671,2,http://oulunliikenne.fi/2389,0,,Europe/Helsinki
+98809,8226,Koivisto P,,64.7804,26.3589,5,http://oulunliikenne.fi/8226,0,,Europe/Helsinki
+164369,3107,Rantakukantie P,,65.071566,25.454385,2,http://oulunliikenne.fi/3107,0,,Europe/Helsinki
+120850,2188,Lämsänjärventie P,,65.000899,25.552908,2,http://oulunliikenne.fi/2188,0,,Europe/Helsinki
+150363,1287,Martinniemi th E,,65.213278,25.329803,3,http://oulunliikenne.fi/1287,0,,Europe/Helsinki
+184167,3222,Matkakeskus P,,65.011061,25.481294,1,http://oulunliikenne.fi/3222,0,,Europe/Helsinki
+120636,1904,Varsitie P,,65.03884600000002,25.465558,2,http://oulunliikenne.fi/1904,0,,Europe/Helsinki
+150055,2798,Pyykönmutka E,,64.87872400000002,25.580191,3,http://oulunliikenne.fi/2798,0,,Europe/Helsinki
+150378,1168,Iin virastotalo P,,65.322637,25.367215,4,http://oulunliikenne.fi/1168,0,,Europe/Helsinki
+120335,1550,Viitantie P,,65.117297,25.739487,3,http://oulunliikenne.fi/1550,0,,Europe/Helsinki
+150155,2590,Oulunsalo ry E,,64.938552,25.397853,3,http://oulunliikenne.fi/2590,0,,Europe/Helsinki
+98727,2626,Raita-ahontie P,,64.9209,25.75445,3,http://oulunliikenne.fi/2626,0,,Europe/Helsinki
+120768,2076,Autoheikki P,,65.016001,25.479175,2,http://oulunliikenne.fi/2076,0,,Europe/Helsinki
+150039,3014,Taalintie P,,64.808173,25.440505,4,http://oulunliikenne.fi/3014,0,,Europe/Helsinki
+185772,3301,Paulaharjuntie E,,65.031075,25.472373,2,http://oulunliikenne.fi/3301,0,,Europe/Helsinki
+115887,2845,Kotilehto E,,64.855572,25.479726,4,http://oulunliikenne.fi/2845,0,,Europe/Helsinki
+188503,1886,Korvensuoran koulu E,,65.04189700000002,25.565996,2,http://oulunliikenne.fi/1886,0,,Europe/Helsinki
+120384,1605,Blomintie E,,65.092406,25.705052,3,http://oulunliikenne.fi/1605,0,,Europe/Helsinki
+169593,2183,Muuraojantie,,65.0003829836545,25.58217828666509,2,http://oulunliikenne.fi/2183,0,,Europe/Helsinki
+120462,1688,Possakan th E,,65.07480200000002,25.427449,2,http://oulunliikenne.fi/1688,0,,Europe/Helsinki
+190370,2983,Haaransilta P,,64.813196,25.481104,4,http://oulunliikenne.fi/2983,0,,Europe/Helsinki
+189665,2918,Takalantie P,,64.822964,26.044284,4,http://oulunliikenne.fi/2918,0,,Europe/Helsinki
+120824,2153,Pohjankartano E,,65.006368,25.480253,2,http://oulunliikenne.fi/2153,0,,Europe/Helsinki
+169581,3121,Kahvelitie P,,65.029961,25.43839,2,http://oulunliikenne.fi/3121,0,,Europe/Helsinki
+150048,2780,Seppäsentie E,,64.890073,25.557843,3,http://oulunliikenne.fi/2780,0,,Europe/Helsinki
+120885,2224,Höyhtyä E,,64.997596,25.483974,2,http://oulunliikenne.fi/2224,0,,Europe/Helsinki
+120836,2170,Kyösti Kallion puisto P,,65.004711,25.460414,2,http://oulunliikenne.fi/2170,0,,Europe/Helsinki
+120781,2093,Hiukkavaarantie E,,65.012154,25.551599,2,http://oulunliikenne.fi/2093,0,,Europe/Helsinki
+189527,2496,Sääskensuon th P,,64.957174,25.650567,3,http://oulunliikenne.fi/2496,0,,Europe/Helsinki
+148453,1328,Siikasaari P,,65.195581,25.347131,3,http://oulunliikenne.fi/1328,0,,Europe/Helsinki
+120088,1286,Ahtaajantie P,,65.214479,25.30162,3,http://oulunliikenne.fi/1286,0,,Europe/Helsinki
+169654,2583,Teeritie E,,64.941136,25.371296,3,http://oulunliikenne.fi/2583,0,,Europe/Helsinki
+121294,2767,Haapamaa,,64.895474,25.558863,3,http://oulunliikenne.fi/2767,0,,Europe/Helsinki
+98708,2419,Heikkilänsaari P,,64.9674,25.627775,2,http://oulunliikenne.fi/2419,0,,Europe/Helsinki
+120762,2070,Kanervatie P,,65.016074,25.551577,2,http://oulunliikenne.fi/2070,0,,Europe/Helsinki
+148186,2795,Mettäperäntie P,,64.87612300000002,25.878643,4,http://oulunliikenne.fi/2795,0,,Europe/Helsinki
+120905,2251,Sorsatie P,,64.993596,25.495647,2,http://oulunliikenne.fi/2251,0,,Europe/Helsinki
+120214,1419,Hukantie E,,65.173604,25.349055,3,http://oulunliikenne.fi/1419,0,,Europe/Helsinki
+184290,1254,Räinänperän th E,,65.27376700000002,25.364454,4,http://oulunliikenne.fi/1254,0,,Europe/Helsinki
+189520,1639,Peltotie E,,65.084912,25.671919,3,http://oulunliikenne.fi/1639,0,,Europe/Helsinki
+97679,3039,Juotto P,,64.79292700000002,25.535264,4,http://oulunliikenne.fi/3039,0,,Europe/Helsinki
+148204,2848,Laukka silta E,,64.850093,25.915356,4,http://oulunliikenne.fi/2848,0,,Europe/Helsinki
+148474,1531,Kellon liikekeskus P,,65.12852,25.357842,3,http://oulunliikenne.fi/1531,0,,Europe/Helsinki
+309422,2778,Kytösavuntie E,,64.8914,25.5202,3,http://oulunliikenne.fi/2778,0,,Europe/Helsinki
+187932,2952,Luontokeskus th E,,64.819619,25.311434,4,http://oulunliikenne.fi/2952,0,,Europe/Helsinki
+148146,2630,Savikunnaksentie P,,64.92697200000002,25.796494,3,http://oulunliikenne.fi/2630,0,,Europe/Helsinki
+150259,1702,Oinaantie P,,65.070644,25.524846,2,http://oulunliikenne.fi/1702,0,,Europe/Helsinki
+150050,2787,Kerttula P,,64.887492,25.562817,3,http://oulunliikenne.fi/2787,0,,Europe/Helsinki
+98798,8215,Muhosperä th P,,64.78660000000002,26.1491,5,http://oulunliikenne.fi/8215,0,,Europe/Helsinki
+150377,1167,Iin virastotalo E,,65.322835,25.369006,4,http://oulunliikenne.fi/1167,0,,Europe/Helsinki
+190229,2466,Harju P,,64.966495,25.255123,3,http://oulunliikenne.fi/2466,0,,Europe/Helsinki
+101724,1117,Suoranpää E,,65.333859,25.68177,5,http://oulunliikenne.fi/1117,0,,Europe/Helsinki
+148143,2612,Tervaojantie P,,64.9292,25.791319,3,http://oulunliikenne.fi/2612,0,,Europe/Helsinki
+189533,2969,Keskustie E,,64.808458,25.989902,4,http://oulunliikenne.fi/2969,0,,Europe/Helsinki
+120329,1542,Autokuja P,,65.120822,25.743729,3,http://oulunliikenne.fi/1542,0,,Europe/Helsinki
+321715,4035,Ojanperänkankaan koulu,,64.798712,25.421733,4,http://oulunliikenne.fi/4035,0,,Europe/Helsinki
+120298,1503,Kiiminki E,,65.12938056,25.77645,3,http://oulunliikenne.fi/1503,0,,Europe/Helsinki
+101075,2413,Heikola P,,64.971848,25.346235,3,http://oulunliikenne.fi/2413,0,,Europe/Helsinki
+150042,3018,Kuormatie E,,64.808359,25.423253,4,http://oulunliikenne.fi/3018,0,,Europe/Helsinki
+181290,3275,Kisakankaan th P,,64.936948,25.377219,3,http://oulunliikenne.fi/3275,0,,Europe/Helsinki
+98749,2812,Rova arola E,,64.865746,25.87897,4,http://oulunliikenne.fi/2812,0,,Europe/Helsinki
+101525,1476,Hekkalansaarentie P,,65.141407,25.354104,3,http://oulunliikenne.fi/1476,0,,Europe/Helsinki
+120767,2075,Erkkola E,,65.016131,25.528959,2,http://oulunliikenne.fi/2075,0,,Europe/Helsinki
+184252,1183,Maalismaantie P,,65.313344,25.687902,5,http://oulunliikenne.fi/1183,0,,Europe/Helsinki
+148182,2788,Päivärinne P,,64.882178,25.869272,4,http://oulunliikenne.fi/2788,0,,Europe/Helsinki
+171802,2381,Kaakkurin th E,,64.973869,25.488601,2,http://oulunliikenne.fi/2381,0,,Europe/Helsinki
+188521,3409,Rytikuja P1,,65.316939,25.363999,4,http://oulunliikenne.fi/3409,0,,Europe/Helsinki
+120393,1614,Kehätie E,,65.09139500000002,25.695018,3,http://oulunliikenne.fi/1614,0,,Europe/Helsinki
+169846,3146,Tähtipolku P,,65.043128,25.61662,2,http://oulunliikenne.fi/3146,0,,Europe/Helsinki
+148093,2228,Moisala E,,64.99455294413778,25.59605609811267,2,http://oulunliikenne.fi/2228,0,,Europe/Helsinki
+101095,8309,Sysiperä P,,65.0372,24.9582,5,http://oulunliikenne.fi/8309,0,,Europe/Helsinki
+184156,3233,Kurkelantie P,,65.018992,25.511658,1,http://oulunliikenne.fi/3233,0,,Europe/Helsinki
+120408,1630,Kaarnalenkki E,,65.08472,25.714614,3,http://oulunliikenne.fi/1630,0,,Europe/Helsinki
+121162,2576,Raitakuja P,,64.942536,25.389575,3,http://oulunliikenne.fi/2576,0,,Europe/Helsinki
+309977,2175,Rauhanyhdistys E,,65.00653549118744,25.50814299065909,2,http://oulunliikenne.fi/2175,0,,Europe/Helsinki
+148441,1313,Aseman koulu P,,65.199224,25.395203,3,http://oulunliikenne.fi/1313,0,,Europe/Helsinki
+101006,2923,Taarinkuja E,,64.832263,25.218727,4,http://oulunliikenne.fi/2923,0,,Europe/Helsinki
+191214,3098,Nuolikivi P,,64.844467,25.921315,4,http://oulunliikenne.fi/3098,0,,Europe/Helsinki
+120903,2249,Hiirihaukka E,,64.993715,25.519191,2,http://oulunliikenne.fi/2249,0,,Europe/Helsinki
+120434,1658,Honkapirtti P,,65.084397,25.401593,2,http://oulunliikenne.fi/1658,0,,Europe/Helsinki
+152657,1187,Ellala E,,65.318876,25.358757,4,http://oulunliikenne.fi/1187,0,,Europe/Helsinki
+101509,1351,Törmäntie P,,65.190227,25.365317,3,http://oulunliikenne.fi/1351,0,,Europe/Helsinki
+120861,2199,Kollaanpuisto E,,65.00182,25.480321,2,http://oulunliikenne.fi/2199,0,,Europe/Helsinki
+97716,1219,Shell Ii P,,65.309051,25.374363,4,http://oulunliikenne.fi/1219,0,,Europe/Helsinki
+148439,1311,Torvelantie P,,65.20017,25.399803,3,http://oulunliikenne.fi/1311,0,,Europe/Helsinki
+98780,2995,Nykäläntie P,,64.805377,26.002582,4,http://oulunliikenne.fi/2995,0,,Europe/Helsinki
+101737,1088,Kaisto E (PP),,65.346738,25.74782,5,http://oulunliikenne.fi/1088,0,,Europe/Helsinki
+187934,2711,Kirkonmäki P,,64.914324,25.486628,3,http://oulunliikenne.fi/2711,0,,Europe/Helsinki
+120563,1791,Pönkänkari E,,65.05855,25.427791,2,http://oulunliikenne.fi/1791,0,,Europe/Helsinki
+101273,1915,Jumila E,,65.032031,25.957171,4,http://oulunliikenne.fi/1915,0,,Europe/Helsinki
+148478,1546,Virpiniemen th E,,65.122368,25.344185,3,http://oulunliikenne.fi/1546,0,,Europe/Helsinki
+101545,1655,Aaltokankaantie E,,65.08447,25.408501,2,http://oulunliikenne.fi/1655,0,,Europe/Helsinki
+120479,1705,Saikkosentie P,,65.070579,25.484161,2,http://oulunliikenne.fi/1705,0,,Europe/Helsinki
+307199,3308,Saalistajantie E,,65.08958333,25.44471111,2,http://oulunliikenne.fi/3308,0,,Europe/Helsinki
+150164,2536,Karhuoja E,,64.951748,25.388598,3,http://oulunliikenne.fi/2536,0,,Europe/Helsinki
+101284,1899,Wathen P,,65.03249700000002,26.024926,4,http://oulunliikenne.fi/1899,0,,Europe/Helsinki
+148496,1206,Räinä P,,65.315275,25.342095,4,http://oulunliikenne.fi/1206,0,,Europe/Helsinki
+153090,2966,Niemelä E,,64.818907,25.315922,4,http://oulunliikenne.fi/2966,0,,Europe/Helsinki
+309967,2586,Lassilan th E,,64.948041,25.405122,3,http://oulunliikenne.fi/2586,0,,Europe/Helsinki
+120545,1771,Yliopisto E,,65.058572,25.469778,2,http://oulunliikenne.fi/1771,0,,Europe/Helsinki
+187931,2939,Hirvasniemi E,,64.825716,25.25293,4,http://oulunliikenne.fi/2939,0,,Europe/Helsinki
+101679,1053,Yli-Ii E,,65.37215472107773,25.83969174571568,5,http://oulunliikenne.fi/1053,0,,Europe/Helsinki
+101703,1137,Tiri P,,65.325065,25.508061,4,http://oulunliikenne.fi/1137,0,,Europe/Helsinki
+120776,2085,Kuvernööri,,65.015044,25.475984,2,http://oulunliikenne.fi/2085,0,,Europe/Helsinki
+121045,2434,Kaiposenniementie E,,64.963945,25.669239,3,http://oulunliikenne.fi/2434,0,,Europe/Helsinki
+148103,2404,Korhosenkuja E,,64.969308,25.655059,2,http://oulunliikenne.fi/2404,0,,Europe/Helsinki
+120785,2096,Välkkylä E,,65.01159800000002,25.498855,2,http://oulunliikenne.fi/2096,0,,Europe/Helsinki
+101511,1380,Niemeläntörmä P,,65.182245,25.358957,3,http://oulunliikenne.fi/1380,0,,Europe/Helsinki
+120787,2099,Raksila E,,65.011776,25.489873,2,http://oulunliikenne.fi/2099,0,,Europe/Helsinki
+148220,2891,Montta th E,,64.832047,25.990745,4,http://oulunliikenne.fi/2891,0,,Europe/Helsinki
+231893,2887,Ritolantie E,,64.833984,25.942952,4,http://oulunliikenne.fi/2887,0,,Europe/Helsinki
+152655,1185,Lakso P,,65.316495,25.373389,4,http://oulunliikenne.fi/1185,0,,Europe/Helsinki
+120929,2290,Suohaukka P,,64.988788,25.524423,2,http://oulunliikenne.fi/2290,0,,Europe/Helsinki
+307167,3109,Tuulipurto E,,64.83999300000002,25.6741,4,http://oulunliikenne.fi/3109,0,,Europe/Helsinki
+150063,2825,Riikonen E,,64.862366,25.60548,3,http://oulunliikenne.fi/2825,0,,Europe/Helsinki
+98762,2892,Vääräntie P,,64.833186,25.915573,4,http://oulunliikenne.fi/2892,0,,Europe/Helsinki
+148458,1308,Martinniementie P,,65.203903,25.336206,3,http://oulunliikenne.fi/1308,0,,Europe/Helsinki
+310717,4010,Sarvisuontie P,,64.99945,25.616687,2,http://oulunliikenne.fi/4010,0,,Europe/Helsinki
+98803,8221,Uutela E,,64.7812,26.2674,5,http://oulunliikenne.fi/8221,0,,Europe/Helsinki
+309608,2733,Huovilan koulu,,64.836153,25.934363,4,http://oulunliikenne.fi/2733,0,,Europe/Helsinki
+101740,1078,Kakko E,,65.351856,25.768029,5,http://oulunliikenne.fi/1078,0,,Europe/Helsinki
+183952,3171,Tuomipellontie E,,64.95036500000002,25.539998,2,http://oulunliikenne.fi/3171,0,,Europe/Helsinki
+101116,8331,Väntelä P,,65.0266,24.767,5,http://oulunliikenne.fi/8331,0,,Europe/Helsinki
+101713,1217,Mettovaaran puutarha P,,65.309179,25.606686,4,http://oulunliikenne.fi/1217,0,,Europe/Helsinki
+120480,1706,Talvikkitie P,,65.07271900000002,25.428146,2,http://oulunliikenne.fi/1706,0,,Europe/Helsinki
+148007,3031,Parras E,,64.799155,25.620721,4,http://oulunliikenne.fi/3031,0,,Europe/Helsinki
+120209,1414,Kauppakuja E,,65.175504,25.350495,3,http://oulunliikenne.fi/1414,0,,Europe/Helsinki
+101567,2209,Kempeleentie P,,65.000085,25.464157,2,http://oulunliikenne.fi/2209,0,,Europe/Helsinki
+500842,1797,Puulinnanmaa E,,65.055465,25.463961,2,http://oulunliikenne.fi/1797,0,,Europe/Helsinki
+101577,2600,Kuivalanperä P,,64.937782,25.514051,3,http://oulunliikenne.fi/2600,0,,Europe/Helsinki
+120982,2354,Mäntylä P,,64.980507,25.502739,2,http://oulunliikenne.fi/2354,0,,Europe/Helsinki
+101748,1063,Kiimingin th E,,65.36653,25.816158,5,http://oulunliikenne.fi/1063,0,,Europe/Helsinki
+98507,1563,Piltonen P,,65.11222,25.727912,3,http://oulunliikenne.fi/1563,0,,Europe/Helsinki
+101281,1939,Paakki E,,65.02704,26.006748,4,http://oulunliikenne.fi/1939,0,,Europe/Helsinki
+101742,1074,Keskikylä E,,65.35925,25.78049,5,http://oulunliikenne.fi/1074,0,,Europe/Helsinki
+101068,2525,Hailuodon risteys P,,64.956163,25.384544,3,http://oulunliikenne.fi/2525,0,,Europe/Helsinki
+148211,2900,Ketolanoja P,,64.82947900000002,25.964341,4,http://oulunliikenne.fi/2900,0,,Europe/Helsinki
+120126,1330,Jokikylän koulu P,,65.191673,25.461437,4,http://oulunliikenne.fi/1330,0,,Europe/Helsinki
+121036,2421,Kaiannontie E,,64.968446,25.530393,2,http://oulunliikenne.fi/2421,0,,Europe/Helsinki
+120877,2214,Kultatie E,,64.99765600000002,25.512252,2,http://oulunliikenne.fi/2214,0,,Europe/Helsinki
+169661,3097,Muinaisranta P,,64.83630700000002,25.678349,4,http://oulunliikenne.fi/3097,0,,Europe/Helsinki
+101718,1135,Niskala th E,,65.323519,25.647563,5,http://oulunliikenne.fi/1135,0,,Europe/Helsinki
+120360,1578,Kuokkamaa E,,65.110688,25.343422,3,http://oulunliikenne.fi/1578,0,,Europe/Helsinki
+150370,1333,Allikontie E,,65.19285600000002,25.431896,4,http://oulunliikenne.fi/1333,0,,Europe/Helsinki
+120569,1799,Pohjantie E,,65.055705,25.455261,2,http://oulunliikenne.fi/1799,0,,Europe/Helsinki
+120952,2319,Kihokkipuisto E,,64.986107,25.491343,2,http://oulunliikenne.fi/2319,0,,Europe/Helsinki
+231431,2981,Parras th P,,64.812927,25.489015,4,http://oulunliikenne.fi/2981,0,,Europe/Helsinki
+148153,2654,Pukkilantie E,,64.920233,25.811867,3,http://oulunliikenne.fi/2654,0,,Europe/Helsinki
+310863,3408,Aaltokangas,,65.091342,25.461067,2,http://oulunliikenne.fi/3408,0,,Europe/Helsinki
+304311,3090,Mutkalankaari P,,64.804241,25.420758,4,http://oulunliikenne.fi/3090,0,,Europe/Helsinki
+310722,4015,Tahtimarssi P,,65.00898315819973,25.59777929006674,2,http://oulunliikenne.fi/4015,0,,Europe/Helsinki
+98710,2440,Sivutie th P,,64.964333,25.633776,2,http://oulunliikenne.fi/2440,0,,Europe/Helsinki
+150094,3041,Korkala P,,64.787455,25.693992,4,http://oulunliikenne.fi/3041,0,,Europe/Helsinki
+98717,2547,Turkansaari th P,,64.945103,25.685111,3,http://oulunliikenne.fi/2547,0,,Europe/Helsinki
+148454,1314,Siipola E,,65.20023500000002,25.340431,3,http://oulunliikenne.fi/1314,0,,Europe/Helsinki
+120917,2270,Kallisensuora E,,64.992843,25.464806,2,http://oulunliikenne.fi/2270,0,,Europe/Helsinki
+120378,1598,Holopaisenkuja P,,65.097055,25.419304,2,http://oulunliikenne.fi/1598,0,,Europe/Helsinki
+184237,1122,Naurua E,,65.331163,25.727158,5,http://oulunliikenne.fi/1122,0,,Europe/Helsinki
+101690,1175,Tapio E,,65.319233,25.421675,4,http://oulunliikenne.fi/1175,0,,Europe/Helsinki
+101612,1397,Hanhela E,,65.175136,25.565285,4,http://oulunliikenne.fi/1397,0,,Europe/Helsinki
+150254,1744,Raitotien risteys E,,65.062692,25.509963,2,http://oulunliikenne.fi/1744,0,,Europe/Helsinki
+120546,1772,Teknologiantie P,,65.059668,25.457688,2,http://oulunliikenne.fi/1772,0,,Europe/Helsinki
+120848,2186,Painijantie P,,64.99998600000002,25.581198,2,http://oulunliikenne.fi/2186,0,,Europe/Helsinki
+309969,2548,Kaislaranta P,,64.953649,25.392335,3,http://oulunliikenne.fi/2548,0,,Europe/Helsinki
+101641,1484,Honkimäentie E,,65.13285500000002,25.744162,3,http://oulunliikenne.fi/1484,0,,Europe/Helsinki
+101738,1084,Kaiston koulu P,,65.348092,25.755273,5,http://oulunliikenne.fi/1084,0,,Europe/Helsinki
+121096,2489,Höyhenkuja P,,64.959758,25.536374,2,http://oulunliikenne.fi/2489,0,,Europe/Helsinki
+120437,1663,Honkapirtti E,,65.08390900000002,25.401261,2,http://oulunliikenne.fi/1663,0,,Europe/Helsinki
+120415,1637,Ojatie E,,65.084802,25.67671,3,http://oulunliikenne.fi/1637,0,,Europe/Helsinki
+148109,2432,Sanginsuun th E,,64.96429000000002,25.686985,3,http://oulunliikenne.fi/2432,0,,Europe/Helsinki
+121009,2391,Kaskiahonkuja E,,64.972349,25.596662,2,http://oulunliikenne.fi/2391,0,,Europe/Helsinki
+120599,1832,Vilkkutie E,,65.048858,25.436116,2,http://oulunliikenne.fi/1832,0,,Europe/Helsinki
+307156,4006,Suojuoksuntie P,,64.99762778,25.59725833,2,http://oulunliikenne.fi/4006,0,,Europe/Helsinki
+101503,1281,Taatanperän th P,,65.216599,25.36991,3,http://oulunliikenne.fi/1281,0,,Europe/Helsinki
+120863,2201,Knuutila P,,64.998558,25.554773,2,http://oulunliikenne.fi/2201,0,,Europe/Helsinki
+307137,2692,Koulutie,,64.917745,25.477551,3,http://oulunliikenne.fi/2692,0,,Europe/Helsinki
+101568,2210,Kempeleentie E,,65.000035,25.463651,2,http://oulunliikenne.fi/2210,0,,Europe/Helsinki
+231890,4009,Kivikkokangas E,,64.99776193696142,25.59128678559366,2,http://oulunliikenne.fi/4009,0,,Europe/Helsinki
+120693,1990,Valtatie P,,65.026974,25.464373,2,http://oulunliikenne.fi/1990,0,,Europe/Helsinki
+101071,2464,Niemenväli E,,64.965199,25.36655,3,http://oulunliikenne.fi/2464,0,,Europe/Helsinki
+120081,1274,Mustakangas E,,65.224586,25.302874,3,http://oulunliikenne.fi/1274,0,,Europe/Helsinki
+101042,3152,Pappilanpelto E,,64.80337900000002,25.420693,4,http://oulunliikenne.fi/3152,0,,Europe/Helsinki
+101621,1442,Hurunmäki P,,65.154917,25.617068,3,http://oulunliikenne.fi/1442,0,,Europe/Helsinki
+101270,1850,Lamu E,,65.040309,25.890902,4,http://oulunliikenne.fi/1850,0,,Europe/Helsinki
+121105,2501,Ropinakuja P,,64.957742,25.553144,2,http://oulunliikenne.fi/2501,0,,Europe/Helsinki
+150165,2528,Maksakuja E,,64.953647,25.385754,3,http://oulunliikenne.fi/2528,0,,Europe/Helsinki
+186032,3314,Urpiaisentie P2,,65.07076600000002,25.519907,2,http://oulunliikenne.fi/3314,0,,Europe/Helsinki
+120717,2018,Kaplastie P,,65.022176,25.55914,2,http://oulunliikenne.fi/2018,0,,Europe/Helsinki
+188493,1976,Typpitie E,,65.027404,25.512272,2,http://oulunliikenne.fi/1976,0,,Europe/Helsinki
+121114,2513,Kaakkurin koulu P,,64.955587,25.53186,2,http://oulunliikenne.fi/2513,0,,Europe/Helsinki
+188511,1807,Kaartintie E,,65.053084,25.600999,2,http://oulunliikenne.fi/1807,0,,Europe/Helsinki
+120940,2303,Patamäki E,,64.985441,25.571459,2,http://oulunliikenne.fi/2303,0,,Europe/Helsinki
+150066,2842,Heikkinen P,,64.856771,25.617306,3,http://oulunliikenne.fi/2842,0,,Europe/Helsinki
+300825,2323,Käpylä,,64.987982,25.258173,3,http://oulunliikenne.fi/2323,0,,Europe/Helsinki
+308738,3350,Ylikylän koulu P,,64.89778,25.543946,3,http://oulunliikenne.fi/3350,0,,Europe/Helsinki
+190074,2985,Niittomiehentie E,,64.814176,25.427819,4,http://oulunliikenne.fi/2985,0,,Europe/Helsinki
+101047,2551,Kempeleenlahti E,,64.947463,25.480356,2,http://oulunliikenne.fi/2551,0,,Europe/Helsinki
+188495,1968,Hintta E,,65.029298,25.524965,2,http://oulunliikenne.fi/1968,0,,Europe/Helsinki
+120811,2127,Rautasaari P,,65.00863,25.477749,2,http://oulunliikenne.fi/2127,0,,Europe/Helsinki
+101239,8085,Uusi-Siira P,,64.77724000000002,25.726459,4,http://oulunliikenne.fi/8085,0,,Europe/Helsinki
+101716,1159,Juutinen E,,65.320187,25.641125,5,http://oulunliikenne.fi/1159,0,,Europe/Helsinki
+189536,8219,Sotkajärvi E,,64.785,26.2533,5,http://oulunliikenne.fi/8219,0,,Europe/Helsinki
+184239,1124,Manninen P,,65.330503,25.691898,5,http://oulunliikenne.fi/1124,0,,Europe/Helsinki
+120996,2374,Haarankankaantie P,,64.973107,25.581924,2,http://oulunliikenne.fi/2374,0,,Europe/Helsinki
+307196,3325,Loukkutie E,,65.08628889000002,25.44488056,2,http://oulunliikenne.fi/3325,0,,Europe/Helsinki
+101512,1379,Niemeläntörmä E,,65.182277,25.358677,3,http://oulunliikenne.fi/1379,0,,Europe/Helsinki
+189666,2785,Leppiniemen kauppa E,,64.840306,26.047504,4,http://oulunliikenne.fi/2785,0,,Europe/Helsinki
+121025,2410,Turkkitie P,,64.970957,25.521254,2,http://oulunliikenne.fi/2410,0,,Europe/Helsinki
+152759,1840,Polvisuontie E,,65.044856,25.648619,2,http://oulunliikenne.fi/1840,0,,Europe/Helsinki
+148161,2679,Anttosentie P,,64.913084,25.824418,3,http://oulunliikenne.fi/2679,0,,Europe/Helsinki
+184133,3256,Tullikirjurinraitti P,,65.005461,25.472791,1,http://oulunliikenne.fi/3256,0,,Europe/Helsinki
+120436,1662,Valkamantie E,,65.082357,25.399652,2,http://oulunliikenne.fi/1662,0,,Europe/Helsinki
+190292,1682,Jylkynkankaan th E,,65.073888,25.529067,2,http://oulunliikenne.fi/1682,0,,Europe/Helsinki
+148449,1340,Rippala P,,65.192385,25.360037,3,http://oulunliikenne.fi/1340,0,,Europe/Helsinki
+121062,2455,Sanginsuun koulu E,,64.962589,25.676208,3,http://oulunliikenne.fi/2455,0,,Europe/Helsinki
+101105,8319,Hyypänmäki P,,65.05670000000002,24.8029,5,http://oulunliikenne.fi/8319,0,,Europe/Helsinki
+148432,1363,Isojämsä P,,65.184978,25.480592,4,http://oulunliikenne.fi/1363,0,,Europe/Helsinki
+184148,3241,Uimahalli P,,65.008251,25.497071,1,http://oulunliikenne.fi/3241,0,,Europe/Helsinki
+120748,2053,Kursutie P,,65.018419,25.523465,2,http://oulunliikenne.fi/2053,0,,Europe/Helsinki
+101608,1372,Saarijärvi E,,65.180194,25.536366,4,http://oulunliikenne.fi/1372,0,,Europe/Helsinki
+190161,2903,Lumijoki,,64.836929,25.188301,4,http://oulunliikenne.fi/2903,0,,Europe/Helsinki
+148437,1331,Jokikylän th E,,65.192947,25.451838,4,http://oulunliikenne.fi/1331,0,,Europe/Helsinki
+148227,2864,Montan leirintäalue P,,64.843242,26.008093,4,http://oulunliikenne.fi/2864,0,,Europe/Helsinki
+56776,2123,OYS Sairaalaparkki P,,65.00925100000002,25.520812,2,http://oulunliikenne.fi/2123,0,,Europe/Helsinki
+101709,1211,Piste P,,65.311799,25.576965,4,http://oulunliikenne.fi/1211,0,,Europe/Helsinki
+120899,2245,Knuutilankangas E,,64.993103,25.561278,2,http://oulunliikenne.fi/2245,0,,Europe/Helsinki
+148061,2858,Leppiniemi P,,64.843605,26.042961,4,http://oulunliikenne.fi/2858,0,,Europe/Helsinki
+101618,1420,Mannintie E,,65.169775,25.596066,4,http://oulunliikenne.fi/1420,0,,Europe/Helsinki
+101025,2976,Virkkula P,,64.81691600000002,25.325523,4,http://oulunliikenne.fi/2976,0,,Europe/Helsinki
+98756,2856,Riihikyläntie P,,64.848565,25.89908,4,http://oulunliikenne.fi/2856,0,,Europe/Helsinki
+121013,2395,Lumijärventie P,,64.973233,25.508314,2,http://oulunliikenne.fi/2395,0,,Europe/Helsinki
+120987,2360,Kivipellon aukio E,,64.977473,25.586353,2,http://oulunliikenne.fi/2360,0,,Europe/Helsinki
+98503,1585,Jäälinjärvi P,,65.101516,25.692202,3,http://oulunliikenne.fi/1585,0,,Europe/Helsinki
+169659,3095,Peuraniemi P,,64.831204,25.687574,4,http://oulunliikenne.fi/3095,0,,Europe/Helsinki
+150396,1244,Kumpu E,,65.293566,25.641553,4,http://oulunliikenne.fi/1244,0,,Europe/Helsinki
+101505,1306,Kuivalanperäntie P,,65.204229,25.363513,3,http://oulunliikenne.fi/1306,0,,Europe/Helsinki
+184155,3234,Kurkelantie E,,65.018737,25.51216,1,http://oulunliikenne.fi/3234,0,,Europe/Helsinki
+101242,8089,Markkula P,,64.773188,25.754472,4,http://oulunliikenne.fi/8089,0,,Europe/Helsinki
+120301,1506,Viitanmäki P,,65.130327,25.764904,3,http://oulunliikenne.fi/1506,0,,Europe/Helsinki
+120922,2281,Nuolihaukka E,,64.99127,25.526024,2,http://oulunliikenne.fi/2281,0,,Europe/Helsinki
+120087,1285,Ahtaajantie E,,65.2143268065214,25.30207684026354,3,http://oulunliikenne.fi/1285,0,,Europe/Helsinki
+147973,2652,Ollila th E,,64.92615600000002,25.50609,3,http://oulunliikenne.fi/2652,0,,Europe/Helsinki
+101662,1587,Koiteli E,,65.098833,25.812796,3,http://oulunliikenne.fi/1587,0,,Europe/Helsinki
+189655,2667,Savikorpi E,,64.922827,25.496127,3,http://oulunliikenne.fi/2667,0,,Europe/Helsinki
+101616,1409,Kiimingin kunnanraja E,,65.173287,25.587942,4,http://oulunliikenne.fi/1409,0,,Europe/Helsinki
+310598,1960,Hietasaarentie P,,65.030568,25.448162,2,http://oulunliikenne.fi/1960,0,,Europe/Helsinki
+150369,1332,Allikontie P,,65.192851,25.43228,4,http://oulunliikenne.fi/1332,0,,Europe/Helsinki
+121121,2519,Porttiväylän alikulku P,,64.954903,25.524405,2,http://oulunliikenne.fi/2519,0,,Europe/Helsinki
+307214,1963,Kiulukangas E,,65.028464,25.574083,2,http://oulunliikenne.fi/1963,0,,Europe/Helsinki
+97704,2802,Rajakorpi E,,64.877517,25.512676,3,http://oulunliikenne.fi/2802,0,,Europe/Helsinki
+148001,2937,Jokisilta E,,64.823556,25.591965,4,http://oulunliikenne.fi/2937,0,,Europe/Helsinki
+101264,1881,Saviharju P,,65.03916700000002,25.717721,3,http://oulunliikenne.fi/1881,0,,Europe/Helsinki
+120411,1634,Laivakangas E,,65.085615,25.684454,3,http://oulunliikenne.fi/1634,0,,Europe/Helsinki
+120451,1677,Pielikuja E,,65.076326,25.527912,2,http://oulunliikenne.fi/1677,0,,Europe/Helsinki
+183951,3169,Ulkometsäntie E,,64.950821,25.555507,2,http://oulunliikenne.fi/3169,0,,Europe/Helsinki
+189657,1936,Kemintie P,,65.035249,25.468185,2,http://oulunliikenne.fi/1936,0,,Europe/Helsinki
+185770,3299,Ahmatie E,,65.03093,25.48015,2,http://oulunliikenne.fi/3299,0,,Europe/Helsinki
+101287,1897,Parolanmäki P,,65.03294,26.046305,4,http://oulunliikenne.fi/1897,0,,Europe/Helsinki
+98726,2625,Vasankangas th E,,64.924303,25.750991,3,http://oulunliikenne.fi/2625,0,,Europe/Helsinki
+98701,2263,Poikkimaantie E,,64.99258,25.534218,2,http://oulunliikenne.fi/2263,0,,Europe/Helsinki
+101645,1480,Kirkonniementie P,,65.13305200000002,25.759174,3,http://oulunliikenne.fi/1480,0,,Europe/Helsinki
+184250,1213,Paasonperä P,,65.311297,25.481317,4,http://oulunliikenne.fi/1213,0,,Europe/Helsinki
+184263,3326,Vainiontie P,,65.195908,25.477402,4,http://oulunliikenne.fi/3326,0,,Europe/Helsinki
+120614,1864,Tullimiehentie P,,65.04521,25.444209,2,http://oulunliikenne.fi/1864,0,,Europe/Helsinki
+152750,1804,Puuperäntie E,,65.05129100000002,25.629218,2,http://oulunliikenne.fi/1804,0,,Europe/Helsinki
+98774,2970,Kellotie E,,64.809335,25.985638,4,http://oulunliikenne.fi/2970,0,,Europe/Helsinki
+101114,8329,Askeli E,,65.0288,24.773,5,http://oulunliikenne.fi/8329,0,,Europe/Helsinki
+121322,2870,Simontaival E,,64.845107,25.664216,4,http://oulunliikenne.fi/2870,0,,Europe/Helsinki
+98744,2800,Laitasaaren koulu P,,64.873559,25.860013,4,http://oulunliikenne.fi/2800,0,,Europe/Helsinki
+309966,2585,Lassilan th P,,64.948146,25.405207,3,http://oulunliikenne.fi/2585,0,,Europe/Helsinki
+152768,1854,Pääkankaantie E,,65.0422,25.665551,3,http://oulunliikenne.fi/1854,0,,Europe/Helsinki
+150247,1814,Syynimaa E,,65.051659,25.477143,2,http://oulunliikenne.fi/1814,0,,Europe/Helsinki
+120997,2375,Haarankankaantie E,,64.973078,25.581713,2,http://oulunliikenne.fi/2375,0,,Europe/Helsinki
+120537,1763,Yliopiston eläintarha P,,65.061761,25.458842,2,http://oulunliikenne.fi/1763,0,,Europe/Helsinki
+101689,1176,Tapio P,,65.31909400000002,25.419516,4,http://oulunliikenne.fi/1176,0,,Europe/Helsinki
+150080,2908,Huovinen P,,64.830635,25.678101,4,http://oulunliikenne.fi/2908,0,,Europe/Helsinki
+98742,2791,Tuomi talli P,,64.880962,25.84866,4,http://oulunliikenne.fi/2791,0,,Europe/Helsinki
+307144,3365,Vedenneidontie E,,64.934662,25.564241,3,http://oulunliikenne.fi/3365,0,,Europe/Helsinki
+305705,2073,Kanervatie E,,65.015908,25.551034,2,http://oulunliikenne.fi/2073,0,,Europe/Helsinki
+120559,1787,Rakentajantie E,,65.056905,25.458591,2,http://oulunliikenne.fi/1787,0,,Europe/Helsinki
+150366,1302,Vahtola P2,,65.207788,25.330598,3,http://oulunliikenne.fi/1302,0,,Europe/Helsinki
+98813,8231,Aksilan th E,,64.7802,26.3816,5,http://oulunliikenne.fi/8231,0,,Europe/Helsinki
+101072,2465,Niemenväli P,,64.965811,25.365094,3,http://oulunliikenne.fi/2465,0,,Europe/Helsinki
+120928,2289,Mäntyrinne P,,64.98791900000002,25.564164,2,http://oulunliikenne.fi/2289,0,,Europe/Helsinki
+148101,2367,Kärppä taimi E,,64.974536,25.637025,2,http://oulunliikenne.fi/2367,0,,Europe/Helsinki
+98793,8210,Torpparintie E,,64.7923,26.0959,5,http://oulunliikenne.fi/8210,0,,Europe/Helsinki
+101744,1067,Puolakka E,,65.364221,25.789631,5,http://oulunliikenne.fi/1067,0,,Europe/Helsinki
+120625,1875,Isko P,,65.042441,25.476692,2,http://oulunliikenne.fi/1875,0,,Europe/Helsinki
+101548,1708,Kuivasojan koulu P,,65.072739,25.409627,2,http://oulunliikenne.fi/1708,0,,Europe/Helsinki
+101127,8342,Koulukeskus P,,65.0094,24.7147,5,http://oulunliikenne.fi/8342,0,,Europe/Helsinki
+307143,3364,Vedenneidontie P,,64.93498,25.564713,3,http://oulunliikenne.fi/3364,0,,Europe/Helsinki
+120551,1777,Tutkijantie E,,65.05913700000002,25.448815,2,http://oulunliikenne.fi/1777,0,,Europe/Helsinki
+121122,2520,Porttiväylän alikulku E,,64.954803,25.524241,2,http://oulunliikenne.fi/2520,0,,Europe/Helsinki
+101732,1097,H Ylitalo P,,65.342101,25.713765,5,http://oulunliikenne.fi/1097,0,,Europe/Helsinki
+120705,2003,Laanilan koulu E,,65.02404900000002,25.518592,2,http://oulunliikenne.fi/2003,0,,Europe/Helsinki
+98472,1975,Hintta P,,65.028693,25.523683,2,http://oulunliikenne.fi/1975,0,,Europe/Helsinki
+148082,2021,Haapalehto E,,65.022592,25.54925,2,http://oulunliikenne.fi/2021,0,,Europe/Helsinki
+183971,3192,Lähimetsäntie E,,64.948802,25.565646,2,http://oulunliikenne.fi/3192,0,,Europe/Helsinki
+307212,1959,Huurupolku E,,65.03081959604447,25.57182513296504,2,http://oulunliikenne.fi/1959,0,,Europe/Helsinki
+101668,8003,Ponnonmäki E,,65.134802,25.793511,3,http://oulunliikenne.fi/8003,0,,Europe/Helsinki
+148087,2066,Hiukkavaara P,,65.014866,25.564837,2,http://oulunliikenne.fi/2066,0,,Europe/Helsinki
+120835,2168,Hakakatu P,,65.004599,25.489833,2,http://oulunliikenne.fi/2168,0,,Europe/Helsinki
+148192,2809,Rahko P,,64.86528800000002,25.895674,4,http://oulunliikenne.fi/2809,0,,Europe/Helsinki
+120615,1865,Meri-Toppila E,,65.044657,25.438464,2,http://oulunliikenne.fi/1865,0,,Europe/Helsinki
+120370,1590,Valkoherukkatie E,,65.100212,25.41586,2,http://oulunliikenne.fi/1590,0,,Europe/Helsinki
+120440,1666,Raamitie E,,65.078909,25.417063,2,http://oulunliikenne.fi/1666,0,,Europe/Helsinki
+101620,1435,Nurmiojantie E,,65.160403,25.601126,3,http://oulunliikenne.fi/1435,0,,Europe/Helsinki
+309389,2499,Oulunlahdentie E,,64.95945500000002,25.526173,2,http://oulunliikenne.fi/2499,0,,Europe/Helsinki
+148016,3062,Ahintie P,,64.77047,25.646612,4,http://oulunliikenne.fi/3062,0,,Europe/Helsinki
+101228,3069,Tyrnävän kirkko P,,64.76468800000002,25.655981,4,http://oulunliikenne.fi/3069,0,,Europe/Helsinki
+148457,1307,Martinniementie E,,65.203371,25.336816,3,http://oulunliikenne.fi/1307,0,,Europe/Helsinki
+120764,2072,Uimaranta E,,65.01451,25.548459,2,http://oulunliikenne.fi/2072,0,,Europe/Helsinki
+120589,1822,Rantapellontie P,,65.051248,25.433001,2,http://oulunliikenne.fi/1822,0,,Europe/Helsinki
+101697,1148,Pakanen E,,65.323609,25.471958,4,http://oulunliikenne.fi/1148,0,,Europe/Helsinki
+187990,1648,Leppiojantie E,,65.087865,25.408001,2,http://oulunliikenne.fi/1648,0,,Europe/Helsinki
+231147,2769,Sammontie P,,64.813169,25.97409,4,http://oulunliikenne.fi/2769,0,,Europe/Helsinki
+97705,1256,Hätälä E,,65.268497,25.362467,4,http://oulunliikenne.fi/1256,0,,Europe/Helsinki
+101701,1139,Yliranta P,,65.324885,25.497167,4,http://oulunliikenne.fi/1139,0,,Europe/Helsinki
+184161,3228,Intiöntie E,,65.01686,25.498517,1,http://oulunliikenne.fi/3228,0,,Europe/Helsinki
+101219,3080,Ala-Temmes E,,64.762609,25.55042,4,http://oulunliikenne.fi/3080,0,,Europe/Helsinki
+120552,1778,Elektroniikkatie 3E,,65.060242,25.439443,2,http://oulunliikenne.fi/1778,0,,Europe/Helsinki
+120946,2313,Maikkulantie P,,64.984763,25.565308,2,http://oulunliikenne.fi/2313,0,,Europe/Helsinki
+150388,1227,Kuopionharju E,,65.301953,25.616889,4,http://oulunliikenne.fi/1227,0,,Europe/Helsinki
+120637,1905,Tervahovintie E,,65.03990400000002,25.460253,2,http://oulunliikenne.fi/1905,0,,Europe/Helsinki
+120692,1989,Valtatie E,,65.026793,25.465084,2,http://oulunliikenne.fi/1989,0,,Europe/Helsinki
+74397,2146,OYS A6,,65.00712900000002,25.521226,2,http://oulunliikenne.fi/2146,0,,Europe/Helsinki
+120648,1924,Varsitie E,,65.038099,25.465283,2,http://oulunliikenne.fi/1924,0,,Europe/Helsinki
+120728,2033,Haapalehdontie E,,65.020734,25.554741,2,http://oulunliikenne.fi/2033,0,,Europe/Helsinki
+120632,1889,Niittyarontie P,,65.041598,25.452298,2,http://oulunliikenne.fi/1889,0,,Europe/Helsinki
+120950,2317,Kurrenkuja P,,64.984461,25.515126,2,http://oulunliikenne.fi/2317,0,,Europe/Helsinki
+120784,2097,Välkkylä P,,65.011392,25.498888,2,http://oulunliikenne.fi/2097,0,,Europe/Helsinki
+121056,2446,Jousenkaari P,,64.964887,25.539757,2,http://oulunliikenne.fi/2446,0,,Europe/Helsinki
+171797,2490,Oulunlahti E,,64.960956,25.50254,2,http://oulunliikenne.fi/2490,0,,Europe/Helsinki
+101640,1508,Hakosuvanto E,,65.129265,25.713228,3,http://oulunliikenne.fi/1508,0,,Europe/Helsinki
+148060,2869,Leppiniemen kauppa P,,64.840361,26.047755,4,http://oulunliikenne.fi/2869,0,,Europe/Helsinki
+97719,1164,Iin Hamina P,,65.321725,25.378367,4,http://oulunliikenne.fi/1164,0,,Europe/Helsinki
+98740,2777,Viskaali th P,,64.88583,25.833295,4,http://oulunliikenne.fi/2777,0,,Europe/Helsinki
+189723,2676,Ritola E,,64.91496600000002,25.821821,3,http://oulunliikenne.fi/2676,0,,Europe/Helsinki
+120828,2161,Isterintie E,,65.003768,25.547133,2,http://oulunliikenne.fi/2161,0,,Europe/Helsinki
+184154,3235,Värttö,,65.016657,25.511321,1,http://oulunliikenne.fi/3235,0,,Europe/Helsinki
+120906,2252,Nokela th P,,64.994584,25.487727,2,http://oulunliikenne.fi/2252,0,,Europe/Helsinki
+150383,1160,Iin Työväentalo E,,65.321401,25.380748,4,http://oulunliikenne.fi/1160,0,,Europe/Helsinki
+189722,2675,Ritola P,,64.91536600000002,25.821444,3,http://oulunliikenne.fi/2675,0,,Europe/Helsinki
+169580,3120,Kahvelitie E,,65.030058,25.437344,2,http://oulunliikenne.fi/3120,0,,Europe/Helsinki
+150070,2861,Bask P,,64.849946,25.635935,3,http://oulunliikenne.fi/2861,0,,Europe/Helsinki
+101745,1066,Puolakka P,,65.364349,25.792118,5,http://oulunliikenne.fi/1066,0,,Europe/Helsinki
+101079,2398,Kelanmutka E,,64.974227,25.307132,3,http://oulunliikenne.fi/2398,0,,Europe/Helsinki
+189668,2493,Heikinniementie P,,64.95693900000002,25.709063,3,http://oulunliikenne.fi/2493,0,,Europe/Helsinki
+120971,2339,Metsärinne E,,64.981471,25.582201,2,http://oulunliikenne.fi/2339,0,,Europe/Helsinki
+98815,8234,Komula th P,,64.77200000000002,26.4026,5,http://oulunliikenne.fi/8234,0,,Europe/Helsinki
+101551,1739,Hiirenvirna P,,65.065183,25.41282,2,http://oulunliikenne.fi/1739,0,,Europe/Helsinki
+120391,1613,Rantapolku E,,65.091588,25.698625,3,http://oulunliikenne.fi/1613,0,,Europe/Helsinki
+148156,2660,Riihipellontie P,,64.918236,25.816753,3,http://oulunliikenne.fi/2660,0,,Europe/Helsinki
+120612,1862,Kivennuoliainen P,,65.044442,25.484733,2,http://oulunliikenne.fi/1862,0,,Europe/Helsinki
+191213,2731,Toivanen P,,64.902819,25.840034,3,http://oulunliikenne.fi/2731,0,,Europe/Helsinki
+101111,8326,Simolankangas E,,65.0389,24.7754,5,http://oulunliikenne.fi/8326,0,,Europe/Helsinki
+120763,2071,Uimaranta P,,65.014564,25.548477,2,http://oulunliikenne.fi/2071,0,,Europe/Helsinki
+97668,3067,Ala-Temmes ns E,,64.768423,25.547754,4,http://oulunliikenne.fi/3067,0,,Europe/Helsinki
+120947,2314,Maikkulantie E,,64.984082,25.564412,2,http://oulunliikenne.fi/2314,0,,Europe/Helsinki
+121193,2617,Oulunsalo P,,64.934219,25.408687,3,http://oulunliikenne.fi/2617,0,,Europe/Helsinki
+169875,3150,Runkotie E,,64.944856,25.376804,3,http://oulunliikenne.fi/3150,0,,Europe/Helsinki
+171361,2762,Leppäojantie E,,64.896691,25.521013,3,http://oulunliikenne.fi/2762,0,,Europe/Helsinki
+148465,1292,Martinniemen koulu E,,65.210819,25.315254,3,http://oulunliikenne.fi/1292,0,,Europe/Helsinki
+231166,2165,Raksilan urheilukeskus P,,65.005815,25.49566,2,http://oulunliikenne.fi/2165,0,,Europe/Helsinki
+98811,8229,Pikkaraisen th E,,64.7798,26.3709,5,http://oulunliikenne.fi/8229,0,,Europe/Helsinki
+120740,2045,Koivumaantien ostoskeskus E,,65.019674,25.551849,2,http://oulunliikenne.fi/2045,0,,Europe/Helsinki
+
