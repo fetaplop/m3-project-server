@@ -1,14 +1,30 @@
-{
-    "name": "line name",
-    "stopId": 4949493,
-    "stopCode": 2222,
-    "longitude": 3939399939,
-    "latitude": 5555555
-}
-{
-    "name": "line 2",
-    "stopId": 4949493,
-    "stopCode": 2222,
-    "longitude": 3939399939,
-    "latitude": 5555555
-}
+[
+    {
+        "busLines": [
+            2,
+            3
+        ],
+        "_id": "5ec6bc9c88ecdd6090e60dd7",
+        "name": "Puulinnanmaa P",
+        "stopId": 300419,
+        "stopCode": 1796,
+        "longitude": 65.055656,
+        "latitude": 25.462143
+    },
+    {
+        "busLines": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            8
+        ],
+        "_id": "5ec6bce488ecdd6090e60dd8",
+        "name": "Yliopisto P",
+        "stopId": 120544,
+        "stopCode": 1770,
+        "longitude": 65.058942,
+        "latitude": 25.469927
+    }
+]

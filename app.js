@@ -10,7 +10,8 @@ const cors = require('cors');
 require('dotenv').config();
 
 const authRouter = require('./routes/authRouter');
-const stopRouter = require("./routes/stopRouter");
+//const stopRouter = require("./routes/stopRouter");
+const gtfsStopRouter = require("./routes/gtfsStopRouter");
 const userRouter = require("./routes/userRouter");
 
 
@@ -71,7 +72,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 // ROUTER MIDDLEWARE
 app.use('/auth', authRouter);
 // stops router here:
-app.use("/stops", stopRouter);
+//app.use("/stops", stopRouter);
+app.use("/stops", gtfsStopRouter);
 // private user router here:
 app.use("/user", userRouter);
 
