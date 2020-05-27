@@ -1,5 +1,6 @@
 const gtfs = require("gtfs");
 const mongoose = require("mongoose");
+require("dotenv").config()
 
 // now using actual gtfs data to seed the database.
 
@@ -7,7 +8,7 @@ const mongoose = require("mongoose");
 const config = {
 
     //mongoUrl: 'mongodb://localhost:27017/gtfs', // documentation example
-    mongoUrl: "mongodb://localhost:27017/oulu-bus-stops-data",
+    mongoUrl: process.env.MONGODB_URI,
     agencies: [
         {
             agency_key: "Oulun Joukkoliikenne",
