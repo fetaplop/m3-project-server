@@ -31,6 +31,8 @@ gtfsStopRouter.get("/:id", (req, res, next) => {
 
     GtfsStop.findById(id)
         .then((stop) => {
+            // axios.get(urlString, optionsObjectsWithHeaders //or maybe no need to put headers myself).then(response => {response.data //parse whatever i get// })
+            // for development, maybe save some responses from the server and use it as test data for client end
             console.log('stop by db id:', stop)
             res.status(200)
                 .json(stop)
