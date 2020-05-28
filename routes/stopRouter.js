@@ -10,7 +10,7 @@ const Stop = require("../models/Stop");
 const User = require("../models/User")
 
 // IMPORTANT: probably should only get the STATIC data once. how do we handle this? Call this route only once when the whole app is run. 
-// so this is taken care of now when we only call this in ComponentDidMount when we land the home page ^^
+// so this is taken care of now by using REDUX  ^^
 // GET    '/stops/'
 stopRouter.get("/", (req, res, next) => {
     Stop.find()
@@ -62,7 +62,7 @@ stopRouter.post("/:id/save", isLoggedIn, (req, res, next) => { //isLoggedin!!!
                     {new: true} // new: true => return updated version of user HAD TO TAKE THIS OUT
 
                 ))
-                // try returning whole user and update it in next then block
+                // try returning whole user and update it in next then block ?
                 // return userFound
             }
         })
@@ -82,7 +82,7 @@ stopRouter.post("/:id/save", isLoggedIn, (req, res, next) => { //isLoggedin!!!
 
 
     // I promise to find user by id and update favStops 
-    ////////////////////// old version with no chekcking if stop is already a favourite
+    ////////////////////// OLD version with no checking if stop is already a favourite
     // User.findByIdAndUpdate(
     //     {_id: req.session.currentUser._id},
     //     {$push: {favStops: id}}, // for unlike just the same with $pull ??
@@ -103,7 +103,7 @@ stopRouter.post("/:id/unsave", isLoggedIn, (req, res, next) => {
         .then((userUpdated) => {
             console.log('userUpdated', userUpdated)
             res.status(200)
-                .json(userUpdated) // this shows whatever!!
+                .json(userUpdated) // can I make this json be something else?? not super clear what the json says..
         })
         .catch((err) => next(createError(err)))
 
@@ -114,72 +114,7 @@ stopRouter.post("/:id/unsave", isLoggedIn, (req, res, next) => {
 // We edit the user profile by changing the user's favourite stops array. It could be done with PUT or in my mind, POST.
 
 // -------------------------------------------------------------------------------------------------------
-// THESE DO NOT WORK except one of them, almost... leaving them for now
-// PUT    '/stops/:id/save'
-// stopRouter.put("/:id/save", (req, res, next) => {
-//     // stop id in collection
-//     const {id} = req.params;
-
-//     // THIS WAY IT WORKS BUT UPDATES DO NOT SHOW UP IN COMPASS
-//     // Stop.findById(id)
-//     //     .then((stop) => {
-//     //         console.log('stop obj that we are trying to add to favourites: ', stop)
-
-//     //         // this requires a check if we are logged in or no????
-//     //         const user = req.session.currentUser;
-//     //         console.log('user before adding new fav stop:', user)
-
-
-//     //         // actually can I really do this???
-//     //         user.favStops.push(stop)
-//     //         console.log('user.favStops after pushing new stop to favourites: ', user.favStops)
-//     //         res.status(201) // should be  201 (Created)
-//     //             .json(stop) // could be removed maybe
-//     //     })
-//     //     .catch((err) => next(createError(err)))
-
-//     // --------------------------------- try again: ---------------------------------------
-
-//     Stop.findById(id)
-//         .then((stop) => {
-//             console.log('stop obj that we are trying to add to favourites: ', stop)
-
-//             // this requires a check if we are logged in or no????
-//             const userID = req.session.currentUser._id;
-//             //console.log('user before adding new fav stop:', user)
-
-//             return User.findByIdAndUpdate({userID}, {$push: {favStops: stop._id}})
-//         })
-//         .then(userUpdated => {
-//             console.log('userUpdated: ', userUpdated)
-//             res.status(201) // should be  201 (Created)
-//                 .json(userUpdated) // could be removed maybe
-//         })
-//         .catch((err) => next(createError(err)))
-
-//     // --------------------------another way: (chained promises)-------------------------------
-//     // let promiseStop = Stop.findById(id)
-//     //     .then((stop) => {
-//     //         console.log('stop obj that we are trying to add to favourites: ', stop)
-//     //     })
-//     //     .catch((err) => next(createError(err)))
-
-//     // let promiseUser = User.findByIdAndUpdate({_id: req.session.currentUser._id}, {$push: {favStops: stop._id}})
-//     //     .then((userUpdated) => {
-//     //         console.log('userUpdated is the second promise: ', userUpdated)
-//     //     })
-//     //     .catch((err) => next(createError(err)))
-
-//     // Promise.all([promiseStop, promiseUser])
-//     //     .then(resultArr => {
-//     //         console.log('resultArray from promise all: ', resArr)
-//     //         res.status(201)
-//     //         .json(resultArr)
-//     //     })
-//     //     .catch((err) => next(createError(err)))
-
-
-// })
+// Keeping one old PUT method in case we want to change back...
 
 // // PUT    '/stops/:id/unsave'
 // stopRouter.put("/:id/unsave", (req, res, next) => {

@@ -19,7 +19,6 @@ This is an app that provides all the bus stops within Oulu region. A user can se
 -  **Logout:** As a user I can log out
 -  **Favourite bus stops** As a user I can save bus stops to my favourites and also unfavourite them
 -  **View saved bus stops** As a user I can look at all my favourite stops
--  **404:** As an anon/user I can see a 404 page if I try to reach a page that does not exist
 
 ## Backlog
 
@@ -31,6 +30,7 @@ This is an app that provides all the bus stops within Oulu region. A user can se
 - Display received data continuously on the bus stop page
 - Dark theme (as default)
 - Confirm if user really wants to delete their account to avoid accidents
+- error messages
 
 <br>
 
@@ -50,7 +50,7 @@ User model
 }
 ```
 
-Stop model
+Stop model (early version in development)
 
 ```javascript
  {
@@ -63,6 +63,26 @@ Stop model
  }
 ```
 
+GtfsStop model (this is used in deployed version)
+
+''' javascript 
+  {
+    stop_id: {type: String},
+    stop_code: {type: String},
+    stop_name: {type: String},
+    stop_desc: {type: String},
+    stop_lat: {type: Number},
+    stop_lon: {type: Number},
+    zone_id: {type: String},
+    stop_url: {type: String},
+    location_type: {Number},
+    parent_station: {type: String},
+    stop_timezone: {type: String},
+    agency_key: {type: String},
+    created_at: {type: Date},
+    loc: [{type: Number}]
+  }
+'''
 
 <br>
 
@@ -158,7 +178,7 @@ The url to your repository and to your deployed project
 
 [Server repository Link](https://github.com/screeeen/project-server)
 
-[Deployed App Link](http://heroku.com)
+[Deployed App Link](https://oulu-bus-stops.herokuapp.com/)
 
 ### Slides
 

@@ -72,8 +72,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 // ROUTER MIDDLEWARE
 app.use('/auth', authRouter);
 // stops router here:
-//app.use("/stops", stopRouter);
-app.use("/stops", gtfsStopRouter);
+//app.use("/stops", stopRouter); // test data version
+app.use("/stops", gtfsStopRouter); // real data version
 // private user router here:
 app.use("/user", userRouter);
 

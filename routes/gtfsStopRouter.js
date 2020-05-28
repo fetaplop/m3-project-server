@@ -31,6 +31,7 @@ gtfsStopRouter.get("/:id", (req, res, next) => {
 
     GtfsStop.findById(id)
         .then((stop) => {
+            // some notes for when I actually make calls to the SIRI feed:
             // axios.get(urlString, optionsObjectsWithHeaders //or maybe no need to put headers myself).then(response => {response.data //parse whatever i get// })
             // for development, maybe save some responses from the server and use it as test data for client end
             console.log('stop by db id:', stop)
@@ -62,7 +63,7 @@ gtfsStopRouter.post("/:id/save", isLoggedIn, (req, res, next) => { //isLoggedin!
                 return (User.updateOne( // return a promise of updating this USer
                     {_id: userID},
                     {$push: {favStops: id}},
-                    {new: true} // new: true => return updated version of user HAD TO TAKE THIS OUT
+                    {new: true} // new: true => I want to return updated version of user
 
                 ))
 
@@ -85,7 +86,7 @@ gtfsStopRouter.post("/:id/unsave", isLoggedIn, (req, res, next) => {
     // I promise to find user and update favStops 
     User.findByIdAndUpdate(
         {_id: req.session.currentUser._id},
-        {$pull: {favStops: id}}, // for unlike $pull 
+        {$pull: {favStops: id}}, // for unlike use $pull 
         {new: true} //returns updtaed version of user
     )
         .then((userUpdated) => {
@@ -98,7 +99,7 @@ gtfsStopRouter.post("/:id/unsave", isLoggedIn, (req, res, next) => {
 })
 
 // PHILOSOPHY HOUR: 
-// I decided to use POST for saving/unsaving fave bus stops since practically I "post a like" by hitting a button in views.
+// I decided to use POST for saving/unsaving fave bus stops since we add new information to that user.
 // We edit the user profile by changing the user's favourite stops array. It could be done with PUT or in my mind, POST.
 
 module.exports = gtfsStopRouter
