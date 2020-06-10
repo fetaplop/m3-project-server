@@ -3,13 +3,17 @@
 
 <br>
 
-# Bus arrival info table
-
-<br>
+# Oulu Bus Stops
 
 ## Description
 
-This is an app that provides all the bus stops within Oulu region. A user can search for bus stops by name.
+This is an app that provides all the bus stops within Oulu region. A user can search for bus stops by name and save stops as their favourites if they're logged-in. 
+
+Note: there have been some changes to bus stops in Linnanmaa area after seeding the app's database (last seeded in late May 2020) so the data is not 100% up-to-date. I will probably reseed after taking some steps to start using live stop monitoring data.
+
+## Instructions
+
+You need to clone, do npm install and run both the server and client to run this app in dev mode. To see how the app works, check the link at the bottom of this readme to find a link to the deployed version instead! Please note that since the platform (Heroku) is free of charge, it might take a little while for the server to wake up and there is nothing I can do about it.
 
 ## User Stories
 
@@ -22,6 +26,7 @@ This is an app that provides all the bus stops within Oulu region. A user can se
 
 ## Backlog
 
+- Reseed DB after recent changes to Linnanmaa but stops!
 - Tap into SIRI stop monitoring data:
 	- Request bus stop information by stop ID using correct GTFS and SIRI formats
 	- Receive data back 
@@ -29,9 +34,11 @@ This is an app that provides all the bus stops within Oulu region. A user can se
 - Filter relevant data: buses servicing this stop and their respective arrival times
 - Display received data continuously on the bus stop page
 - Dark theme (as default)
-- Confirm if user really wants to delete their account to avoid accidents
-- Error messages
+- Confirm if user really wants to delete their account to avoid accidents (FRONTEND)
+- Error messages (in FRONTEND for bad login/signup requests )
 - Add about page / instructions
+- Bug fix for refreshing stop page
+
 
 <br>
 
@@ -64,9 +71,9 @@ Stop model (early version in development)
  }
 ```
 
-GtfsStop model (this is used in deployed version)
+GtfsStop model (this is used in the deployed version)
 
-''' javascript 
+``` javascript 
   {
     stop_id: {type: String},
     stop_code: {type: String},
@@ -83,7 +90,7 @@ GtfsStop model (this is used in deployed version)
     created_at: {type: Date},
     loc: [{type: Number}]
   }
-'''
+```
 
 <br>
 
@@ -166,25 +173,12 @@ GtfsStop model (this is used in deployed version)
 
 ## Links
 
-### Trello
-
-[Link to trello board](https://trello.com/b/OGpErkbe/m3-project) 
-
+Check here my server repo or find the deployed version in Heroku!
 
 ### Git
 
-The url to your repository and to your deployed project
+[Server repository](https://github.com/fetaplop/m3-project-server)
 
-[Client repository Link](https://github.com/screeeen/project-client)
+### Heroku
 
-[Server repository Link](https://github.com/screeeen/project-server)
-
-[Deployed App Link](https://oulu-bus-stops.herokuapp.com/)
-
-### Slides
-
-Link to presentation slides:
-
-[Google docs](https://docs.google.com/presentation/d/19Opyk2assP9dvp23J3F6bSyP0neStAKX_ojzPP3TPZo/edit#slide=id.g85cc0abd99_0_45)
-
-
+[Deployed App](https://oulu-bus-stops.herokuapp.com/)
