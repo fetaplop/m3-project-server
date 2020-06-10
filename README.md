@@ -19,6 +19,7 @@ If you are still determined to run this on your machine, here are the steps. I c
 
 - Clone the server repository
 - run `npm install` in your VS Code terminal (on repository folder root level!)
+- make sure you have MongoDB running
 - navigate to the folder "bin"
 - run `node seed.js` in your VS Code terminal (if you skip this, there will be no bus stops)
 - navigate back to root level
