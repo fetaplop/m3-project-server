@@ -13,7 +13,7 @@ Note: there have been some changes to bus stops in Linnanmaa area after seeding 
 
 ## Instructions
 
-There is no easy way to run this app since you need to clone both the server and the client (which has its own repo, check the links at the bottom) and then you would need to seed the database. To see how the app works, check the link at the bottom of this readme to find a link to the deployed version instead! Please note that since the platform (Heroku) is free of charge, it might take a little while for the server to wake up and there is nothing I can do about it.
+There is no easy way to run this app locally since you need to clone both the server and the client (which has its own repo, check the links at the bottom) and then you would need to seed the database. To see how the app works, check the link at the bottom of this readme to find a link to the deployed version instead! Please note that since the platform (Heroku) is free of charge, it might take a little while for the server to wake up and there is nothing I can do about it.
 
 If you are still determined to run this on your machine, here are the steps. I cannot guarantee that these will work on a mac or linux system since I was using Win10 as my dev environment. The instructions are for installing and running the app in Visual Studio Code. Also, you will need MongoDB _running_ so that the database works. The data is from May 2020 but it's already partially deprecated. Anyway, here goes!
 
