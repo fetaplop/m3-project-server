@@ -13,7 +13,19 @@ Note: there have been some changes to bus stops in Linnanmaa area after seeding 
 
 ## Instructions
 
-You need to clone, do npm install and run both the server and client to run this app in dev mode. To see how the app works, check the link at the bottom of this readme to find a link to the deployed version instead! Please note that since the platform (Heroku) is free of charge, it might take a little while for the server to wake up and there is nothing I can do about it.
+There is no easy way to run this app since you need to clone both the server (which has its own repo, check the links at the bottom) and the client and then you would need to seed the database. To see how the app works, check the link at the bottom of this readme to find a link to the deployed version instead! Please note that since the platform (Heroku) is free of charge, it might take a little while for the server to wake up and there is nothing I can do about it.
+
+If you are still determined to run this on your machine, here are the steps. I cannot guarantee that these will work on a mac or linux system since I was using Win10 as my dev environment. The instructions are for installing and running the app in Visual Studio Code. Also, you will need MongoDB _running_ so that the database works. The data is from May 2020 but it's already partially deprecated. Anyway, here goes!
+
+- Clone the server repository
+- run `npm install` in your VS Code terminal (on repository folder root level!)
+- navigate to the folder "bin"
+- run `node seed.js` in your VS Code terminal (if you skip this, there will be no bus stops)
+- navigate back to root level
+- updating the instructions, trying to figure out how to fix .env issue.. nothing will run without the .env file!
+<!-- add .env file and paste inside: REACT_APP_API_URL=http://localhost:5666 -->
+- run `npm startdev` in your VS Code terminal
+- this should be it for the backend, now check the steps for frontend!
 
 ## User Stories
 
@@ -114,71 +126,8 @@ GtfsStop model (this is used in the deployed version)
 
 <br>
 
-# Client / Frontend
-
-## React Router Routes (React App)
-| Path                      | Component            | Permissions                | Behavior                                                      |
-| ------------------------- | -------------------- | -------------------------- | ------------------------------------------------------------- |
-| `/home`                   | HomePage             | public `<Route>`           | Home page, where any user can search for bus stops            |
-| `/home/:stopID`           | StopPage             | public `<Route>`           | Shows specific bus stop info with fave-btn for user only      |
-| `/signup`                 | SignupPage           | anon only `<AnonRoute>`    | Signup form, link to login, navigate to login after signup    |
-| `/login`                  | LoginPage            | anon only `<AnonRoute>`    | Login form, link to signup, navigate to homepage after login  |
-| `/favourites`             | MyPage               | user only `<PrivateRoute>` | Displays list of saved stops                                  |
-
-
-
-## Components
-
-- LoginPage
-
-- SignupPage
-
-- HomePage
-
-- Search
-
-- (Results??)
-
-- StopLink
-
-- StopPage
-
-- MyFavourites
-
-- Navbar
-
- 
-
-## Services
-
-- Auth Service
-  - auth.login(user)
-  - auth.signup(user)
-  - auth.logout()
-  - auth.me()
-
-- Stop Service
-  - stop.getAll()
-  - stop.getOne(id)
-  - stop.save(id)
-  - stop.unsave(id)
-
-- User Service
-
-  - user.favourites()
-  - user.delete()
-
-<br>
-
 
 ## Links
 
-Check here my client repo or find the deployed version in Heroku!
+Check [here my client repo in GitHub](https://github.com/fetaplop/m3-project-client) or find the [deployed version in Heroku!](https://oulu-bus-stops.herokuapp.com/)
 
-### Git
-
-[Client repository](https://github.com/fetaplop/m3-project-client)
-
-### Heroku
-
-[Deployed App](https://oulu-bus-stops.herokuapp.com/)
