@@ -173,11 +173,11 @@ GtfsStop model (this is used in the deployed version)
 
 ## Links
 
-Check here my server repo or find the deployed version in Heroku!
+Check here my client repo or find the deployed version in Heroku!
 
 ### Git
 
-[Server repository](https://github.com/fetaplop/m3-project-server)
+[Client repository](https://github.com/fetaplop/m3-project-client)
 
 ### Heroku
 
