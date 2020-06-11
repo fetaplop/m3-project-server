@@ -22,10 +22,12 @@ If you are still determined to run this on your machine, here are the steps. I c
 - run `npm install` in your terminal (root level!)
 - create a new file on root level and name it ```.env```
 - paste inside the following and save it:
+
   MONGODB_URI=mongodb://localhost:27017/oulu-bus-stops-data
   PUBLIC_DOMAIN=http://localhost:3000
   SECRET_SESSION=veryveryveryverysecrit
   PORT=5666
+  
 - navigate to the folder "bin"
 - run `node seed.js` (if you skip this, there will be no bus stops)
 - navigate back to root level
