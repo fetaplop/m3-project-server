@@ -13,11 +13,11 @@ Note: there have been some changes to bus stops in Linnanmaa area after seeding 
 
 ## Instructions
 
-There is no easy way to run this app locally since you need to clone both the server and the client (which has its own repo, check the links at the bottom) and then you would need to seed the database. To see how the app works, go to the [deployed version](https://oulu-bus-stops.herokuapp.com/) instead! Please note that since the platform (Heroku) is free of charge, it might take a little while for the server to wake up.
+In order to run this app locally, you need to clone both the server and the client (which has its own [repo](https://github.com/fetaplop/m3-project-client)) and then you would need to seed the database. To just see how the app works, go to the [deployed version](https://oulu-bus-stops.herokuapp.com/) instead! Please note that since the platform (Heroku) is free of charge, it might take a little while for the server to wake up.
 
-If you are still determined to run this on your machine, here are the steps. I cannot guarantee that these will work on a mac or linux system since I was using Win10 as my dev environment. The instructions are for installing and running the app in Visual Studio Code. Also, you will need MongoDB _running_ so that the database works. The data is from May 2020 but it's already partially deprecated. Anyway, here goes!
+If you are still determined to run this on your machine, here are the steps. I cannot guarantee that these will work on a mac or linux system since I was using Win10 as my dev environment. The instructions are for installing and running the app in Visual Studio Code. *You will need node v12.4.x or newer*. I used *12.16.1* during development. Also, you will need *MongoDB* _running_ so that the database works. The data is from May 2020 but it's already partially deprecated. Anyway, here goes!
 
-- make sure you have MongoDB running
+- make sure you have MongoDB running and a compatible version of node.js
 - run `git clone https://github.com/fetaplop/m3-project-server.git` to clone the server repository
 - run `npm install` in your terminal (root level!)
 - create a new file on root level and name it ```.env```
