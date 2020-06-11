@@ -1,6 +1,6 @@
 const gtfs = require("gtfs");
 const mongoose = require("mongoose");
-require("dotenv").config()
+require("dotenv").config({path: "../.env"}) // adding relative path to .env since there might be issues finding it otherwise
 
 // now using actual gtfs data to seed the database.
 

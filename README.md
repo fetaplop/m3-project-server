@@ -20,12 +20,16 @@ If you are still determined to run this on your machine, here are the steps. I c
 - make sure you have MongoDB running
 - run `git clone https://github.com/fetaplop/m3-project-server.git` to clone the server repository
 - run `npm install` in your terminal (root level!)
+- create a new file on root level and name it ```.env```
+- paste inside the following and save it:
+  MONGODB_URI=mongodb://localhost:27017/oulu-bus-stops-data
+  PUBLIC_DOMAIN=http://localhost:3000
+  SECRET_SESSION=veryveryveryverysecrit
+  PORT=5666
 - navigate to the folder "bin"
 - run `node seed.js` (if you skip this, there will be no bus stops)
 - navigate back to root level
-- updating the instructions, trying to figure out how to fix .env issue.. nothing will run without the .env file!
-<!-- add .env file and paste inside: REACT_APP_API_URL=http://localhost:5666 -->
-- run `npm startdev`
+- run `npm run startdev`
 - this should be it for the backend, now check the steps for frontend!
 
 ## User Stories
