@@ -9,6 +9,8 @@ const {isLoggedIn} = require("../helpers/middlewares");
 const Stop = require("../models/Stop");
 const User = require("../models/User")
 
+// NOTE: this router is NOT USED ANYMORE  after adding gtfsRouter
+
 // IMPORTANT: probably should only get the STATIC data once. how do we handle this? Call this route only once when the whole app is run. 
 // so this is taken care of now by using REDUX  ^^
 // GET    '/stops/'
