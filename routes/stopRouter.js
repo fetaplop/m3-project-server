@@ -47,10 +47,9 @@ stopRouter.post("/:id/save", isLoggedIn, (req, res, next) => { //isLoggedin!!!
 
     User.findById(userID)//_id: req.session.currentUser._id
         .then((userFound) => {
-            console.log('userFound', userFound)
-            console.log('userFound.favStops', userFound.favStops)
-            console.log('this id is supposed to be the stop id, just checking if its still visible in user.findbyId', id)
-            console.log('typeof id', typeof id)
+            //console.log('userFound', userFound)
+            //console.log('this id is supposed to be the stop id, just checking if its still visible in user.findbyId', id)
+            //console.log('typeof id', typeof id)
             if (userFound.favStops.includes(id)) {
                 // this is already in userfaves, do not add again!
                 throw new Error("Stop is already in user favourites, will not add it again")
@@ -81,8 +80,8 @@ stopRouter.post("/:id/save", isLoggedIn, (req, res, next) => { //isLoggedin!!!
         .catch((err) => next(createError(err)))
 
 
-    // I promise to find user by id and update favStops 
     ////////////////////// OLD version with no checking if stop is already a favourite
+    // I promise to find user by id and update favStops 
     // User.findByIdAndUpdate(
     //     {_id: req.session.currentUser._id},
     //     {$push: {favStops: id}}, // for unlike just the same with $pull ??
@@ -111,7 +110,7 @@ stopRouter.post("/:id/unsave", isLoggedIn, (req, res, next) => {
 
 // PHILOSOPHY HOUR: 
 // I decided to use POST for saving/unsaving fave bus stops since practically I "post a like" by hitting a button in views.
-// We edit the user profile by changing the user's favourite stops array. It could be done with PUT or in my mind, POST.
+// We edit the user profile by changing the user's favourite stops array. It could be done with PUT or POST.
 
 // -------------------------------------------------------------------------------------------------------
 // Keeping one old PUT method in case we want to change back...
