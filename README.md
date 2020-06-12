@@ -18,10 +18,10 @@ In order to run this app locally, you need to clone both the server and the clie
 If you are still determined to run this on your machine, here are the steps. I cannot guarantee that these will work on a mac or linux system since I was using Win10 as my dev environment. The instructions are for installing and running the app in Visual Studio Code. **You will need node v12.4.x or newer**. I used **12.16.1** during development. Also, you will need **MongoDB** _running_ so that the database works. The data is from May 2020 but it's already partially deprecated. Anyway, here goes!
 
 - make sure you have MongoDB running and a compatible version of node.js
-- run `git clone https://github.com/fetaplop/m3-project-server.git` to clone the server repository
-- run `npm install` in your terminal (root level!)
+- to clone the server repository, run `git clone https://github.com/fetaplop/m3-project-server.git` 
+- run `npm install` in your terminal (server root level)
 - create a new file on root level and name it ```.env```
-- paste inside the following and save it:
+- open the new file, paste inside the following and save it:
 
 ```
 MONGODB_URI=mongodb://localhost:27017/oulu-bus-stops-data
@@ -34,7 +34,7 @@ PORT=5666
 - run `node seed.js` (if you skip this, there will be no bus stops)
 - navigate back to root level
 - run `npm run startdev`
-- this should be it for the backend, now check the steps for frontend!
+- this should be it for the backend, now check the steps for [frontend!](https://github.com/fetaplop/m3-project-client)
 
 ## User Stories
 
